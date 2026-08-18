@@ -1,0 +1,7 @@
+[ {
+  "id" : 1,
+  "username" : "test",
+  "email" : "test@gmail.com",
+  "passwordHash" : "$2a$10$Y/hkz.vyGXQhJhASinHrGerH4oURKzZntJsM.0E3gRGwkRTiI9JsW",
+  "role" : "USER"
+} ]
