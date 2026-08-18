@@ -48,10 +48,17 @@ public class User implements UserDetails {
     @Column(name = "status")
     private Integer status;
 
-    // Implement UserDetails methods (minimal for auth)
     @Override
     public Collection<? extends GrantedAuthority> getAuthorities() {
-        return List.of(new SimpleGrantedAuthority("ROLE_" + role.getName().toUpperCase()));
+        if (role == null || role.getName() == null) {
+            return List.of();
+        }
+
+        return List.of(
+                new SimpleGrantedAuthority(
+                        "ROLE_" + role.getName().toUpperCase()
+                )
+        );
     }
 
     @Override
@@ -61,7 +68,7 @@ public class User implements UserDetails {
 
     @Override
     public String getUsername() {
-        return email; // Use email as username for Spring Security
+        return email;
     }
 
     @Override
@@ -81,6 +88,6 @@ public class User implements UserDetails {
 
     @Override
     public boolean isEnabled() {
-        return true;
+        return status == null || status == 1;
     }
 }

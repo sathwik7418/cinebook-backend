@@ -1,7 +1,7 @@
 package com.cinebook.config;
 
-import com.cinebook.user.model.User;
-import com.cinebook.user.repository.UserRepository;
+import com.cinebook.user.model.JsonUserPrincipal;
+import com.cinebook.user.service.JsonUserService;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;
@@ -15,14 +15,13 @@ import org.springframework.stereotype.Component;
 import org.springframework.web.filter.OncePerRequestFilter;
 
 import java.io.IOException;
-import java.util.Optional;
 
 @Component
 @RequiredArgsConstructor
 public class JwtAuthenticationFilter extends OncePerRequestFilter {
 
     private final JwtService jwtService;
-    private final UserRepository userRepository;
+    private final JsonUserService jsonUserService;
 
     @Override
     protected void doFilterInternal(
@@ -33,34 +32,50 @@ public class JwtAuthenticationFilter extends OncePerRequestFilter {
 
         String authHeader = request.getHeader("Authorization");
 
-        if (authHeader == null || !authHeader.startsWith("Bearer ")) {
+        if (authHeader == null ||
+                !authHeader.startsWith("Bearer ")) {
+
             filterChain.doFilter(request, response);
             return;
         }
 
         String token = authHeader.substring(7);
-        String email;
 
         try {
-            email = jwtService.extractEmail(token);
-        } catch (Exception e) {
-            // Malformed/invalid token — treat as unauthenticated, let
-            // downstream authorization rules decide (401/403), rather
-            // than throwing here.
-            filterChain.doFilter(request, response);
-            return;
-        }
 
-        if (email != null && SecurityContextHolder.getContext().getAuthentication() == null) {
-            Optional<User> userOpt = userRepository.findByEmail(email);
+            String email = jwtService.extractEmail(token);
 
-            if (userOpt.isPresent() && jwtService.isTokenValid(token, email)) {
-                User user = userOpt.get();
-                UsernamePasswordAuthenticationToken authToken =
-                        new UsernamePasswordAuthenticationToken(user, null, user.getAuthorities());
-                authToken.setDetails(new WebAuthenticationDetailsSource().buildDetails(request));
-                SecurityContextHolder.getContext().setAuthentication(authToken);
+            if (email != null &&
+                    SecurityContextHolder
+                            .getContext()
+                            .getAuthentication() == null) {
+
+                JsonUserPrincipal user =
+                        jsonUserService.findUserByEmail(email);
+
+                if (user != null &&
+                        jwtService.isTokenValid(token, email)) {
+
+                    UsernamePasswordAuthenticationToken authToken =
+                            new UsernamePasswordAuthenticationToken(
+                                    user,
+                                    null,
+                                    user.getAuthorities()
+                            );
+
+                    authToken.setDetails(
+                            new WebAuthenticationDetailsSource()
+                                    .buildDetails(request)
+                    );
+
+                    SecurityContextHolder
+                            .getContext()
+                            .setAuthentication(authToken);
+                }
             }
+
+        } catch (Exception ignored) {
+            // Invalid JWT is treated as unauthenticated.
         }
 
         filterChain.doFilter(request, response);
