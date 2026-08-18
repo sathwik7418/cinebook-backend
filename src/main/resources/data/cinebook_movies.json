@@ -4,7 +4,7 @@
     "title": "Kalki 2898 AD",
     "description": "A futuristic myth-inspired saga blending sci-fi and Indian epic storytelling, following a bounty hunter drawn into a battle for humanity's future.",
     "poster": "/images/movies/kalki.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/kalki-backdrop.jpg",
     "trailerUrl": "",
     "language": "Telugu",
     "genres": ["Science Fiction", "Action", "Drama"],

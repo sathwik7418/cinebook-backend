@@ -4,4 +4,28 @@
   "email" : "test@gmail.com",
   "passwordHash" : "$2a$10$Y/hkz.vyGXQhJhASinHrGerH4oURKzZntJsM.0E3gRGwkRTiI9JsW",
   "role" : "USER"
+}, {
+  "id" : 2,
+  "username" : "5",
+  "email" : "5@gmail.com",
+  "passwordHash" : "$2a$10$f5MWW3LJxYEUzmTMjz3QIecWvTegT8pZ3MisYnkWgjzITy7pwXwoO",
+  "role" : "USER"
+}, {
+  "id" : 3,
+  "username" : "1",
+  "email" : "1@gmail.com",
+  "passwordHash" : "$2a$10$pXQvctfC1XOQVvWOxouB7.vtumrv3EP45mAEwC0lUgLNnC./EUT32",
+  "role" : "USER"
+}, {
+  "id" : 3,
+  "username" : "1",
+  "email" : "1@gmail.com",
+  "passwordHash" : "$2a$10$m9.6ejI7hAINijmlVuLg2eFca5eaQdGwMgDWwsCthjdpVjGt08/TO",
+  "role" : "USER"
+}, {
+  "id" : 4,
+  "username" : "demo",
+  "email" : "demo@gmail.com",
+  "passwordHash" : "$2a$10$LcdmH4voQunaHqtWnMwyS.DDnLBZ559zPUXQJcpYLu9sZv2xtT2WW",
+  "role" : "USER"
 } ]
