@@ -1,0 +1,404 @@
+[
+  {
+    "id": 1,
+    "username": "telugu_cinephile",
+    "email": "telugu.cinephile@example.com",
+    "avatar": "",
+    "favoriteGenres": [
+      "Action",
+      "Drama"
+    ],
+    "favoriteLanguages": [
+      "Telugu"
+    ]
+  },
+  {
+    "id": 2,
+    "username": "tollywood_tara",
+    "email": "tollywood.tara@example.com",
+    "avatar": "",
+    "favoriteGenres": [
+      "Romance",
+      "Drama"
+    ],
+    "favoriteLanguages": [
+      "Telugu"
+    ]
+  },
+  {
+    "id": 3,
+    "username": "malayalam_maven",
+    "email": "malayalam.maven@example.com",
+    "avatar": "",
+    "favoriteGenres": [
+      "Drama",
+      "Thriller"
+    ],
+    "favoriteLanguages": [
+      "Malayalam"
+    ]
+  },
+  {
+    "id": 4,
+    "username": "kochi_moviebuff",
+    "email": "kochi.moviebuff@example.com",
+    "avatar": "",
+    "favoriteGenres": [
+      "Psychological",
+      "Crime"
+    ],
+    "favoriteLanguages": [
+      "Malayalam"
+    ]
+  },
+  {
+    "id": 5,
+    "username": "kollywood_fan99",
+    "email": "kollywood.fan99@example.com",
+    "avatar": "",
+    "favoriteGenres": [
+      "Action",
+      "Crime"
+    ],
+    "favoriteLanguages": [
+      "Tamil"
+    ]
+  },
+  {
+    "id": 6,
+    "username": "chennai_screentime",
+    "email": "chennai.screentime@example.com",
+    "avatar": "",
+    "favoriteGenres": [
+      "Drama",
+      "Romance"
+    ],
+    "favoriteLanguages": [
+      "Tamil"
+    ]
+  },
+  {
+    "id": 7,
+    "username": "bollywood_binge",
+    "email": "bollywood.binge@example.com",
+    "avatar": "",
+    "favoriteGenres": [
+      "Drama",
+      "Romance"
+    ],
+    "favoriteLanguages": [
+      "Hindi"
+    ]
+  },
+  {
+    "id": 8,
+    "username": "hindi_talkies",
+    "email": "hindi.talkies@example.com",
+    "avatar": "",
+    "favoriteGenres": [
+      "Biography",
+      "Drama"
+    ],
+    "favoriteLanguages": [
+      "Hindi"
+    ]
+  },
+  {
+    "id": 9,
+    "username": "hollywood_hank",
+    "email": "hollywood.hank@example.com",
+    "avatar": "",
+    "favoriteGenres": [
+      "Science Fiction",
+      "Thriller"
+    ],
+    "favoriteLanguages": [
+      "English"
+    ]
+  },
+  {
+    "id": 10,
+    "username": "imax_ian",
+    "email": "imax.ian@example.com",
+    "avatar": "",
+    "favoriteGenres": [
+      "Action",
+      "Science Fiction"
+    ],
+    "favoriteLanguages": [
+      "English"
+    ]
+  },
+  {
+    "id": 11,
+    "username": "nolan_nut",
+    "email": "nolan.nut@example.com",
+    "avatar": "",
+    "favoriteGenres": [
+      "Science Fiction",
+      "Mystery"
+    ],
+    "favoriteLanguages": [
+      "English"
+    ]
+  },
+  {
+    "id": 12,
+    "username": "inception_isla",
+    "email": "inception.isla@example.com",
+    "avatar": "",
+    "favoriteGenres": [
+      "Thriller",
+      "Science Fiction"
+    ],
+    "favoriteLanguages": [
+      "English"
+    ]
+  },
+  {
+    "id": 13,
+    "username": "maniratnam_fan",
+    "email": "maniratnam.fan@example.com",
+    "avatar": "",
+    "favoriteGenres": [
+      "Romance",
+      "Drama"
+    ],
+    "favoriteLanguages": [
+      "Tamil",
+      "Hindi"
+    ]
+  },
+  {
+    "id": 14,
+    "username": "roja_reveries",
+    "email": "roja.reveries@example.com",
+    "avatar": "",
+    "favoriteGenres": [
+      "Drama",
+      "Romance"
+    ],
+    "favoriteLanguages": [
+      "Tamil"
+    ]
+  },
+  {
+    "id": 15,
+    "username": "classic_reels",
+    "email": "classic.reels@example.com",
+    "avatar": "",
+    "favoriteGenres": [
+      "Drama",
+      "Music"
+    ],
+    "favoriteLanguages": [
+      "Telugu",
+      "Tamil"
+    ]
+  },
+  {
+    "id": 16,
+    "username": "goldenage_gita",
+    "email": "goldenage.gita@example.com",
+    "avatar": "",
+    "favoriteGenres": [
+      "Mythology",
+      "Drama"
+    ],
+    "favoriteLanguages": [
+      "Telugu"
+    ]
+  },
+  {
+    "id": 17,
+    "username": "mainstream_manoj",
+    "email": "mainstream.manoj@example.com",
+    "avatar": "",
+    "favoriteGenres": [
+      "Action",
+      "Comedy"
+    ],
+    "favoriteLanguages": [
+      "Telugu",
+      "Hindi"
+    ]
+  },
+  {
+    "id": 18,
+    "username": "weekend_watcher",
+    "email": "weekend.watcher@example.com",
+    "avatar": "",
+    "favoriteGenres": [
+      "Comedy",
+      "Family"
+    ],
+    "favoriteLanguages": [
+      "Telugu",
+      "Malayalam"
+    ]
+  },
+  {
+    "id": 19,
+    "username": "arthouse_amrita",
+    "email": "arthouse.amrita@example.com",
+    "avatar": "",
+    "favoriteGenres": [
+      "Psychological",
+      "Drama"
+    ],
+    "favoriteLanguages": [
+      "Malayalam"
+    ]
+  },
+  {
+    "id": 20,
+    "username": "action_avinash",
+    "email": "action.avinash@example.com",
+    "avatar": "",
+    "favoriteGenres": [
+      "Action",
+      "Thriller"
+    ],
+    "favoriteLanguages": [
+      "Telugu",
+      "Tamil"
+    ]
+  },
+  {
+    "id": 21,
+    "username": "rom_com_riya",
+    "email": "romcom.riya@example.com",
+    "avatar": "",
+    "favoriteGenres": [
+      "Romance",
+      "Comedy"
+    ],
+    "favoriteLanguages": [
+      "Telugu",
+      "Hindi"
+    ]
+  },
+  {
+    "id": 22,
+    "username": "horror_hemanth",
+    "email": "horror.hemanth@example.com",
+    "avatar": "",
+    "favoriteGenres": [
+      "Horror",
+      "Psychological"
+    ],
+    "favoriteLanguages": [
+      "Malayalam",
+      "Telugu"
+    ]
+  },
+  {
+    "id": 23,
+    "username": "epic_saga_sam",
+    "email": "epicsaga.sam@example.com",
+    "avatar": "",
+    "favoriteGenres": [
+      "Fantasy",
+      "Historical"
+    ],
+    "favoriteLanguages": [
+      "Telugu"
+    ]
+  },
+  {
+    "id": 24,
+    "username": "crime_thriller_cara",
+    "email": "crimethriller.cara@example.com",
+    "avatar": "",
+    "favoriteGenres": [
+      "Crime",
+      "Thriller"
+    ],
+    "favoriteLanguages": [
+      "Tamil",
+      "Malayalam"
+    ]
+  },
+  {
+    "id": 25,
+    "username": "musicfilm_meera",
+    "email": "musicfilm.meera@example.com",
+    "avatar": "",
+    "favoriteGenres": [
+      "Music",
+      "Drama"
+    ],
+    "favoriteLanguages": [
+      "Telugu"
+    ]
+  },
+  {
+    "id": 26,
+    "username": "war_drama_wes",
+    "email": "wardrama.wes@example.com",
+    "avatar": "",
+    "favoriteGenres": [
+      "War",
+      "History"
+    ],
+    "favoriteLanguages": [
+      "English"
+    ]
+  },
+  {
+    "id": 27,
+    "username": "biopic_bala",
+    "email": "biopic.bala@example.com",
+    "avatar": "",
+    "favoriteGenres": [
+      "Biography",
+      "Drama"
+    ],
+    "favoriteLanguages": [
+      "Hindi",
+      "English"
+    ]
+  },
+  {
+    "id": 28,
+    "username": "familytime_farah",
+    "email": "familytime.farah@example.com",
+    "avatar": "",
+    "favoriteGenres": [
+      "Family",
+      "Drama"
+    ],
+    "favoriteLanguages": [
+      "Telugu",
+      "Tamil"
+    ]
+  },
+  {
+    "id": 29,
+    "username": "night_show_nikhil",
+    "email": "nightshow.nikhil@example.com",
+    "avatar": "",
+    "favoriteGenres": [
+      "Thriller",
+      "Crime"
+    ],
+    "favoriteLanguages": [
+      "Telugu",
+      "English"
+    ]
+  },
+  {
+    "id": 30,
+    "username": "spy_thriller_shalini",
+    "email": "spythriller.shalini@example.com",
+    "avatar": "",
+    "favoriteGenres": [
+      "Spy Thriller",
+      "Action"
+    ],
+    "favoriteLanguages": [
+      "Telugu",
+      "English"
+    ]
+  }
+]

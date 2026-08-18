@@ -1,0 +1,40 @@
+-- Initial schema migration
+-- Users & Roles
+CREATE TABLE IF NOT EXISTS roles (
+  id BIGSERIAL PRIMARY KEY,
+  name VARCHAR(32) NOT NULL UNIQUE
+);
+
+INSERT INTO roles (name) VALUES ('ADMIN'), ('USER'), ('THEATRE_MANAGER') ON CONFLICT DO NOTHING;
+
+CREATE TABLE IF NOT EXISTS users (
+  id BIGSERIAL PRIMARY KEY,
+  username VARCHAR(50) NOT NULL UNIQUE,
+  email VARCHAR(100) NOT NULL UNIQUE,
+  password_hash VARCHAR(128) NOT NULL,
+  role_id BIGINT NOT NULL REFERENCES roles(id) ON DELETE SET NULL,
+  created_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP
+);
+
+-- Cinema & Theatres
+CREATE TABLE IF NOT EXISTS cinemas (
+  id BIGSERIAL PRIMARY KEY,
+  name VARCHAR(100) NOT NULL,
+  address VARCHAR(200)
+);
+
+CREATE TABLE IF NOT EXISTS theatres (
+  id BIGSERIAL PRIMARY KEY,
+  cinema_id BIGINT NOT NULL REFERENCES cinemas(id) ON DELETE CASCADE,
+  name VARCHAR(100) NOT NULL
+);
+
+-- Movies
+CREATE TABLE IF NOT EXISTS movies (
+  id BIGSERIAL PRIMARY KEY,
+  title VARCHAR(200) NOT NULL,
+  duration INT NOT NULL,
+  rating VARCHAR(10)
+);
+
+-- Showtimes, seats, bookings tables will be added in later phases.

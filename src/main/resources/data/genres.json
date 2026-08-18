@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "name": "Action",
+    "description": "High-energy films built around physical conflict, stunts, and dynamic set pieces."
+  },
+  {
+    "id": 2,
+    "name": "Adventure",
+    "description": "Journey-driven stories involving exploration, danger, and discovery."
+  },
+  {
+    "id": 3,
+    "name": "Anthology",
+    "description": "Films composed of multiple, loosely connected stories or segments."
+  },
+  {
+    "id": 4,
+    "name": "Biography",
+    "description": "Dramatized accounts of real people's lives and achievements."
+  },
+  {
+    "id": 5,
+    "name": "Comedy",
+    "description": "Films designed primarily to entertain and amuse through humor."
+  },
+  {
+    "id": 6,
+    "name": "Crime",
+    "description": "Stories centered on criminal acts, investigations, or the underworld."
+  },
+  {
+    "id": 7,
+    "name": "Devotional",
+    "description": "Films centered on religious faith, mythology, and spiritual devotion."
+  },
+  {
+    "id": 8,
+    "name": "Drama",
+    "description": "Character-driven stories exploring realistic, often emotional situations."
+  },
+  {
+    "id": 9,
+    "name": "Family",
+    "description": "Films suitable for and centered on the dynamics of family life."
+  },
+  {
+    "id": 10,
+    "name": "Fantasy",
+    "description": "Stories set in imaginative worlds featuring magic or supernatural elements."
+  },
+  {
+    "id": 11,
+    "name": "Historical",
+    "description": "Films set in and inspired by real historical periods and events."
+  },
+  {
+    "id": 12,
+    "name": "History",
+    "description": "Films that dramatize significant real-world historical events."
+  },
+  {
+    "id": 13,
+    "name": "Horror",
+    "description": "Films designed to frighten, unsettle, or evoke dread in the audience."
+  },
+  {
+    "id": 14,
+    "name": "Music",
+    "description": "Films centered on musicians, musical performance, or a musical art form."
+  },
+  {
+    "id": 15,
+    "name": "Mystery",
+    "description": "Plot-driven stories built around solving a puzzle or hidden truth."
+  },
+  {
+    "id": 16,
+    "name": "Mythology",
+    "description": "Stories drawn from or inspired by traditional myths and epics."
+  },
+  {
+    "id": 17,
+    "name": "Psychological",
+    "description": "Films that explore the inner mental and emotional states of characters."
+  },
+  {
+    "id": 18,
+    "name": "Romance",
+    "description": "Stories centered on the development of romantic relationships."
+  },
+  {
+    "id": 19,
+    "name": "Science Fiction",
+    "description": "Speculative stories exploring futuristic or scientific concepts."
+  },
+  {
+    "id": 20,
+    "name": "Spy Thriller",
+    "description": "Suspense films centered on espionage and covert operations."
+  },
+  {
+    "id": 21,
+    "name": "Superhero",
+    "description": "Films centered on characters with extraordinary powers and heroic missions."
+  },
+  {
+    "id": 22,
+    "name": "Survival",
+    "description": "Stories centered on characters fighting to endure extreme circumstances."
+  },
+  {
+    "id": 23,
+    "name": "Thriller",
+    "description": "Suspense-driven films designed to keep audiences on edge."
+  },
+  {
+    "id": 24,
+    "name": "War",
+    "description": "Films depicting armed conflict and its impact on soldiers and civilians."
+  },
+  {
+    "id": 25,
+    "name": "Animation",
+    "description": "Films created using animated visual techniques rather than live action."
+  },
+  {
+    "id": 26,
+    "name": "Musical",
+    "description": "Films where songs and dance numbers are central to the storytelling."
+  },
+  {
+    "id": 27,
+    "name": "Sports",
+    "description": "Films centered on athletes, competition, and the world of sport."
+  },
+  {
+    "id": 28,
+    "name": "Coming-of-Age",
+    "description": "Stories that follow a character's growth from youth toward maturity."
+  },
+  {
+    "id": 29,
+    "name": "Neo-Noir",
+    "description": "Modern films that draw on the moody, cynical style of classic film noir."
+  },
+  {
+    "id": 30,
+    "name": "Period Drama",
+    "description": "Dramas set in a distinct, carefully recreated historical era."
+  }
+]

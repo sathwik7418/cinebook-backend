@@ -1,0 +1,408 @@
+[
+  {
+    "id": 1,
+    "name": "PVR ICON Banjara Hills",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "address": "Road No. 1, Banjara Hills, Hyderabad",
+    "screens": 6,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Dolby Atmos",
+      "Recliner Seating"
+    ],
+    "formats": [
+      "2D",
+      "3D",
+      "4DX"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "name": "AMB Cinemas",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "address": "Gachibowli, Hyderabad",
+    "screens": 4,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Dolby Atmos",
+      "IMAX"
+    ],
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "rating": 4.7
+  },
+  {
+    "id": 3,
+    "name": "Prasads IMAX",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "address": "NTR Gardens Road, Necklace Road, Hyderabad",
+    "screens": 6,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "IMAX",
+      "Dolby Atmos"
+    ],
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "rating": 4.6
+  },
+  {
+    "id": 4,
+    "name": "INOX GVK One",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "address": "GVK One Mall, Banjara Hills, Hyderabad",
+    "screens": 5,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Dolby Atmos"
+    ],
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": 5,
+    "name": "Sudarshan 35MM",
+    "city": "Secunderabad",
+    "state": "Telangana",
+    "address": "SD Road, Secunderabad",
+    "screens": 3,
+    "facilities": [
+      "Parking",
+      "Food Court"
+    ],
+    "formats": [
+      "2D"
+    ],
+    "rating": 4.1
+  },
+  {
+    "id": 6,
+    "name": "PVR Panjagutta",
+    "city": "Secunderabad",
+    "state": "Telangana",
+    "address": "Panjagutta, Secunderabad",
+    "screens": 4,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Dolby Atmos"
+    ],
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "rating": 4.2
+  },
+  {
+    "id": 7,
+    "name": "PVR Forum Mall",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "address": "Forum Mall, Koramangala, Bengaluru",
+    "screens": 11,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Dolby Atmos",
+      "Recliner Seating"
+    ],
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": 8,
+    "name": "INOX Garuda Mall",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "address": "Garuda Mall, Magrath Road, Bengaluru",
+    "screens": 6,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Dolby Atmos"
+    ],
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": 9,
+    "name": "Cinepolis Royal Meenakshi Mall",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "address": "Bannerghatta Road, Bengaluru",
+    "screens": 9,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "4DX",
+      "Dolby Atmos"
+    ],
+    "formats": [
+      "2D",
+      "3D",
+      "4DX"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": 10,
+    "name": "PVR Icon VR Chennai",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "address": "VR Mall, Anna Nagar, Chennai",
+    "screens": 8,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Dolby Atmos",
+      "Recliner Seating"
+    ],
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "rating": 4.6
+  },
+  {
+    "id": 11,
+    "name": "Sathyam Cinemas",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "address": "Royapettah, Chennai",
+    "screens": 5,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Dolby Atmos"
+    ],
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": 12,
+    "name": "Rohini Silver Screens",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "address": "Rohini Complex, Chennai",
+    "screens": 4,
+    "facilities": [
+      "Parking",
+      "Food Court"
+    ],
+    "formats": [
+      "2D"
+    ],
+    "rating": 4.2
+  },
+  {
+    "id": 13,
+    "name": "PVR Lulu Mall",
+    "city": "Kochi",
+    "state": "Kerala",
+    "address": "Lulu Mall, Edappally, Kochi",
+    "screens": 11,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Dolby Atmos",
+      "IMAX"
+    ],
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": 14,
+    "name": "Cinepolis Oberon Mall",
+    "city": "Kochi",
+    "state": "Kerala",
+    "address": "Oberon Mall, Edappally, Kochi",
+    "screens": 7,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Dolby Atmos"
+    ],
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": 15,
+    "name": "Kalabhavan Theatre",
+    "city": "Thiruvananthapuram",
+    "state": "Kerala",
+    "address": "M.G. Road, Thiruvananthapuram",
+    "screens": 2,
+    "facilities": [
+      "Parking"
+    ],
+    "formats": [
+      "2D"
+    ],
+    "rating": 4.0
+  },
+  {
+    "id": 16,
+    "name": "PVR Chackai",
+    "city": "Thiruvananthapuram",
+    "state": "Kerala",
+    "address": "Chackai, Thiruvananthapuram",
+    "screens": 4,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Dolby Atmos"
+    ],
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "rating": 4.2
+  },
+  {
+    "id": 17,
+    "name": "PVR ICON Phoenix Marketcity",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "address": "Phoenix Marketcity, Kurla, Mumbai",
+    "screens": 10,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Dolby Atmos",
+      "Recliner Seating"
+    ],
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "rating": 4.6
+  },
+  {
+    "id": 18,
+    "name": "INOX Nariman Point",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "address": "Nariman Point, Mumbai",
+    "screens": 4,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Dolby Atmos"
+    ],
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": 19,
+    "name": "Regal Cinema",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "address": "Colaba, Mumbai",
+    "screens": 1,
+    "facilities": [
+      "Heritage Hall"
+    ],
+    "formats": [
+      "2D"
+    ],
+    "rating": 4.0
+  },
+  {
+    "id": 20,
+    "name": "PVR Select Citywalk",
+    "city": "Delhi",
+    "state": "Delhi",
+    "address": "Select Citywalk Mall, Saket, Delhi",
+    "screens": 8,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Dolby Atmos",
+      "IMAX"
+    ],
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "rating": 4.6
+  },
+  {
+    "id": 21,
+    "name": "DT Mega Mall Cinemas",
+    "city": "Delhi",
+    "state": "Delhi",
+    "address": "Rohini Sector 18, Delhi",
+    "screens": 6,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Dolby Atmos"
+    ],
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "rating": 4.2
+  },
+  {
+    "id": 22,
+    "name": "Cinepolis DLF Promenade",
+    "city": "Delhi",
+    "state": "Delhi",
+    "address": "Vasant Kunj, Delhi",
+    "screens": 7,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "4DX",
+      "Dolby Atmos"
+    ],
+    "formats": [
+      "2D",
+      "3D",
+      "4DX"
+    ],
+    "rating": 4.5
+  }
+]

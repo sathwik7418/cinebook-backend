@@ -1,0 +1,26 @@
+target/
+*.log
+*.err
+*.out
+.idea/
+.vscode/
+*.iml
+.DS_Store
+.env
+
+# Local test/debug files
+test_output*.txt
+omniroute-model*.txt
+omniroute-model-test-results.csv
+
+# Local helper/debug files
+FixFlyway.java
+FixFlywayChecksum.java
+fix_flyway.bat
+fix_flyway_checksum.sql
+flyway_repair.bat
+mvn
+repair_flyway.bat
+repair_flyway_mvn.bat
+run-backend.ps1
+run_app.bat

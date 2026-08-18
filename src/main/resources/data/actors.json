@@ -1,0 +1,815 @@
+[
+  {
+    "id": 1,
+    "name": "Prabhas",
+    "profileImage": "",
+    "bio": "Telugu leading actor known for headlining large-scale pan-Indian blockbusters.",
+    "knownFor": [
+      1,
+      11,
+      18,
+      33
+    ],
+    "nationality": "Indian"
+  },
+  {
+    "id": 2,
+    "name": "Mahesh Babu",
+    "profileImage": "",
+    "bio": "One of Telugu cinema's most popular leading actors, known for stylish commercial hits.",
+    "knownFor": [
+      6,
+      29,
+      32
+    ],
+    "nationality": "Indian"
+  },
+  {
+    "id": 3,
+    "name": "Allu Arjun",
+    "profileImage": "",
+    "bio": "Telugu star actor celebrated for his dancing and mass-entertainer performances.",
+    "knownFor": [
+      3
+    ],
+    "nationality": "Indian"
+  },
+  {
+    "id": 4,
+    "name": "Ram Charan",
+    "profileImage": "",
+    "bio": "Telugu leading actor known for high-energy action roles and pan-Indian films.",
+    "knownFor": [
+      12,
+      30,
+      34
+    ],
+    "nationality": "Indian"
+  },
+  {
+    "id": 5,
+    "name": "Nani",
+    "profileImage": "",
+    "bio": "Telugu actor known for versatile, content-driven performances across genres.",
+    "knownFor": [
+      5,
+      14
+    ],
+    "nationality": "Indian"
+  },
+  {
+    "id": 6,
+    "name": "Pawan Kalyan",
+    "profileImage": "",
+    "bio": "Telugu actor and politician with a large fan following for his mass-hero roles.",
+    "knownFor": [
+      16,
+      17,
+      28
+    ],
+    "nationality": "Indian"
+  },
+  {
+    "id": 7,
+    "name": "Chiranjeevi",
+    "profileImage": "",
+    "bio": "Veteran Telugu superstar regarded as one of the most influential actors in Tollywood history.",
+    "knownFor": [
+      27
+    ],
+    "nationality": "Indian"
+  },
+  {
+    "id": 8,
+    "name": "Venkatesh",
+    "profileImage": "",
+    "bio": "Veteran Telugu actor known for a long career spanning family dramas and action films.",
+    "knownFor": [
+      8,
+      32
+    ],
+    "nationality": "Indian"
+  },
+  {
+    "id": 9,
+    "name": "Nagarjuna",
+    "profileImage": "",
+    "bio": "Veteran Telugu actor known for his versatility across commercial and experimental cinema.",
+    "knownFor": [
+      7,
+      26
+    ],
+    "nationality": "Indian"
+  },
+  {
+    "id": 10,
+    "name": "Nandamuri Balakrishna",
+    "profileImage": "",
+    "bio": "Veteran Telugu actor known for his mass-hero image and prolific filmography.",
+    "knownFor": [
+      9,
+      13
+    ],
+    "nationality": "Indian"
+  },
+  {
+    "id": 11,
+    "name": "Vijay Deverakonda",
+    "profileImage": "",
+    "bio": "Telugu actor known for youthful, rebellious on-screen roles.",
+    "knownFor": [
+      15
+    ],
+    "nationality": "Indian"
+  },
+  {
+    "id": 12,
+    "name": "Rana Daggubati",
+    "profileImage": "",
+    "bio": "Telugu-Hindi actor known for intense roles in large ensemble films.",
+    "knownFor": [
+      33
+    ],
+    "nationality": "Indian"
+  },
+  {
+    "id": 13,
+    "name": "Sai Pallavi",
+    "profileImage": "",
+    "bio": "Actress known for naturalistic performances across Telugu, Tamil, and Malayalam cinema.",
+    "knownFor": [
+      57
+    ],
+    "nationality": "Indian"
+  },
+  {
+    "id": 14,
+    "name": "Samantha",
+    "profileImage": "",
+    "bio": "Actress known for strong performances across Telugu and Tamil cinema.",
+    "knownFor": [
+      32,
+      34,
+      50
+    ],
+    "nationality": "Indian"
+  },
+  {
+    "id": 15,
+    "name": "Rashmika Mandanna",
+    "profileImage": "",
+    "bio": "Actress who rose to prominence in Kannada and Telugu cinema before going pan-Indian.",
+    "knownFor": [
+      3
+    ],
+    "nationality": "Indian"
+  },
+  {
+    "id": 16,
+    "name": "Anushka Shetty",
+    "profileImage": "",
+    "bio": "Actress known for prominent roles in major Telugu and Tamil blockbusters.",
+    "knownFor": [
+      31,
+      33
+    ],
+    "nationality": "Indian"
+  },
+  {
+    "id": 17,
+    "name": "Sreeleela",
+    "profileImage": "",
+    "bio": "Telugu actress known for her energetic dance-oriented performances.",
+    "knownFor": [
+      6,
+      9
+    ],
+    "nationality": "Indian"
+  },
+  {
+    "id": 18,
+    "name": "Jagapathi Babu",
+    "profileImage": "",
+    "bio": "Veteran Telugu actor known for supporting and lead roles across genres.",
+    "knownFor": [
+      6,
+      9
+    ],
+    "nationality": "Indian"
+  },
+  {
+    "id": 19,
+    "name": "Akkineni Nageswara Rao",
+    "profileImage": "",
+    "bio": "Legendary Telugu actor and one of the pioneers of golden-age Telugu cinema.",
+    "knownFor": [
+      19,
+      20,
+      21
+    ],
+    "nationality": "Indian"
+  },
+  {
+    "id": 20,
+    "name": "N. T. Rama Rao",
+    "profileImage": "",
+    "bio": "Iconic Telugu actor and former Chief Minister, revered for his mythological roles.",
+    "knownFor": [
+      19,
+      20
+    ],
+    "nationality": "Indian"
+  },
+  {
+    "id": 21,
+    "name": "Savitri",
+    "profileImage": "",
+    "bio": "Legendary Telugu-Tamil actress considered one of Indian cinema's finest performers.",
+    "knownFor": [
+      19,
+      20,
+      21
+    ],
+    "nationality": "Indian"
+  },
+  {
+    "id": 22,
+    "name": "Teja Sajja",
+    "profileImage": "",
+    "bio": "Telugu actor known for his breakout superhero role in HanuMan.",
+    "knownFor": [
+      2
+    ],
+    "nationality": "Indian"
+  },
+  {
+    "id": 23,
+    "name": "Nawazuddin Siddiqui",
+    "profileImage": "",
+    "bio": "Acclaimed Hindi film actor known for intense, character-driven performances.",
+    "knownFor": [
+      8
+    ],
+    "nationality": "Indian"
+  },
+  {
+    "id": 24,
+    "name": "Bobby Deol",
+    "profileImage": "",
+    "bio": "Hindi film actor who found renewed acclaim through supporting antagonist roles.",
+    "knownFor": [
+      13,
+      16
+    ],
+    "nationality": "Indian"
+  },
+  {
+    "id": 25,
+    "name": "Kajal Aggarwal",
+    "profileImage": "",
+    "bio": "Actress known for lead roles across Telugu, Tamil, and Hindi cinema.",
+    "knownFor": [
+      18,
+      30
+    ],
+    "nationality": "Indian"
+  },
+  {
+    "id": 26,
+    "name": "Emraan Hashmi",
+    "profileImage": "",
+    "bio": "Hindi film actor known for roles in thrillers and romantic dramas.",
+    "knownFor": [
+      17
+    ],
+    "nationality": "Indian"
+  },
+  {
+    "id": 27,
+    "name": "Kiara Advani",
+    "profileImage": "",
+    "bio": "Actress known for lead roles in mainstream Hindi and Telugu cinema.",
+    "knownFor": [
+      12
+    ],
+    "nationality": "Indian"
+  },
+  {
+    "id": 28,
+    "name": "Priyanka Mohan",
+    "profileImage": "",
+    "bio": "Actress known for lead roles across Telugu and Tamil cinema.",
+    "knownFor": [
+      5,
+      17
+    ],
+    "nationality": "Indian"
+  },
+  {
+    "id": 29,
+    "name": "Mohanlal",
+    "profileImage": "",
+    "bio": "Veteran Malayalam superstar celebrated as one of Indian cinema's finest actors.",
+    "knownFor": [
+      18,
+      52,
+      53,
+      54,
+      55,
+      73
+    ],
+    "nationality": "Indian"
+  },
+  {
+    "id": 30,
+    "name": "Mammootty",
+    "profileImage": "",
+    "bio": "Veteran Malayalam superstar known for his range across commercial and art cinema.",
+    "knownFor": [
+      68,
+      71
+    ],
+    "nationality": "Indian"
+  },
+  {
+    "id": 31,
+    "name": "Fahadh Faasil",
+    "profileImage": "",
+    "bio": "Actor acclaimed for his understated, versatile performances in Malayalam cinema.",
+    "knownFor": [
+      3,
+      48,
+      50,
+      58,
+      62,
+      66
+    ],
+    "nationality": "Indian"
+  },
+  {
+    "id": 32,
+    "name": "Prithviraj Sukumaran",
+    "profileImage": "",
+    "bio": "Malayalam actor and filmmaker known for his range and screen presence.",
+    "knownFor": [
+      11
+    ],
+    "nationality": "Indian"
+  },
+  {
+    "id": 33,
+    "name": "Tovino Thomas",
+    "profileImage": "",
+    "bio": "Malayalam actor known for diverse roles across genres.",
+    "knownFor": [
+      64
+    ],
+    "nationality": "Indian"
+  },
+  {
+    "id": 34,
+    "name": "Nivin Pauly",
+    "profileImage": "",
+    "bio": "Malayalam actor known for relatable, youthful lead performances.",
+    "knownFor": [
+      56,
+      57
+    ],
+    "nationality": "Indian"
+  },
+  {
+    "id": 35,
+    "name": "Parvathy Thiruvothu",
+    "profileImage": "",
+    "bio": "Malayalam actress acclaimed for her nuanced, socially aware performances.",
+    "knownFor": [
+      61,
+      64
+    ],
+    "nationality": "Indian"
+  },
+  {
+    "id": 36,
+    "name": "Nazriya Nazim",
+    "profileImage": "",
+    "bio": "Actress known for popular roles in Malayalam and Tamil cinema.",
+    "knownFor": [
+      56
+    ],
+    "nationality": "Indian"
+  },
+  {
+    "id": 37,
+    "name": "Shobana",
+    "profileImage": "",
+    "bio": "Veteran actress and classical dancer acclaimed across Malayalam and Tamil cinema.",
+    "knownFor": [
+      53,
+      71
+    ],
+    "nationality": "Indian"
+  },
+  {
+    "id": 38,
+    "name": "Dulquer Salmaan",
+    "profileImage": "",
+    "bio": "Actor known for his versatility across Malayalam, Tamil, and Telugu cinema.",
+    "knownFor": [
+      4,
+      56,
+      60,
+      61,
+      77
+    ],
+    "nationality": "Indian"
+  },
+  {
+    "id": 39,
+    "name": "Soubin Shahir",
+    "profileImage": "",
+    "bio": "Malayalam actor and filmmaker known for grounded, realistic performances.",
+    "knownFor": [
+      62,
+      67
+    ],
+    "nationality": "Indian"
+  },
+  {
+    "id": 40,
+    "name": "Sridevi",
+    "profileImage": "",
+    "bio": "Legendary actress regarded as one of Indian cinema's most iconic performers.",
+    "knownFor": [
+      36
+    ],
+    "nationality": "Indian"
+  },
+  {
+    "id": 41,
+    "name": "Meena",
+    "profileImage": "",
+    "bio": "Veteran actress known for prominent roles across South Indian cinema.",
+    "knownFor": [
+      41,
+      55
+    ],
+    "nationality": "Indian"
+  },
+  {
+    "id": 42,
+    "name": "Rajinikanth",
+    "profileImage": "",
+    "bio": "Iconic Tamil superstar known for his unmatched mass-hero screen presence.",
+    "knownFor": [
+      40,
+      41,
+      71
+    ],
+    "nationality": "Indian"
+  },
+  {
+    "id": 43,
+    "name": "Kamal Haasan",
+    "profileImage": "",
+    "bio": "Veteran actor and filmmaker celebrated for his versatility across Indian cinema.",
+    "knownFor": [
+      1,
+      22,
+      24,
+      25,
+      36,
+      37,
+      38,
+      39,
+      44,
+      48
+    ],
+    "nationality": "Indian"
+  },
+  {
+    "id": 44,
+    "name": "Suriya",
+    "profileImage": "",
+    "bio": "Tamil actor known for socially conscious roles and mainstream action films.",
+    "knownFor": [
+      43,
+      46
+    ],
+    "nationality": "Indian"
+  },
+  {
+    "id": 45,
+    "name": "Vikram",
+    "profileImage": "",
+    "bio": "Tamil actor known for his transformative range across genres.",
+    "knownFor": [
+      42
+    ],
+    "nationality": "Indian"
+  },
+  {
+    "id": 46,
+    "name": "Vijay Sethupathi",
+    "profileImage": "",
+    "bio": "Tamil actor acclaimed for his understated, naturalistic performances.",
+    "knownFor": [
+      48,
+      49,
+      50,
+      78
+    ],
+    "nationality": "Indian"
+  },
+  {
+    "id": 47,
+    "name": "Trisha Krishnan",
+    "profileImage": "",
+    "bio": "Actress known for lead roles across Tamil and Telugu cinema.",
+    "knownFor": [
+      49
+    ],
+    "nationality": "Indian"
+  },
+  {
+    "id": 48,
+    "name": "Jyothika",
+    "profileImage": "",
+    "bio": "Actress known for a prolific career across Tamil cinema.",
+    "knownFor": [
+      43
+    ],
+    "nationality": "Indian"
+  },
+  {
+    "id": 49,
+    "name": "Simran",
+    "profileImage": "",
+    "bio": "Actress known for lead roles in 1990s and 2000s Tamil cinema.",
+    "knownFor": [
+      47
+    ],
+    "nationality": "Indian"
+  },
+  {
+    "id": 50,
+    "name": "Madhavan",
+    "profileImage": "",
+    "bio": "Actor known for his versatility across Tamil and Hindi cinema.",
+    "knownFor": [
+      44,
+      47,
+      75,
+      76
+    ],
+    "nationality": "Indian"
+  },
+  {
+    "id": 51,
+    "name": "Arvind Swamy",
+    "profileImage": "",
+    "bio": "Tamil actor known for his collaborations with acclaimed filmmakers.",
+    "knownFor": [
+      70,
+      72,
+      78
+    ],
+    "nationality": "Indian"
+  },
+  {
+    "id": 52,
+    "name": "Sivaji Ganesan",
+    "profileImage": "",
+    "bio": "Legendary Tamil actor regarded as one of Indian cinema's greatest performers.",
+    "knownFor": [
+      35,
+      39
+    ],
+    "nationality": "Indian"
+  },
+  {
+    "id": 53,
+    "name": "Ileana D'Cruz",
+    "profileImage": "",
+    "bio": "Actress known for lead roles across Telugu and Hindi cinema.",
+    "knownFor": [
+      29
+    ],
+    "nationality": "Indian"
+  },
+  {
+    "id": 54,
+    "name": "Amitabh Bachchan",
+    "profileImage": "",
+    "bio": "Legendary Hindi film actor regarded as one of Indian cinema's most influential figures.",
+    "knownFor": [
+      1
+    ],
+    "nationality": "Indian"
+  },
+  {
+    "id": 55,
+    "name": "Shah Rukh Khan",
+    "profileImage": "",
+    "bio": "One of Hindi cinema's most popular leading actors.",
+    "knownFor": [
+      74
+    ],
+    "nationality": "Indian"
+  },
+  {
+    "id": 56,
+    "name": "Deepika Padukone",
+    "profileImage": "",
+    "bio": "Leading Hindi film actress known for major commercial and pan-Indian roles.",
+    "knownFor": [
+      1
+    ],
+    "nationality": "Indian"
+  },
+  {
+    "id": 57,
+    "name": "Aishwarya Rai",
+    "profileImage": "",
+    "bio": "Actress and former Miss World known for prominent roles across Indian cinema.",
+    "knownFor": [
+      73,
+      76
+    ],
+    "nationality": "Indian"
+  },
+  {
+    "id": 58,
+    "name": "Akshay Kumar",
+    "profileImage": "",
+    "bio": "Prolific Hindi film actor known for action and comedy roles.",
+    "knownFor": [
+      18
+    ],
+    "nationality": "Indian"
+  },
+  {
+    "id": 59,
+    "name": "Christian Bale",
+    "profileImage": "",
+    "bio": "British actor known for intense physical transformations and dramatic range.",
+    "knownFor": [
+      81,
+      82,
+      83,
+      85
+    ],
+    "nationality": "British"
+  },
+  {
+    "id": 60,
+    "name": "Heath Ledger",
+    "profileImage": "",
+    "bio": "Australian actor whose performance as the Joker earned widespread acclaim.",
+    "knownFor": [
+      83
+    ],
+    "nationality": "Australian"
+  },
+  {
+    "id": 61,
+    "name": "Cillian Murphy",
+    "profileImage": "",
+    "bio": "Irish actor known for his collaborations with Christopher Nolan.",
+    "knownFor": [
+      89
+    ],
+    "nationality": "Irish"
+  },
+  {
+    "id": 62,
+    "name": "Matthew McConaughey",
+    "profileImage": "",
+    "bio": "American actor known for his versatile career across drama and blockbusters.",
+    "knownFor": [
+      86
+    ],
+    "nationality": "American"
+  },
+  {
+    "id": 63,
+    "name": "Leonardo DiCaprio",
+    "profileImage": "",
+    "bio": "American actor known for his collaborations with major auteur filmmakers.",
+    "knownFor": [
+      84
+    ],
+    "nationality": "American"
+  },
+  {
+    "id": 64,
+    "name": "Tom Hardy",
+    "profileImage": "",
+    "bio": "British actor known for intense, physically committed performances.",
+    "knownFor": [
+      85,
+      87
+    ],
+    "nationality": "British"
+  },
+  {
+    "id": 65,
+    "name": "Anne Hathaway",
+    "profileImage": "",
+    "bio": "American actress known for her versatility across drama and blockbuster films.",
+    "knownFor": [
+      85,
+      86
+    ],
+    "nationality": "American"
+  },
+  {
+    "id": 66,
+    "name": "Michael Caine",
+    "profileImage": "",
+    "bio": "Veteran British actor known for his collaborations with Christopher Nolan.",
+    "knownFor": [
+      81
+    ],
+    "nationality": "British"
+  },
+  {
+    "id": 67,
+    "name": "Al Pacino",
+    "profileImage": "",
+    "bio": "Legendary American actor regarded as one of cinema's greatest performers.",
+    "knownFor": [
+      80
+    ],
+    "nationality": "American"
+  },
+  {
+    "id": 68,
+    "name": "Robin Williams",
+    "profileImage": "",
+    "bio": "Beloved American actor known for both comedic and dramatic performances.",
+    "knownFor": [
+      80
+    ],
+    "nationality": "American"
+  },
+  {
+    "id": 69,
+    "name": "Guy Pearce",
+    "profileImage": "",
+    "bio": "Australian actor known for his role in the acclaimed thriller Memento.",
+    "knownFor": [
+      79
+    ],
+    "nationality": "Australian"
+  },
+  {
+    "id": 70,
+    "name": "Emily Blunt",
+    "profileImage": "",
+    "bio": "British actress known for a versatile range across drama and blockbuster films.",
+    "knownFor": [
+      89
+    ],
+    "nationality": "British"
+  },
+  {
+    "id": 71,
+    "name": "Robert Downey Jr.",
+    "profileImage": "",
+    "bio": "American actor known for his dynamic screen presence across genres.",
+    "knownFor": [
+      89
+    ],
+    "nationality": "American"
+  },
+  {
+    "id": 72,
+    "name": "Matt Damon",
+    "profileImage": "",
+    "bio": "American actor known for leading roles across drama and action cinema.",
+    "knownFor": [
+      89
+    ],
+    "nationality": "American"
+  },
+  {
+    "id": 73,
+    "name": "John David Washington",
+    "profileImage": "",
+    "bio": "American actor known for his lead role in Tenet.",
+    "knownFor": [
+      88
+    ],
+    "nationality": "American"
+  },
+  {
+    "id": 74,
+    "name": "Robert Pattinson",
+    "profileImage": "",
+    "bio": "British actor known for his transition into acclaimed auteur-driven cinema.",
+    "knownFor": [
+      88
+    ],
+    "nationality": "British"
+  }
+]

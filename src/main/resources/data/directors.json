@@ -1,0 +1,588 @@
+[
+  {
+    "id": 1,
+    "name": "A. Karunakaran",
+    "profileImage": "",
+    "bio": "Telugu filmmaker best known for directing the romantic classic Tholi Prema.",
+    "filmography": [
+      28
+    ]
+  },
+  {
+    "id": 2,
+    "name": "A. M. Jyothi Krishna",
+    "profileImage": "",
+    "bio": "Telugu filmmaker known for large-scale period and action films.",
+    "filmography": [
+      16
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Alphonse Puthren",
+    "profileImage": "",
+    "bio": "Malayalam writer-director celebrated for his visually inventive romantic dramas.",
+    "filmography": [
+      57
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Anil Ravipudi",
+    "profileImage": "",
+    "bio": "Telugu director known for his commercially successful action-comedy films.",
+    "filmography": [
+      9
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Anjali Menon",
+    "profileImage": "",
+    "bio": "Malayalam filmmaker known for warm, character-driven ensemble dramas.",
+    "filmography": [
+      56
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Anwar Rasheed",
+    "profileImage": "",
+    "bio": "Malayalam director known for blending mainstream appeal with grounded storytelling.",
+    "filmography": [
+      60
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Bala",
+    "profileImage": "",
+    "bio": "Tamil filmmaker known for intense, socially conscious dramas.",
+    "filmography": [
+      42
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Balu Mahendra",
+    "profileImage": "",
+    "bio": "Acclaimed Tamil filmmaker and cinematographer known for poetic, realistic dramas.",
+    "filmography": [
+      36
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Bharathan",
+    "profileImage": "",
+    "bio": "Celebrated Malayalam and Tamil filmmaker known for lyrical, emotionally rich cinema.",
+    "filmography": [
+      39
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Blessy",
+    "profileImage": "",
+    "bio": "Malayalam director known for socially resonant, emotionally powerful dramas.",
+    "filmography": [
+      54
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Bobby Kolli",
+    "profileImage": "",
+    "bio": "Telugu director (credited as K. S. Ravindra) known for mass commercial entertainers.",
+    "filmography": [
+      13
+    ]
+  },
+  {
+    "id": 12,
+    "name": "C. Prem Kumar",
+    "profileImage": "",
+    "bio": "Tamil filmmaker known for nostalgic, emotionally grounded romantic dramas.",
+    "filmography": [
+      49
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Cheran",
+    "profileImage": "",
+    "bio": "Tamil actor-director known for socially conscious, realistic storytelling.",
+    "filmography": [
+      45
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Chidambaram",
+    "profileImage": "",
+    "bio": "Malayalam filmmaker who directed the acclaimed survival drama Manjummel Boys.",
+    "filmography": [
+      67
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Christopher Nolan",
+    "profileImage": "",
+    "bio": "British-American filmmaker known for ambitious, structurally inventive blockbusters.",
+    "filmography": [
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Dileesh Pothan",
+    "profileImage": "",
+    "bio": "Malayalam director known for understated, realistic character studies.",
+    "filmography": [
+      58
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Fazil",
+    "profileImage": "",
+    "bio": "Veteran Malayalam filmmaker known for genre-defining commercial cinema.",
+    "filmography": [
+      53
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Gautham Vasudev Menon",
+    "profileImage": "",
+    "bio": "Tamil filmmaker known for stylish, emotionally intense romantic and action dramas.",
+    "filmography": [
+      43,
+      46
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Gowtam Tinnanuri",
+    "profileImage": "",
+    "bio": "Telugu writer-director known for grounded, socially rooted storytelling.",
+    "filmography": [
+      15
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Jeethu Joseph",
+    "profileImage": "",
+    "bio": "Malayalam director best known for creating the acclaimed Drishyam franchise.",
+    "filmography": [
+      55
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Jeo Baby",
+    "profileImage": "",
+    "bio": "Malayalam filmmaker known for socially sharp, minimalist storytelling.",
+    "filmography": [
+      65
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Jithu Madhavan",
+    "profileImage": "",
+    "bio": "Malayalam writer-director known for blending humor with grounded drama.",
+    "filmography": [
+      66
+    ]
+  },
+  {
+    "id": 23,
+    "name": "K. Balachander",
+    "profileImage": "",
+    "bio": "Legendary Tamil filmmaker known for pioneering socially progressive cinema.",
+    "filmography": [
+      22
+    ]
+  },
+  {
+    "id": 24,
+    "name": "K. Raghavendra Rao",
+    "profileImage": "",
+    "bio": "Prolific Telugu director known for commercially successful mainstream cinema.",
+    "filmography": [
+      27
+    ]
+  },
+  {
+    "id": 25,
+    "name": "K. S. Ravikumar",
+    "profileImage": "",
+    "bio": "Veteran Tamil-Telugu director known for large-scale commercial entertainers.",
+    "filmography": [
+      41
+    ]
+  },
+  {
+    "id": 26,
+    "name": "K. Viswanath",
+    "profileImage": "",
+    "bio": "Revered Telugu filmmaker celebrated for his classical, art-infused dramas.",
+    "filmography": [
+      23,
+      24,
+      25
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Kadiri Venkata Reddy",
+    "profileImage": "",
+    "bio": "Pioneering Telugu filmmaker best known for the fantasy classic Mayabazar.",
+    "filmography": [
+      19
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Kodi Ramakrishna",
+    "profileImage": "",
+    "bio": "Prolific Telugu director known for mythological and horror-fantasy films.",
+    "filmography": [
+      31
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Krish Jagarlamudi",
+    "profileImage": "",
+    "bio": "Telugu filmmaker known for historical and biographical epics.",
+    "filmography": [
+      16
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Krishnan-Panju",
+    "profileImage": "",
+    "bio": "Pioneering Tamil directing duo known for socially significant early cinema.",
+    "filmography": [
+      35
+    ]
+  },
+  {
+    "id": 31,
+    "name": "L. V. Prasad",
+    "profileImage": "",
+    "bio": "Veteran filmmaker and studio founder known for family entertainers across languages.",
+    "filmography": [
+      20
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Lijo Jose Pellissery",
+    "profileImage": "",
+    "bio": "Acclaimed Malayalam filmmaker known for bold, genre-defying auteur cinema.",
+    "filmography": [
+      59,
+      63
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Lokesh Kanagaraj",
+    "profileImage": "",
+    "bio": "Tamil filmmaker known for his interconnected action-thriller cinematic universe.",
+    "filmography": [
+      48
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Madhu C. Narayanan",
+    "profileImage": "",
+    "bio": "Malayalam director known for the acclaimed family drama Kumbalangi Nights.",
+    "filmography": [
+      62
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Mani Ratnam",
+    "profileImage": "",
+    "bio": "Celebrated Indian filmmaker known for redefining Tamil and Hindi commercial cinema.",
+    "filmography": [
+      37,
+      47,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Manu Ashokan",
+    "profileImage": "",
+    "bio": "Malayalam director known for emotionally resonant, socially aware dramas.",
+    "filmography": [
+      64
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Martin Prakkat",
+    "profileImage": "",
+    "bio": "Malayalam filmmaker known for stylish, character-focused storytelling.",
+    "filmography": [
+      61
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Mukesh Kumar Singh",
+    "profileImage": "",
+    "bio": "Filmmaker known for large-scale devotional and mythological cinema.",
+    "filmography": [
+      18
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Nag Ashwin",
+    "profileImage": "",
+    "bio": "Telugu filmmaker known for ambitious, genre-blending contemporary cinema.",
+    "filmography": [
+      1
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Prasanth Varma",
+    "profileImage": "",
+    "bio": "Telugu director known for genre-bending fantasy and horror-comedy films.",
+    "filmography": [
+      2
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Prashanth Neel",
+    "profileImage": "",
+    "bio": "Filmmaker known for large-scale, high-octane pan-Indian action epics.",
+    "filmography": [
+      11
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Puri Jagannadh",
+    "profileImage": "",
+    "bio": "Telugu director known for stylish, mass-appeal action entertainers.",
+    "filmography": [
+      29
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Rahul Sadasivan",
+    "profileImage": "",
+    "bio": "Malayalam filmmaker known for atmospheric horror and psychological drama.",
+    "filmography": [
+      68
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Ram Gopal Varma",
+    "profileImage": "",
+    "bio": "Influential Indian filmmaker known for redefining Telugu and Hindi genre cinema.",
+    "filmography": [
+      26
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Ramu Kariat",
+    "profileImage": "",
+    "bio": "Pioneering Malayalam filmmaker best known for the classic Chemmeen.",
+    "filmography": [
+      51
+    ]
+  },
+  {
+    "id": 46,
+    "name": "S. S. Rajamouli",
+    "profileImage": "",
+    "bio": "Acclaimed Telugu filmmaker known for grand, large-scale epic filmmaking.",
+    "filmography": [
+      30,
+      33
+    ]
+  },
+  {
+    "id": 47,
+    "name": "S. Shankar",
+    "profileImage": "",
+    "bio": "Tamil-Telugu filmmaker known for spectacle-driven, socially themed blockbusters.",
+    "filmography": [
+      12
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Sai Rajesh",
+    "profileImage": "",
+    "bio": "Telugu director known for grounded, youthful romantic dramas.",
+    "filmography": [
+      10
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Sailesh Kolanu",
+    "profileImage": "",
+    "bio": "Telugu writer-director known for tightly crafted action-thriller storytelling.",
+    "filmography": [
+      8,
+      14
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Sibi Malayil",
+    "profileImage": "",
+    "bio": "Veteran Malayalam director known for critically acclaimed dramas.",
+    "filmography": [
+      52
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Singeetam Srinivasa Rao",
+    "profileImage": "",
+    "bio": "Veteran filmmaker known for inventive, genre-spanning classic cinema.",
+    "filmography": [
+      38
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Srikanth Addala",
+    "profileImage": "",
+    "bio": "Telugu director known for family-centric emotional dramas.",
+    "filmography": [
+      32
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Sujeeth",
+    "profileImage": "",
+    "bio": "Telugu director known for stylish, large-scale commercial action films.",
+    "filmography": [
+      17
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Sukumar",
+    "profileImage": "",
+    "bio": "Telugu filmmaker known for unconventional narratives and character-driven mass cinema.",
+    "filmography": [
+      3,
+      34
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Sundar C",
+    "profileImage": "",
+    "bio": "Tamil actor-director known for a versatile mix of commercial genre films.",
+    "filmography": [
+      44
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Suresh Krissna",
+    "profileImage": "",
+    "bio": "Tamil director known for iconic mass-entertainer action films.",
+    "filmography": [
+      40
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Thiagarajan Kumararaja",
+    "profileImage": "",
+    "bio": "Tamil filmmaker known for bold, unconventional anthology storytelling.",
+    "filmography": [
+      50
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Trivikram Srinivas",
+    "profileImage": "",
+    "bio": "Telugu writer-director known for dialogue-driven mainstream family entertainers.",
+    "filmography": [
+      6
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Vedantam Raghavaiah",
+    "profileImage": "",
+    "bio": "Veteran Telugu filmmaker known for classic tragic romantic cinema.",
+    "filmography": [
+      21
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Venky Atluri",
+    "profileImage": "",
+    "bio": "Telugu director known for grounded, emotionally driven storytelling.",
+    "filmography": [
+      4
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Vijay Binni",
+    "profileImage": "",
+    "bio": "Telugu director known for commercial action entertainers.",
+    "filmography": [
+      7
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Vivek Athreya",
+    "profileImage": "",
+    "bio": "Telugu writer-director known for stylish, character-driven storytelling.",
+    "filmography": [
+      5
+    ]
+  }
+]

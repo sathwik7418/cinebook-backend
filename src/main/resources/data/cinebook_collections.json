@@ -1,0 +1,135 @@
+[
+  {
+    "id": "telugu-new",
+    "name": "New Telugu Cinema",
+    "description": "The latest and most talked-about Telugu theatrical releases, spanning blockbusters, critical favorites, and fresh voices in Tollywood.",
+    "movieIds": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ]
+  },
+  {
+    "id": "telugu-classics",
+    "name": "Telugu Classics",
+    "description": "Beloved, culturally significant Telugu films spanning multiple generations, from golden-age classics to modern landmark hits.",
+    "movieIds": [
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
+    ]
+  },
+  {
+    "id": "tamil-classics",
+    "name": "Tamil Classics",
+    "description": "Timeless and critically acclaimed Tamil films that have shaped the identity of Kollywood cinema across decades.",
+    "movieIds": [
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50
+    ]
+  },
+  {
+    "id": "malayalam-favorites",
+    "name": "Malayalam Favorites",
+    "description": "Celebrated Malayalam films known for grounded storytelling, strong performances, and enduring audience love.",
+    "movieIds": [
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68
+    ]
+  },
+  {
+    "id": "mani-ratnam",
+    "name": "The World of Mani Ratnam",
+    "description": "A curated collection of Mani Ratnam's most significant and beloved films across Tamil and Hindi cinema.",
+    "movieIds": [
+      37,
+      47,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78
+    ]
+  },
+  {
+    "id": "christopher-nolan",
+    "name": "Christopher Nolan",
+    "description": "The major feature films of acclaimed filmmaker Christopher Nolan, spanning thrillers, sci-fi epics, and war drama.",
+    "movieIds": [
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89
+    ]
+  }
+]
