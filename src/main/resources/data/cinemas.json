@@ -404,5 +404,1503 @@
       "4DX"
     ],
     "rating": 4.5
+  },
+  {
+    "id": 23,
+    "name": "PVR INOX Cinemas Central",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "address": "Central, Hyderabad",
+    "screens": 3,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Dolby Atmos"
+    ],
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "rating": 4.0
+  },
+  {
+    "id": 24,
+    "name": "INOX Megaplex Mall",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "address": "Mall, Bengaluru",
+    "screens": 4,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Dolby Atmos",
+      "Recliner Seating"
+    ],
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "rating": 4.1
+  },
+  {
+    "id": 25,
+    "name": "Cinepolis Multiplex",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "address": "Multiplex, Chennai",
+    "screens": 5,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Dolby Atmos",
+      "IMAX"
+    ],
+    "formats": [
+      "2D",
+      "3D",
+      "4DX"
+    ],
+    "rating": 4.2
+  },
+  {
+    "id": 26,
+    "name": "PVR Cinemas City Centre",
+    "city": "Kochi",
+    "state": "Kerala",
+    "address": "City Centre, Kochi",
+    "screens": 6,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "4DX",
+      "Dolby Atmos"
+    ],
+    "formats": [
+      "2D"
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": 27,
+    "name": "INOX Market",
+    "city": "Thiruvananthapuram",
+    "state": "Kerala",
+    "address": "Market, Thiruvananthapuram",
+    "screens": 7,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Recliner Seating"
+    ],
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX",
+      "4DX"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": 28,
+    "name": "Miraj Cinemas Square",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "address": "Square, Mumbai",
+    "screens": 8,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Dolby Atmos"
+    ],
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": 29,
+    "name": "Asian Cinemas Plaza",
+    "city": "Delhi",
+    "state": "Delhi",
+    "address": "Plaza, Delhi",
+    "screens": 9,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Dolby Atmos",
+      "Recliner Seating"
+    ],
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "rating": 4.6
+  },
+  {
+    "id": 30,
+    "name": "AMB Cinemas Forum",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "address": "Forum, Pune",
+    "screens": 10,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Dolby Atmos",
+      "IMAX"
+    ],
+    "formats": [
+      "2D",
+      "3D",
+      "4DX"
+    ],
+    "rating": 4.7
+  },
+  {
+    "id": 31,
+    "name": "Cine Square Galaxy",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "address": "Galaxy, Ahmedabad",
+    "screens": 11,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "4DX",
+      "Dolby Atmos"
+    ],
+    "formats": [
+      "2D"
+    ],
+    "rating": 4.0
+  },
+  {
+    "id": 32,
+    "name": "Carnival Cinemas Grand",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "address": "Grand, Kolkata",
+    "screens": 3,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Recliner Seating"
+    ],
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX",
+      "4DX"
+    ],
+    "rating": 4.1
+  },
+  {
+    "id": 33,
+    "name": "PVR INOX Cinemas Central",
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "address": "Central, Jaipur",
+    "screens": 4,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Dolby Atmos"
+    ],
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "rating": 4.2
+  },
+  {
+    "id": 34,
+    "name": "INOX Megaplex Mall",
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "address": "Mall, Lucknow",
+    "screens": 5,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Dolby Atmos",
+      "Recliner Seating"
+    ],
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": 35,
+    "name": "Cinepolis Multiplex",
+    "city": "Chandigarh",
+    "state": "Chandigarh",
+    "address": "Multiplex, Chandigarh",
+    "screens": 6,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Dolby Atmos",
+      "IMAX"
+    ],
+    "formats": [
+      "2D",
+      "3D",
+      "4DX"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": 36,
+    "name": "PVR Cinemas City Centre",
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "address": "City Centre, Visakhapatnam",
+    "screens": 7,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "4DX",
+      "Dolby Atmos"
+    ],
+    "formats": [
+      "2D"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": 37,
+    "name": "INOX Market",
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "address": "Market, Vijayawada",
+    "screens": 8,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Recliner Seating"
+    ],
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX",
+      "4DX"
+    ],
+    "rating": 4.6
+  },
+  {
+    "id": 38,
+    "name": "Miraj Cinemas Square",
+    "city": "Coimbatore",
+    "state": "Tamil Nadu",
+    "address": "Square, Coimbatore",
+    "screens": 9,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Dolby Atmos"
+    ],
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "rating": 4.7
+  },
+  {
+    "id": 39,
+    "name": "Asian Cinemas Plaza",
+    "city": "Madurai",
+    "state": "Tamil Nadu",
+    "address": "Plaza, Madurai",
+    "screens": 10,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Dolby Atmos",
+      "Recliner Seating"
+    ],
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "rating": 4.0
+  },
+  {
+    "id": 40,
+    "name": "AMB Cinemas Forum",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "address": "Forum, Mysuru",
+    "screens": 11,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Dolby Atmos",
+      "IMAX"
+    ],
+    "formats": [
+      "2D",
+      "3D",
+      "4DX"
+    ],
+    "rating": 4.1
+  },
+  {
+    "id": 41,
+    "name": "Cine Square Galaxy",
+    "city": "Gurugram",
+    "state": "Haryana",
+    "address": "Galaxy, Gurugram",
+    "screens": 3,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "4DX",
+      "Dolby Atmos"
+    ],
+    "formats": [
+      "2D"
+    ],
+    "rating": 4.2
+  },
+  {
+    "id": 42,
+    "name": "Carnival Cinemas Grand",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "address": "Grand, Noida",
+    "screens": 4,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Recliner Seating"
+    ],
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX",
+      "4DX"
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": 43,
+    "name": "PVR INOX Cinemas Central",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "address": "Central, Hyderabad",
+    "screens": 5,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Dolby Atmos"
+    ],
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": 44,
+    "name": "INOX Megaplex Mall",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "address": "Mall, Bengaluru",
+    "screens": 6,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Dolby Atmos",
+      "Recliner Seating"
+    ],
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": 45,
+    "name": "Cinepolis Multiplex",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "address": "Multiplex, Chennai",
+    "screens": 7,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Dolby Atmos",
+      "IMAX"
+    ],
+    "formats": [
+      "2D",
+      "3D",
+      "4DX"
+    ],
+    "rating": 4.6
+  },
+  {
+    "id": 46,
+    "name": "PVR Cinemas City Centre",
+    "city": "Kochi",
+    "state": "Kerala",
+    "address": "City Centre, Kochi",
+    "screens": 8,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "4DX",
+      "Dolby Atmos"
+    ],
+    "formats": [
+      "2D"
+    ],
+    "rating": 4.7
+  },
+  {
+    "id": 47,
+    "name": "INOX Market",
+    "city": "Thiruvananthapuram",
+    "state": "Kerala",
+    "address": "Market, Thiruvananthapuram",
+    "screens": 9,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Recliner Seating"
+    ],
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX",
+      "4DX"
+    ],
+    "rating": 4.0
+  },
+  {
+    "id": 48,
+    "name": "Miraj Cinemas Square",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "address": "Square, Mumbai",
+    "screens": 10,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Dolby Atmos"
+    ],
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "rating": 4.1
+  },
+  {
+    "id": 49,
+    "name": "Asian Cinemas Plaza",
+    "city": "Delhi",
+    "state": "Delhi",
+    "address": "Plaza, Delhi",
+    "screens": 11,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Dolby Atmos",
+      "Recliner Seating"
+    ],
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "rating": 4.2
+  },
+  {
+    "id": 50,
+    "name": "AMB Cinemas Forum",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "address": "Forum, Pune",
+    "screens": 3,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Dolby Atmos",
+      "IMAX"
+    ],
+    "formats": [
+      "2D",
+      "3D",
+      "4DX"
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": 51,
+    "name": "Cine Square Galaxy",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "address": "Galaxy, Ahmedabad",
+    "screens": 4,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "4DX",
+      "Dolby Atmos"
+    ],
+    "formats": [
+      "2D"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": 52,
+    "name": "Carnival Cinemas Grand",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "address": "Grand, Kolkata",
+    "screens": 5,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Recliner Seating"
+    ],
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX",
+      "4DX"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": 53,
+    "name": "PVR INOX Cinemas Central",
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "address": "Central, Jaipur",
+    "screens": 6,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Dolby Atmos"
+    ],
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "rating": 4.6
+  },
+  {
+    "id": 54,
+    "name": "INOX Megaplex Mall",
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "address": "Mall, Lucknow",
+    "screens": 7,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Dolby Atmos",
+      "Recliner Seating"
+    ],
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "rating": 4.7
+  },
+  {
+    "id": 55,
+    "name": "Cinepolis Multiplex",
+    "city": "Chandigarh",
+    "state": "Chandigarh",
+    "address": "Multiplex, Chandigarh",
+    "screens": 8,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Dolby Atmos",
+      "IMAX"
+    ],
+    "formats": [
+      "2D",
+      "3D",
+      "4DX"
+    ],
+    "rating": 4.0
+  },
+  {
+    "id": 56,
+    "name": "PVR Cinemas City Centre",
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "address": "City Centre, Visakhapatnam",
+    "screens": 9,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "4DX",
+      "Dolby Atmos"
+    ],
+    "formats": [
+      "2D"
+    ],
+    "rating": 4.1
+  },
+  {
+    "id": 57,
+    "name": "INOX Market",
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "address": "Market, Vijayawada",
+    "screens": 10,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Recliner Seating"
+    ],
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX",
+      "4DX"
+    ],
+    "rating": 4.2
+  },
+  {
+    "id": 58,
+    "name": "Miraj Cinemas Square",
+    "city": "Coimbatore",
+    "state": "Tamil Nadu",
+    "address": "Square, Coimbatore",
+    "screens": 11,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Dolby Atmos"
+    ],
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": 59,
+    "name": "Asian Cinemas Plaza",
+    "city": "Madurai",
+    "state": "Tamil Nadu",
+    "address": "Plaza, Madurai",
+    "screens": 3,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Dolby Atmos",
+      "Recliner Seating"
+    ],
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": 60,
+    "name": "AMB Cinemas Forum",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "address": "Forum, Mysuru",
+    "screens": 4,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Dolby Atmos",
+      "IMAX"
+    ],
+    "formats": [
+      "2D",
+      "3D",
+      "4DX"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": 61,
+    "name": "Cine Square Galaxy",
+    "city": "Gurugram",
+    "state": "Haryana",
+    "address": "Galaxy, Gurugram",
+    "screens": 5,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "4DX",
+      "Dolby Atmos"
+    ],
+    "formats": [
+      "2D"
+    ],
+    "rating": 4.6
+  },
+  {
+    "id": 62,
+    "name": "Carnival Cinemas Grand",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "address": "Grand, Noida",
+    "screens": 6,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Recliner Seating"
+    ],
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX",
+      "4DX"
+    ],
+    "rating": 4.7
+  },
+  {
+    "id": 63,
+    "name": "PVR INOX Cinemas Central",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "address": "Central, Hyderabad",
+    "screens": 7,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Dolby Atmos"
+    ],
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "rating": 4.0
+  },
+  {
+    "id": 64,
+    "name": "INOX Megaplex Mall",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "address": "Mall, Bengaluru",
+    "screens": 8,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Dolby Atmos",
+      "Recliner Seating"
+    ],
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "rating": 4.1
+  },
+  {
+    "id": 65,
+    "name": "Cinepolis Multiplex",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "address": "Multiplex, Chennai",
+    "screens": 9,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Dolby Atmos",
+      "IMAX"
+    ],
+    "formats": [
+      "2D",
+      "3D",
+      "4DX"
+    ],
+    "rating": 4.2
+  },
+  {
+    "id": 66,
+    "name": "PVR Cinemas City Centre",
+    "city": "Kochi",
+    "state": "Kerala",
+    "address": "City Centre, Kochi",
+    "screens": 10,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "4DX",
+      "Dolby Atmos"
+    ],
+    "formats": [
+      "2D"
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": 67,
+    "name": "INOX Market",
+    "city": "Thiruvananthapuram",
+    "state": "Kerala",
+    "address": "Market, Thiruvananthapuram",
+    "screens": 11,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Recliner Seating"
+    ],
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX",
+      "4DX"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": 68,
+    "name": "Miraj Cinemas Square",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "address": "Square, Mumbai",
+    "screens": 3,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Dolby Atmos"
+    ],
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": 69,
+    "name": "Asian Cinemas Plaza",
+    "city": "Delhi",
+    "state": "Delhi",
+    "address": "Plaza, Delhi",
+    "screens": 4,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Dolby Atmos",
+      "Recliner Seating"
+    ],
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "rating": 4.6
+  },
+  {
+    "id": 70,
+    "name": "AMB Cinemas Forum",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "address": "Forum, Pune",
+    "screens": 5,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Dolby Atmos",
+      "IMAX"
+    ],
+    "formats": [
+      "2D",
+      "3D",
+      "4DX"
+    ],
+    "rating": 4.7
+  },
+  {
+    "id": 71,
+    "name": "Cine Square Galaxy",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "address": "Galaxy, Ahmedabad",
+    "screens": 6,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "4DX",
+      "Dolby Atmos"
+    ],
+    "formats": [
+      "2D"
+    ],
+    "rating": 4.0
+  },
+  {
+    "id": 72,
+    "name": "Carnival Cinemas Grand",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "address": "Grand, Kolkata",
+    "screens": 7,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Recliner Seating"
+    ],
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX",
+      "4DX"
+    ],
+    "rating": 4.1
+  },
+  {
+    "id": 73,
+    "name": "PVR INOX Cinemas Central",
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "address": "Central, Jaipur",
+    "screens": 8,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Dolby Atmos"
+    ],
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "rating": 4.2
+  },
+  {
+    "id": 74,
+    "name": "INOX Megaplex Mall",
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "address": "Mall, Lucknow",
+    "screens": 9,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Dolby Atmos",
+      "Recliner Seating"
+    ],
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": 75,
+    "name": "Cinepolis Multiplex",
+    "city": "Chandigarh",
+    "state": "Chandigarh",
+    "address": "Multiplex, Chandigarh",
+    "screens": 10,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Dolby Atmos",
+      "IMAX"
+    ],
+    "formats": [
+      "2D",
+      "3D",
+      "4DX"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": 76,
+    "name": "PVR Cinemas City Centre",
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "address": "City Centre, Visakhapatnam",
+    "screens": 11,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "4DX",
+      "Dolby Atmos"
+    ],
+    "formats": [
+      "2D"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": 77,
+    "name": "INOX Market",
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "address": "Market, Vijayawada",
+    "screens": 3,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Recliner Seating"
+    ],
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX",
+      "4DX"
+    ],
+    "rating": 4.6
+  },
+  {
+    "id": 78,
+    "name": "Miraj Cinemas Square",
+    "city": "Coimbatore",
+    "state": "Tamil Nadu",
+    "address": "Square, Coimbatore",
+    "screens": 4,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Dolby Atmos"
+    ],
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "rating": 4.7
+  },
+  {
+    "id": 79,
+    "name": "Asian Cinemas Plaza",
+    "city": "Madurai",
+    "state": "Tamil Nadu",
+    "address": "Plaza, Madurai",
+    "screens": 5,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Dolby Atmos",
+      "Recliner Seating"
+    ],
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "rating": 4.0
+  },
+  {
+    "id": 80,
+    "name": "AMB Cinemas Forum",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "address": "Forum, Mysuru",
+    "screens": 6,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Dolby Atmos",
+      "IMAX"
+    ],
+    "formats": [
+      "2D",
+      "3D",
+      "4DX"
+    ],
+    "rating": 4.1
+  },
+  {
+    "id": 81,
+    "name": "Cine Square Galaxy",
+    "city": "Gurugram",
+    "state": "Haryana",
+    "address": "Galaxy, Gurugram",
+    "screens": 7,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "4DX",
+      "Dolby Atmos"
+    ],
+    "formats": [
+      "2D"
+    ],
+    "rating": 4.2
+  },
+  {
+    "id": 82,
+    "name": "Carnival Cinemas Grand",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "address": "Grand, Noida",
+    "screens": 8,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Recliner Seating"
+    ],
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX",
+      "4DX"
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": 83,
+    "name": "PVR INOX Cinemas Central",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "address": "Central, Hyderabad",
+    "screens": 9,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Dolby Atmos"
+    ],
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": 84,
+    "name": "INOX Megaplex Mall",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "address": "Mall, Bengaluru",
+    "screens": 10,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Dolby Atmos",
+      "Recliner Seating"
+    ],
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": 85,
+    "name": "Cinepolis Multiplex",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "address": "Multiplex, Chennai",
+    "screens": 11,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Dolby Atmos",
+      "IMAX"
+    ],
+    "formats": [
+      "2D",
+      "3D",
+      "4DX"
+    ],
+    "rating": 4.6
+  },
+  {
+    "id": 86,
+    "name": "PVR Cinemas City Centre",
+    "city": "Kochi",
+    "state": "Kerala",
+    "address": "City Centre, Kochi",
+    "screens": 3,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "4DX",
+      "Dolby Atmos"
+    ],
+    "formats": [
+      "2D"
+    ],
+    "rating": 4.7
+  },
+  {
+    "id": 87,
+    "name": "INOX Market",
+    "city": "Thiruvananthapuram",
+    "state": "Kerala",
+    "address": "Market, Thiruvananthapuram",
+    "screens": 4,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Recliner Seating"
+    ],
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX",
+      "4DX"
+    ],
+    "rating": 4.0
+  },
+  {
+    "id": 88,
+    "name": "Miraj Cinemas Square",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "address": "Square, Mumbai",
+    "screens": 5,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Dolby Atmos"
+    ],
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "rating": 4.1
+  },
+  {
+    "id": 89,
+    "name": "Asian Cinemas Plaza",
+    "city": "Delhi",
+    "state": "Delhi",
+    "address": "Plaza, Delhi",
+    "screens": 6,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Dolby Atmos",
+      "Recliner Seating"
+    ],
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "rating": 4.2
+  },
+  {
+    "id": 90,
+    "name": "AMB Cinemas Forum",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "address": "Forum, Pune",
+    "screens": 7,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Dolby Atmos",
+      "IMAX"
+    ],
+    "formats": [
+      "2D",
+      "3D",
+      "4DX"
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": 91,
+    "name": "Cine Square Galaxy",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "address": "Galaxy, Ahmedabad",
+    "screens": 8,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "4DX",
+      "Dolby Atmos"
+    ],
+    "formats": [
+      "2D"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": 92,
+    "name": "Carnival Cinemas Grand",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "address": "Grand, Kolkata",
+    "screens": 9,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Recliner Seating"
+    ],
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX",
+      "4DX"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": 93,
+    "name": "PVR INOX Cinemas Central",
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "address": "Central, Jaipur",
+    "screens": 10,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Dolby Atmos"
+    ],
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "rating": 4.6
+  },
+  {
+    "id": 94,
+    "name": "INOX Megaplex Mall",
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "address": "Mall, Lucknow",
+    "screens": 11,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Dolby Atmos",
+      "Recliner Seating"
+    ],
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "rating": 4.7
+  },
+  {
+    "id": 95,
+    "name": "Cinepolis Multiplex",
+    "city": "Chandigarh",
+    "state": "Chandigarh",
+    "address": "Multiplex, Chandigarh",
+    "screens": 3,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Dolby Atmos",
+      "IMAX"
+    ],
+    "formats": [
+      "2D",
+      "3D",
+      "4DX"
+    ],
+    "rating": 4.0
+  },
+  {
+    "id": 96,
+    "name": "PVR Cinemas City Centre",
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "address": "City Centre, Visakhapatnam",
+    "screens": 4,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "4DX",
+      "Dolby Atmos"
+    ],
+    "formats": [
+      "2D"
+    ],
+    "rating": 4.1
+  },
+  {
+    "id": 97,
+    "name": "INOX Market",
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "address": "Market, Vijayawada",
+    "screens": 5,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Recliner Seating"
+    ],
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX",
+      "4DX"
+    ],
+    "rating": 4.2
+  },
+  {
+    "id": 98,
+    "name": "Miraj Cinemas Square",
+    "city": "Coimbatore",
+    "state": "Tamil Nadu",
+    "address": "Square, Coimbatore",
+    "screens": 6,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Dolby Atmos"
+    ],
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": 99,
+    "name": "Asian Cinemas Plaza",
+    "city": "Madurai",
+    "state": "Tamil Nadu",
+    "address": "Plaza, Madurai",
+    "screens": 7,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Dolby Atmos",
+      "Recliner Seating"
+    ],
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": 100,
+    "name": "AMB Cinemas Forum",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "address": "Forum, Mysuru",
+    "screens": 8,
+    "facilities": [
+      "Parking",
+      "Food Court",
+      "Dolby Atmos",
+      "IMAX"
+    ],
+    "formats": [
+      "2D",
+      "3D",
+      "4DX"
+    ],
+    "rating": 4.5
   }
 ]

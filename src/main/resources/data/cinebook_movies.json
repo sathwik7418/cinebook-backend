@@ -7,1706 +7,6804 @@
     "backdrop": "/images/movies/backdrops/kalki-backdrop.jpg",
     "trailerUrl": "",
     "language": "Telugu",
-    "genres": ["Science Fiction", "Action", "Drama"],
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Drama"
+    ],
     "duration": 181,
     "certification": "UA",
     "rating": 7.4,
     "releaseDate": "2024-05-09",
     "status": "NOW_SHOWING",
     "director": "Nag Ashwin",
-    "cast": ["Prabhas", "Amitabh Bachchan", "Kamal Haasan", "Deepika Padukone", "Disha Patani"],
-    "tags": ["Telugu New"]
+    "cast": [
+      "Prabhas",
+      "Amitabh Bachchan",
+      "Kamal Haasan",
+      "Deepika Padukone",
+      "Disha Patani"
+    ],
+    "tags": [
+      "Telugu New"
+    ]
   },
   {
     "id": 2,
     "title": "HanuMan",
     "description": "A young man in a fictional village discovers powers linked to Lord Hanuman and rises as a homegrown superhero to protect his people.",
     "poster": "/images/movies/hanuman.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/hanuman-backdrop.jpg",
     "trailerUrl": "",
     "language": "Telugu",
-    "genres": ["Action", "Fantasy", "Superhero"],
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Superhero"
+    ],
     "duration": 159,
     "certification": "UA",
     "rating": 7.6,
     "releaseDate": "2024-01-12",
     "status": "NOW_SHOWING",
     "director": "Prasanth Varma",
-    "cast": ["Teja Sajja", "Amritha Aiyer", "Varalaxmi Sarathkumar"],
-    "tags": ["Telugu New"]
+    "cast": [
+      "Teja Sajja",
+      "Amritha Aiyer",
+      "Varalaxmi Sarathkumar"
+    ],
+    "tags": [
+      "Telugu New"
+    ]
   },
   {
     "id": 3,
     "title": "Pushpa 2: The Rule",
     "description": "Pushpa Raj consolidates his power in the red sandalwood smuggling world as rivals and law enforcement close in on him.",
     "poster": "/images/movies/pushpa.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/pushpa-backdrop.jpg",
     "trailerUrl": "",
     "language": "Telugu",
-    "genres": ["Action", "Drama"],
+    "genres": [
+      "Action",
+      "Drama"
+    ],
     "duration": 200,
     "certification": "UA",
     "rating": 6.9,
     "releaseDate": "2024-12-05",
     "status": "NOW_SHOWING",
     "director": "Sukumar",
-    "cast": ["Allu Arjun", "Rashmika Mandanna", "Fahadh Faasil"],
-    "tags": ["Telugu New"]
+    "cast": [
+      "Allu Arjun",
+      "Rashmika Mandanna",
+      "Fahadh Faasil"
+    ],
+    "tags": [
+      "Telugu New"
+    ]
   },
   {
     "id": 4,
     "title": "Lucky Baskhar",
     "description": "A struggling bank employee in 1980s Bombay makes a risky choice that changes his family's fortunes, pulling him deeper into a world of financial crime.",
     "poster": "/images/movies/lucky.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/lucky-backdrop.jpg",
     "trailerUrl": "",
     "language": "Telugu",
-    "genres": ["Drama", "Crime"],
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
     "duration": 156,
     "certification": "UA",
     "rating": 8.2,
     "releaseDate": "2024-10-31",
     "status": "NOW_SHOWING",
     "director": "Venky Atluri",
-    "cast": ["Dulquer Salmaan", "Meenakshi Chaudhary"],
-    "tags": ["Telugu New"]
+    "cast": [
+      "Dulquer Salmaan",
+      "Meenakshi Chaudhary"
+    ],
+    "tags": [
+      "Telugu New"
+    ]
   },
   {
     "id": 5,
     "title": "Saripodhaa Sanivaaram",
     "description": "A man who has vowed never to lose his temper on any day except Saturday takes on a corrupt police officer.",
     "poster": "/images/movies/saripodhaa.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/saripodhaa-backdrop.jpg",
     "trailerUrl": "",
     "language": "Telugu",
-    "genres": ["Action", "Romance"],
+    "genres": [
+      "Action",
+      "Romance"
+    ],
     "duration": 158,
     "certification": "UA",
     "rating": 7.4,
     "releaseDate": "2024-08-29",
     "status": "NOW_SHOWING",
     "director": "Vivek Athreya",
-    "cast": ["Nani", "Priyanka Mohan", "S. J. Suryah"],
-    "tags": ["Telugu New"]
+    "cast": [
+      "Nani",
+      "Priyanka Mohan",
+      "S. J. Suryah"
+    ],
+    "tags": [
+      "Telugu New"
+    ]
   },
   {
     "id": 6,
     "title": "Guntur Kaaram",
     "description": "A man estranged from his mother returns home and confronts family and political conflicts tied to his roots.",
     "poster": "/images/movies/guntur.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/guntur-backdrop.jpg",
     "trailerUrl": "",
     "language": "Telugu",
-    "genres": ["Action", "Drama"],
+    "genres": [
+      "Action",
+      "Drama"
+    ],
     "duration": 175,
     "certification": "UA",
     "rating": 5.6,
     "releaseDate": "2024-01-12",
     "status": "NOW_SHOWING",
     "director": "Trivikram Srinivas",
-    "cast": ["Mahesh Babu", "Sreeleela", "Meenakshi Chaudhary", "Jagapathi Babu", "Ramya Krishnan"],
-    "tags": ["Telugu New"]
+    "cast": [
+      "Mahesh Babu",
+      "Sreeleela",
+      "Meenakshi Chaudhary",
+      "Jagapathi Babu",
+      "Ramya Krishnan"
+    ],
+    "tags": [
+      "Telugu New"
+    ]
   },
   {
     "id": 7,
     "title": "Naa Saami Ranga",
     "description": "A protector who has raised his late friend's daughter must face his past when a threat from her family's history resurfaces.",
     "poster": "/images/movies/naa.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/naa-backdrop.jpg",
     "trailerUrl": "",
     "language": "Telugu",
-    "genres": ["Action", "Drama"],
+    "genres": [
+      "Action",
+      "Drama"
+    ],
     "duration": 154,
     "certification": "UA",
     "rating": 5.6,
     "releaseDate": "2024-01-14",
     "status": "NOW_SHOWING",
     "director": "Vijay Binni",
-    "cast": ["Nagarjuna", "Ashika Ranganath", "Allari Naresh", "Raj Tarun"],
-    "tags": ["Telugu New"]
+    "cast": [
+      "Nagarjuna",
+      "Ashika Ranganath",
+      "Allari Naresh",
+      "Raj Tarun"
+    ],
+    "tags": [
+      "Telugu New"
+    ]
   },
   {
     "id": 8,
     "title": "Saindhav",
     "description": "A father driven by grief and vengeance becomes entangled in a criminal underworld while trying to protect his ailing daughter.",
     "poster": "/images/movies/saindhav.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/saindhav-backdrop.jpg",
     "trailerUrl": "",
     "language": "Telugu",
-    "genres": ["Action", "Thriller"],
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
     "duration": 166,
     "certification": "UA",
     "rating": 5.5,
     "releaseDate": "2024-01-13",
     "status": "NOW_SHOWING",
     "director": "Sailesh Kolanu",
-    "cast": ["Venkatesh", "Nawazuddin Siddiqui", "Arya", "Shraddha Srinath"],
-    "tags": ["Telugu New"]
+    "cast": [
+      "Venkatesh",
+      "Nawazuddin Siddiqui",
+      "Arya",
+      "Shraddha Srinath"
+    ],
+    "tags": [
+      "Telugu New"
+    ]
   },
   {
     "id": 9,
     "title": "Bhagavanth Kesari",
     "description": "A retired soldier turned guardian protects a young girl and takes on a corrupt system that threatens her family's legacy.",
     "poster": "/images/movies/bhagavanth.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/bhagavanth-backdrop.jpg",
     "trailerUrl": "",
     "language": "Telugu",
-    "genres": ["Action", "Drama"],
+    "genres": [
+      "Action",
+      "Drama"
+    ],
     "duration": 158,
     "certification": "UA",
     "rating": 6.7,
     "releaseDate": "2023-10-19",
     "status": "NOW_SHOWING",
     "director": "Anil Ravipudi",
-    "cast": ["Nandamuri Balakrishna", "Sreeleela", "Jagapathi Babu"],
-    "tags": ["Telugu New"]
+    "cast": [
+      "Nandamuri Balakrishna",
+      "Sreeleela",
+      "Jagapathi Babu"
+    ],
+    "tags": [
+      "Telugu New"
+    ]
   },
   {
     "id": 10,
     "title": "Baby",
     "description": "A carefree college student's love story evolves through the highs and lows of a long relationship as both partners grow into adulthood.",
     "poster": "/images/movies/baby.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/baby-backdrop.jpg",
     "trailerUrl": "",
     "language": "Telugu",
-    "genres": ["Romance", "Drama"],
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
     "duration": 158,
     "certification": "UA",
     "rating": 7.3,
     "releaseDate": "2023-08-04",
     "status": "NOW_SHOWING",
     "director": "Sai Rajesh",
-    "cast": ["Anand Deverakonda", "Vaishnavi Chaitanya"],
-    "tags": ["Telugu New"]
+    "cast": [
+      "Anand Deverakonda",
+      "Vaishnavi Chaitanya"
+    ],
+    "tags": [
+      "Telugu New"
+    ]
   },
   {
     "id": 11,
     "title": "Salaar: Part 1 - Ceasefire",
     "description": "A man bound by a childhood promise is drawn back into a violent conflict over control of a hidden kingdom.",
     "poster": "/images/movies/salaar.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/salaar-backdrop.jpg",
     "trailerUrl": "",
     "language": "Telugu",
-    "genres": ["Action", "Thriller"],
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
     "duration": 175,
     "certification": "UA",
     "rating": 7.4,
     "releaseDate": "2023-12-22",
     "status": "NOW_SHOWING",
     "director": "Prashanth Neel",
-    "cast": ["Prabhas", "Prithviraj Sukumaran", "Shruti Haasan"],
-    "tags": ["Telugu New"]
+    "cast": [
+      "Prabhas",
+      "Prithviraj Sukumaran",
+      "Shruti Haasan"
+    ],
+    "tags": [
+      "Telugu New"
+    ]
   },
   {
     "id": 12,
     "title": "Game Changer",
     "description": "An honest IAS officer takes on a corrupt political system by fighting for free and fair elections.",
     "poster": "/images/movies/game.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/game-backdrop.jpg",
     "trailerUrl": "",
     "language": "Telugu",
-    "genres": ["Action", "Drama", "Thriller"],
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
     "duration": 165,
     "certification": "UA",
     "rating": 5.6,
     "releaseDate": "2025-01-10",
     "status": "NOW_SHOWING",
     "director": "S. Shankar",
-    "cast": ["Ram Charan", "Kiara Advani", "Anjali", "S. J. Suryah", "Srikanth", "Sunil", "Jayaram"],
-    "tags": ["Telugu New"]
+    "cast": [
+      "Ram Charan",
+      "Kiara Advani",
+      "Anjali",
+      "S. J. Suryah",
+      "Srikanth",
+      "Sunil",
+      "Jayaram"
+    ],
+    "tags": [
+      "Telugu New"
+    ]
   },
   {
     "id": 13,
     "title": "Daaku Maharaaj",
     "description": "A daring robber fighting for survival and territory clashes with powerful adversaries while protecting a young girl in his care.",
     "poster": "/images/movies/daaku.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/daaku-backdrop.jpg",
     "trailerUrl": "",
     "language": "Telugu",
-    "genres": ["Action", "Crime", "Drama"],
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
     "duration": 148,
     "certification": "UA",
     "rating": 5.9,
     "releaseDate": "2025-01-12",
     "status": "NOW_SHOWING",
     "director": "Bobby Kolli",
-    "cast": ["Nandamuri Balakrishna", "Bobby Deol", "Pragya Jaiswal", "Shraddha Srinath"],
-    "tags": ["Telugu New"]
+    "cast": [
+      "Nandamuri Balakrishna",
+      "Bobby Deol",
+      "Pragya Jaiswal",
+      "Shraddha Srinath"
+    ],
+    "tags": [
+      "Telugu New"
+    ]
   },
   {
     "id": 14,
     "title": "HIT: The Third Case",
     "description": "A tough, unconventional cop from the Homicide Intervention Team investigates a series of chilling murders.",
     "poster": "/images/movies/hit.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/hit-backdrop.jpg",
     "trailerUrl": "",
     "language": "Telugu",
-    "genres": ["Action", "Thriller", "Crime"],
+    "genres": [
+      "Action",
+      "Thriller",
+      "Crime"
+    ],
     "duration": 157,
     "certification": "UA",
     "rating": 7.0,
     "releaseDate": "2025-05-01",
     "status": "NOW_SHOWING",
     "director": "Sailesh Kolanu",
-    "cast": ["Nani", "Srinidhi Shetty"],
-    "tags": ["Telugu New"]
+    "cast": [
+      "Nani",
+      "Srinidhi Shetty"
+    ],
+    "tags": [
+      "Telugu New"
+    ]
   },
   {
     "id": 15,
     "title": "Kingdom",
     "description": "An undercover operative's loyalty and identity are tested amid a high-stakes espionage conflict.",
     "poster": "/images/movies/kingdom.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/kingdom-backdrop.jpg",
     "trailerUrl": "",
     "language": "Telugu",
-    "genres": ["Action", "Spy Thriller"],
+    "genres": [
+      "Action",
+      "Spy Thriller"
+    ],
     "duration": 160,
     "certification": "UA",
     "rating": 7.1,
     "releaseDate": "2025-07-31",
     "status": "NOW_SHOWING",
     "director": "Gowtam Tinnanuri",
-    "cast": ["Vijay Deverakonda", "Satyadev", "Bhagyashri Borse"],
-    "tags": ["Telugu New"]
+    "cast": [
+      "Vijay Deverakonda",
+      "Satyadev",
+      "Bhagyashri Borse"
+    ],
+    "tags": [
+      "Telugu New"
+    ]
   },
   {
     "id": 16,
     "title": "Hari Hara Veera Mallu: Part 1 - Sword vs Spirit",
     "description": "A daring rebel rises against Aurangzeb's rule and sets out on an impossible mission to steal the Kohinoor.",
     "poster": "/images/movies/hari.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/hari-backdrop.jpg",
     "trailerUrl": "",
     "language": "Telugu",
-    "genres": ["Action", "Adventure", "Historical"],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Historical"
+    ],
     "duration": 161,
     "certification": "UA",
     "rating": 6.1,
     "releaseDate": "2025-07-24",
     "status": "NOW_SHOWING",
     "director": "A. M. Jyothi Krishna, Krish Jagarlamudi",
-    "cast": ["Pawan Kalyan", "Nidhhi Agerwal", "Bobby Deol"],
-    "tags": ["Telugu New"]
+    "cast": [
+      "Pawan Kalyan",
+      "Nidhhi Agerwal",
+      "Bobby Deol"
+    ],
+    "tags": [
+      "Telugu New"
+    ]
   },
   {
     "id": 17,
     "title": "They Call Him OG",
     "description": "After vanishing from Mumbai's underworld for a decade, a mob boss resurfaces seeking vengeance against rival crime lords.",
     "poster": "/images/movies/they.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/they-backdrop.jpg",
     "trailerUrl": "",
     "language": "Telugu",
-    "genres": ["Action", "Crime", "Drama"],
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
     "duration": 154,
     "certification": "UA",
     "rating": 7.0,
     "releaseDate": "2025-09-25",
     "status": "NOW_SHOWING",
     "director": "Sujeeth",
-    "cast": ["Pawan Kalyan", "Emraan Hashmi", "Priyanka Mohan", "Prakash Raj", "Arjun Das"],
-    "tags": ["Telugu New"]
+    "cast": [
+      "Pawan Kalyan",
+      "Emraan Hashmi",
+      "Priyanka Mohan",
+      "Prakash Raj",
+      "Arjun Das"
+    ],
+    "tags": [
+      "Telugu New"
+    ]
   },
   {
     "id": 18,
     "title": "Kannappa",
     "description": "Based on the Hindu legend of a devoted hunter who sacrifices his own eyes as an offering to Lord Shiva.",
     "poster": "/images/movies/kannappa.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/kannappa-backdrop.jpg",
     "trailerUrl": "",
     "language": "Telugu",
-    "genres": ["Action", "Drama", "Fantasy", "Devotional"],
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy",
+      "Devotional"
+    ],
     "duration": 182,
     "certification": "UA",
     "rating": 6.3,
     "releaseDate": "2025-06-27",
     "status": "NOW_SHOWING",
     "director": "Mukesh Kumar Singh",
-    "cast": ["Vishnu Manchu", "Mohanlal", "Prabhas", "Akshay Kumar", "Kajal Aggarwal", "Mohan Babu"],
-    "tags": ["Telugu New"]
+    "cast": [
+      "Vishnu Manchu",
+      "Mohanlal",
+      "Prabhas",
+      "Akshay Kumar",
+      "Kajal Aggarwal",
+      "Mohan Babu"
+    ],
+    "tags": [
+      "Telugu New"
+    ]
   },
   {
     "id": 19,
     "title": "Mayabazar",
     "description": "A fantastical retelling of a Mahabharata episode in which Krishna and Ghatotkacha conspire to unite young lovers Abhimanyu and Sasirekha.",
     "poster": "/images/movies/mayabazar.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/mayabazar-backdrop.jpg",
     "trailerUrl": "",
     "language": "Telugu",
-    "genres": ["Fantasy", "Drama", "Mythology"],
+    "genres": [
+      "Fantasy",
+      "Drama",
+      "Mythology"
+    ],
     "duration": 184,
     "certification": "U",
     "rating": 9.0,
     "releaseDate": "1957-03-27",
     "status": "CLASSIC",
     "director": "Kadiri Venkata Reddy",
-    "cast": ["N. T. Rama Rao", "Akkineni Nageswara Rao", "Savitri", "S. V. Ranga Rao"],
-    "tags": ["Telugu Classic"]
+    "cast": [
+      "N. T. Rama Rao",
+      "Akkineni Nageswara Rao",
+      "Savitri",
+      "S. V. Ranga Rao"
+    ],
+    "tags": [
+      "Telugu Classic"
+    ]
   },
   {
     "id": 20,
     "title": "Missamma",
     "description": "A mix-up leads two strangers to pose as a married couple for a job, sparking a series of comic and romantic complications.",
     "poster": "/images/movies/missamma.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/missamma-backdrop.jpg",
     "trailerUrl": "",
     "language": "Telugu",
-    "genres": ["Comedy", "Drama", "Romance"],
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
     "duration": 176,
     "certification": "U",
     "rating": 8.4,
     "releaseDate": "1955-07-08",
     "status": "CLASSIC",
     "director": "L. V. Prasad",
-    "cast": ["N. T. Rama Rao", "Akkineni Nageswara Rao", "Savitri", "Jamuna"],
-    "tags": ["Telugu Classic"]
+    "cast": [
+      "N. T. Rama Rao",
+      "Akkineni Nageswara Rao",
+      "Savitri",
+      "Jamuna"
+    ],
+    "tags": [
+      "Telugu Classic"
+    ]
   },
   {
     "id": 21,
     "title": "Devadasu",
     "description": "A wealthy man's doomed love for his childhood sweetheart drives him toward self-destruction.",
     "poster": "/images/movies/devadasu.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/devadasu-backdrop.jpg",
     "trailerUrl": "",
     "language": "Telugu",
-    "genres": ["Drama", "Romance"],
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
     "duration": 155,
     "certification": "U",
     "rating": 8.0,
     "releaseDate": "1953-08-26",
     "status": "CLASSIC",
     "director": "Vedantam Raghavaiah",
-    "cast": ["Akkineni Nageswara Rao", "Savitri", "Lalitha"],
-    "tags": ["Telugu Classic"]
+    "cast": [
+      "Akkineni Nageswara Rao",
+      "Savitri",
+      "Lalitha"
+    ],
+    "tags": [
+      "Telugu Classic"
+    ]
   },
   {
     "id": 22,
     "title": "Maro Charitra",
     "description": "A young couple from different religious backgrounds fall in love, facing fierce opposition from their families.",
     "poster": "/images/movies/maro.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/maro-backdrop.jpg",
     "trailerUrl": "",
     "language": "Telugu",
-    "genres": ["Romance", "Drama"],
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
     "duration": 141,
     "certification": "U",
     "rating": 8.0,
     "releaseDate": "1978-08-11",
     "status": "CLASSIC",
     "director": "K. Balachander",
-    "cast": ["Kamal Haasan", "Saritha"],
-    "tags": ["Telugu Classic"]
+    "cast": [
+      "Kamal Haasan",
+      "Saritha"
+    ],
+    "tags": [
+      "Telugu Classic"
+    ]
   },
   {
     "id": 23,
     "title": "Sankarabharanam",
     "description": "An aging classical musician's life and legacy intertwine with that of a devoted young woman, exploring the purity of art amid changing times.",
     "poster": "/images/movies/sankarabharanam.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/sankarabharanam-backdrop.jpg",
     "trailerUrl": "",
     "language": "Telugu",
-    "genres": ["Drama", "Music"],
+    "genres": [
+      "Drama",
+      "Music"
+    ],
     "duration": 144,
     "certification": "U",
     "rating": 8.8,
     "releaseDate": "1980-02-02",
     "status": "CLASSIC",
     "director": "K. Viswanath",
-    "cast": ["J. V. Somayajulu", "Manju Bhargavi"],
-    "tags": ["Telugu Classic"]
+    "cast": [
+      "J. V. Somayajulu",
+      "Manju Bhargavi"
+    ],
+    "tags": [
+      "Telugu Classic"
+    ]
   },
   {
     "id": 24,
     "title": "Sagara Sangamam",
     "description": "A once-brilliant classical dancer, undone by circumstance and alcoholism, finds a final chance at redemption through art.",
     "poster": "/images/movies/sagara.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/sagara-backdrop.jpg",
     "trailerUrl": "",
     "language": "Telugu",
-    "genres": ["Drama", "Music"],
+    "genres": [
+      "Drama",
+      "Music"
+    ],
     "duration": 176,
     "certification": "U",
     "rating": 8.9,
     "releaseDate": "1983-05-13",
     "status": "CLASSIC",
     "director": "K. Viswanath",
-    "cast": ["Kamal Haasan", "Jaya Prada"],
-    "tags": ["Telugu Classic"]
+    "cast": [
+      "Kamal Haasan",
+      "Jaya Prada"
+    ],
+    "tags": [
+      "Telugu Classic"
+    ]
   },
   {
     "id": 25,
     "title": "Swati Mutyam",
     "description": "A man with autism navigates society's misunderstanding of him as he builds a life with a widow and her son.",
     "poster": "/images/movies/swati.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/swati-backdrop.jpg",
     "trailerUrl": "",
     "language": "Telugu",
-    "genres": ["Drama"],
+    "genres": [
+      "Drama"
+    ],
     "duration": 156,
     "certification": "U",
     "rating": 8.4,
     "releaseDate": "1986-01-11",
     "status": "CLASSIC",
     "director": "K. Viswanath",
-    "cast": ["Kamal Haasan", "Radhika"],
-    "tags": ["Telugu Classic"]
+    "cast": [
+      "Kamal Haasan",
+      "Radhika"
+    ],
+    "tags": [
+      "Telugu Classic"
+    ]
   },
   {
     "id": 26,
     "title": "Siva",
     "description": "A college student's clash with a violent campus gang escalates into a fight against a wider culture of intimidation and corruption.",
     "poster": "/images/movies/siva.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/siva-backdrop.jpg",
     "trailerUrl": "",
     "language": "Telugu",
-    "genres": ["Action", "Drama"],
+    "genres": [
+      "Action",
+      "Drama"
+    ],
     "duration": 154,
     "certification": "U",
     "rating": 8.4,
     "releaseDate": "1989-08-15",
     "status": "CLASSIC",
     "director": "Ram Gopal Varma",
-    "cast": ["Nagarjuna", "Amala", "Raghuvaran"],
-    "tags": ["Telugu Classic"]
+    "cast": [
+      "Nagarjuna",
+      "Amala",
+      "Raghuvaran"
+    ],
+    "tags": [
+      "Telugu Classic"
+    ]
   },
   {
     "id": 27,
     "title": "Gharana Mogudu",
     "description": "A man's efforts to bridge the class divide between himself and his wealthy wife lead to family drama and comic conflict.",
     "poster": "/images/movies/gharana.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/gharana-backdrop.jpg",
     "trailerUrl": "",
     "language": "Telugu",
-    "genres": ["Action", "Drama", "Comedy"],
+    "genres": [
+      "Action",
+      "Drama",
+      "Comedy"
+    ],
     "duration": 149,
     "certification": "U",
     "rating": 7.6,
     "releaseDate": "1992-01-14",
     "status": "CLASSIC",
     "director": "K. Raghavendra Rao",
-    "cast": ["Chiranjeevi", "Nagma"],
-    "tags": ["Telugu Classic"]
+    "cast": [
+      "Chiranjeevi",
+      "Nagma"
+    ],
+    "tags": [
+      "Telugu Classic"
+    ]
   },
   {
     "id": 28,
     "title": "Tholi Prema",
     "description": "A carefree young man's chance encounters with a woman on a train gradually blossom into a heartfelt love story.",
     "poster": "/images/movies/tholi.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/tholi-backdrop.jpg",
     "trailerUrl": "",
     "language": "Telugu",
-    "genres": ["Romance", "Drama"],
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
     "duration": 144,
     "certification": "U",
     "rating": 8.2,
     "releaseDate": "1998-01-14",
     "status": "CLASSIC",
     "director": "A. Karunakaran",
-    "cast": ["Pawan Kalyan", "Keerthi Reddy"],
-    "tags": ["Telugu Classic"]
+    "cast": [
+      "Pawan Kalyan",
+      "Keerthi Reddy"
+    ],
+    "tags": [
+      "Telugu Classic"
+    ]
   },
   {
     "id": 29,
     "title": "Pokiri",
     "description": "An undercover cop poses as a ruthless gangster to infiltrate and dismantle a criminal syndicate from within.",
     "poster": "/images/movies/pokiri.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/pokiri-backdrop.jpg",
     "trailerUrl": "",
     "language": "Telugu",
-    "genres": ["Action", "Thriller"],
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
     "duration": 166,
     "certification": "UA",
     "rating": 8.0,
     "releaseDate": "2006-01-27",
     "status": "CLASSIC",
     "director": "Puri Jagannadh",
-    "cast": ["Mahesh Babu", "Ileana D'Cruz"],
-    "tags": ["Telugu Classic"]
+    "cast": [
+      "Mahesh Babu",
+      "Ileana D'Cruz"
+    ],
+    "tags": [
+      "Telugu Classic"
+    ]
   },
   {
     "id": 30,
     "title": "Magadheera",
     "description": "A warrior's centuries-old love story, cut short by betrayal, is reborn in the present day.",
     "poster": "/images/movies/magadheera.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/magadheera-backdrop.jpg",
     "trailerUrl": "",
     "language": "Telugu",
-    "genres": ["Action", "Fantasy", "Romance"],
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Romance"
+    ],
     "duration": 170,
     "certification": "UA",
     "rating": 8.1,
     "releaseDate": "2009-07-31",
     "status": "CLASSIC",
     "director": "S. S. Rajamouli",
-    "cast": ["Ram Charan", "Kajal Aggarwal"],
-    "tags": ["Telugu Classic"]
+    "cast": [
+      "Ram Charan",
+      "Kajal Aggarwal"
+    ],
+    "tags": [
+      "Telugu Classic"
+    ]
   },
   {
     "id": 31,
     "title": "Arundhati",
     "description": "A young woman confronts a dark family legacy tied to an ancestor's battle with a tyrannical sorcerer.",
     "poster": "/images/movies/arundhati.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/arundhati-backdrop.jpg",
     "trailerUrl": "",
     "language": "Telugu",
-    "genres": ["Horror", "Fantasy", "Drama"],
+    "genres": [
+      "Horror",
+      "Fantasy",
+      "Drama"
+    ],
     "duration": 145,
     "certification": "UA",
     "rating": 7.7,
     "releaseDate": "2009-06-11",
     "status": "CLASSIC",
     "director": "Kodi Ramakrishna",
-    "cast": ["Anushka Shetty", "Sonu Sood"],
-    "tags": ["Telugu Classic"]
+    "cast": [
+      "Anushka Shetty",
+      "Sonu Sood"
+    ],
+    "tags": [
+      "Telugu Classic"
+    ]
   },
   {
     "id": 32,
     "title": "Seethamma Vakitlo Sirimalle Chettu",
     "description": "The bond between two brothers and their extended family unfolds through warmth, humor, and everyday drama.",
     "poster": "/images/movies/seethamma.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/seethamma-backdrop.jpg",
     "trailerUrl": "",
     "language": "Telugu",
-    "genres": ["Drama", "Family"],
+    "genres": [
+      "Drama",
+      "Family"
+    ],
     "duration": 156,
     "certification": "U",
     "rating": 8.0,
     "releaseDate": "2013-01-12",
     "status": "CLASSIC",
     "director": "Srikanth Addala",
-    "cast": ["Mahesh Babu", "Venkatesh", "Samantha", "Anjali"],
-    "tags": ["Telugu Classic"]
+    "cast": [
+      "Mahesh Babu",
+      "Venkatesh",
+      "Samantha",
+      "Anjali"
+    ],
+    "tags": [
+      "Telugu Classic"
+    ]
   },
   {
     "id": 33,
     "title": "Baahubali: The Beginning",
     "description": "A young man raised in a remote village uncovers the truth of his royal lineage and a kingdom torn by betrayal.",
     "poster": "/images/movies/baahubali.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/baahubali-backdrop.jpg",
     "trailerUrl": "",
     "language": "Telugu",
-    "genres": ["Action", "Fantasy", "Drama"],
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Drama"
+    ],
     "duration": 159,
     "certification": "UA",
     "rating": 8.0,
     "releaseDate": "2015-07-10",
     "status": "CLASSIC",
     "director": "S. S. Rajamouli",
-    "cast": ["Prabhas", "Rana Daggubati", "Anushka Shetty", "Tamannaah"],
-    "tags": ["Telugu Classic"]
+    "cast": [
+      "Prabhas",
+      "Rana Daggubati",
+      "Anushka Shetty",
+      "Tamannaah"
+    ],
+    "tags": [
+      "Telugu Classic"
+    ]
   },
   {
     "id": 34,
     "title": "Rangasthalam",
     "description": "A hearing-impaired man in a village dominated by a corrupt president is drawn into a fight for justice after his brother's death.",
     "poster": "/images/movies/rangasthalam.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/rangasthalam-backdrop.jpg",
     "trailerUrl": "",
     "language": "Telugu",
-    "genres": ["Drama", "Action"],
+    "genres": [
+      "Drama",
+      "Action"
+    ],
     "duration": 170,
     "certification": "UA",
     "rating": 8.3,
     "releaseDate": "2018-03-30",
     "status": "CLASSIC",
     "director": "Sukumar",
-    "cast": ["Ram Charan", "Samantha", "Aadhi Pinisetty"],
-    "tags": ["Telugu Classic"]
+    "cast": [
+      "Ram Charan",
+      "Samantha",
+      "Aadhi Pinisetty"
+    ],
+    "tags": [
+      "Telugu Classic"
+    ]
   },
   {
     "id": 35,
     "title": "Parasakthi",
     "description": "A man returning to his village after years abroad confronts the social injustices and corruption plaguing his family and society.",
     "poster": "/images/movies/parasakthi.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/parasakthi-backdrop.jpg",
     "trailerUrl": "",
     "language": "Tamil",
-    "genres": ["Drama"],
+    "genres": [
+      "Drama"
+    ],
     "duration": 176,
     "certification": "U",
     "rating": 8.0,
     "releaseDate": "1952-10-17",
     "status": "CLASSIC",
     "director": "Krishnan-Panju",
-    "cast": ["Sivaji Ganesan", "S. S. Rajendran"],
-    "tags": ["Tamil Classic"]
+    "cast": [
+      "Sivaji Ganesan",
+      "S. S. Rajendran"
+    ],
+    "tags": [
+      "Tamil Classic"
+    ]
   },
   {
     "id": 36,
     "title": "Moondram Pirai",
     "description": "A schoolteacher cares for a woman who has regressed to a childlike mental state after a traumatic accident, forming an unusual bond.",
     "poster": "/images/movies/moondram.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/moondram-backdrop.jpg",
     "trailerUrl": "",
     "language": "Tamil",
-    "genres": ["Drama"],
+    "genres": [
+      "Drama"
+    ],
     "duration": 141,
     "certification": "U",
     "rating": 8.7,
     "releaseDate": "1982-05-14",
     "status": "CLASSIC",
     "director": "Balu Mahendra",
-    "cast": ["Kamal Haasan", "Sridevi"],
-    "tags": ["Tamil Classic"]
+    "cast": [
+      "Kamal Haasan",
+      "Sridevi"
+    ],
+    "tags": [
+      "Tamil Classic"
+    ]
   },
   {
     "id": 37,
     "title": "Nayakan",
     "description": "Loosely inspired by real events, a Tamil man rises from a poor migrant boy to a powerful Mumbai crime boss revered as a local Robin Hood figure.",
     "poster": "/images/movies/nayakan.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/nayakan-backdrop.jpg",
     "trailerUrl": "",
     "language": "Tamil",
-    "genres": ["Crime", "Drama"],
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
     "duration": 145,
     "certification": "U",
     "rating": 8.7,
     "releaseDate": "1987-11-21",
     "status": "CLASSIC",
     "director": "Mani Ratnam",
-    "cast": ["Kamal Haasan", "Saranya Ponvannan", "Tinnu Anand"],
-    "tags": ["Tamil Classic", "Mani Ratnam", "Crime", "Drama"]
+    "cast": [
+      "Kamal Haasan",
+      "Saranya Ponvannan",
+      "Tinnu Anand"
+    ],
+    "tags": [
+      "Tamil Classic",
+      "Mani Ratnam",
+      "Crime",
+      "Drama"
+    ]
   },
   {
     "id": 38,
     "title": "Apoorva Sagodharargal",
     "description": "A dwarf seeks revenge against the men who wronged his family, aided by his long-lost twin brother.",
     "poster": "/images/movies/apoorva.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/apoorva-backdrop.jpg",
     "trailerUrl": "",
     "language": "Tamil",
-    "genres": ["Action", "Comedy", "Drama"],
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama"
+    ],
     "duration": 166,
     "certification": "U",
     "rating": 8.4,
     "releaseDate": "1989-01-14",
     "status": "CLASSIC",
     "director": "Singeetam Srinivasa Rao",
-    "cast": ["Kamal Haasan", "Nagma", "Rupini"],
-    "tags": ["Tamil Classic"]
+    "cast": [
+      "Kamal Haasan",
+      "Nagma",
+      "Rupini"
+    ],
+    "tags": [
+      "Tamil Classic"
+    ]
   },
   {
     "id": 39,
     "title": "Thevar Magan",
     "description": "A Western-educated young man returns to his village and is drawn back into the world of caste politics and rivalries his father once ruled.",
     "poster": "/images/movies/thevar.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/thevar-backdrop.jpg",
     "trailerUrl": "",
     "language": "Tamil",
-    "genres": ["Drama", "Action"],
+    "genres": [
+      "Drama",
+      "Action"
+    ],
     "duration": 168,
     "certification": "U",
     "rating": 8.5,
     "releaseDate": "1992-09-10",
     "status": "CLASSIC",
     "director": "Bharathan",
-    "cast": ["Kamal Haasan", "Sivaji Ganesan", "Revathi", "Gouthami"],
-    "tags": ["Tamil Classic"]
+    "cast": [
+      "Kamal Haasan",
+      "Sivaji Ganesan",
+      "Revathi",
+      "Gouthami"
+    ],
+    "tags": [
+      "Tamil Classic"
+    ]
   },
   {
     "id": 40,
     "title": "Baashha",
     "description": "A mild-mannered auto-rickshaw driver's peaceful life unravels when his violent past as a Mumbai gangster resurfaces.",
     "poster": "/images/movies/baashha.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/baashha-backdrop.jpg",
     "trailerUrl": "",
     "language": "Tamil",
-    "genres": ["Action", "Drama"],
+    "genres": [
+      "Action",
+      "Drama"
+    ],
     "duration": 165,
     "certification": "U",
     "rating": 8.4,
     "releaseDate": "1995-01-14",
     "status": "CLASSIC",
     "director": "Suresh Krissna",
-    "cast": ["Rajinikanth", "Nagma"],
-    "tags": ["Tamil Classic"]
+    "cast": [
+      "Rajinikanth",
+      "Nagma"
+    ],
+    "tags": [
+      "Tamil Classic"
+    ]
   },
   {
     "id": 41,
     "title": "Muthu",
     "description": "A loyal estate manager falls for a theatre actress while uncovering long-buried secrets about his own identity.",
     "poster": "/images/movies/muthu.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/muthu-backdrop.jpg",
     "trailerUrl": "",
     "language": "Tamil",
-    "genres": ["Action", "Comedy", "Romance"],
+    "genres": [
+      "Action",
+      "Comedy",
+      "Romance"
+    ],
     "duration": 160,
     "certification": "U",
     "rating": 7.7,
     "releaseDate": "1995-01-14",
     "status": "CLASSIC",
     "director": "K. S. Ravikumar",
-    "cast": ["Rajinikanth", "Meena"],
-    "tags": ["Tamil Classic"]
+    "cast": [
+      "Rajinikanth",
+      "Meena"
+    ],
+    "tags": [
+      "Tamil Classic"
+    ]
   },
   {
     "id": 42,
     "title": "Sethu",
     "description": "A reckless college troublemaker falls deeply in love, but fate and violence push their relationship toward tragedy.",
     "poster": "/images/movies/sethu.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/sethu-backdrop.jpg",
     "trailerUrl": "",
     "language": "Tamil",
-    "genres": ["Drama", "Romance"],
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
     "duration": 143,
     "certification": "UA",
     "rating": 8.2,
     "releaseDate": "1999-08-13",
     "status": "CLASSIC",
     "director": "Bala",
-    "cast": ["Vikram", "Abitha"],
-    "tags": ["Tamil Classic"]
+    "cast": [
+      "Vikram",
+      "Abitha"
+    ],
+    "tags": [
+      "Tamil Classic"
+    ]
   },
   {
     "id": 43,
     "title": "Kaakha Kaakha",
     "description": "A dedicated police officer's professional and personal life collide when his family becomes a target of the criminals he pursues.",
     "poster": "/images/movies/kaakha.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/kaakha-backdrop.jpg",
     "trailerUrl": "",
     "language": "Tamil",
-    "genres": ["Action", "Thriller", "Romance"],
+    "genres": [
+      "Action",
+      "Thriller",
+      "Romance"
+    ],
     "duration": 160,
     "certification": "UA",
     "rating": 8.1,
     "releaseDate": "2003-08-15",
     "status": "CLASSIC",
     "director": "Gautham Vasudev Menon",
-    "cast": ["Suriya", "Jyothika"],
-    "tags": ["Tamil Classic"]
+    "cast": [
+      "Suriya",
+      "Jyothika"
+    ],
+    "tags": [
+      "Tamil Classic"
+    ]
   },
   {
     "id": 44,
     "title": "Anbe Sivam",
     "description": "An egotistical ad executive and an injured, disfigured labor activist are forced to travel together, clashing in ideology but forging an unlikely bond.",
     "poster": "/images/movies/anbe.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/anbe-backdrop.jpg",
     "trailerUrl": "",
     "language": "Tamil",
-    "genres": ["Drama", "Comedy"],
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
     "duration": 160,
     "certification": "U",
     "rating": 8.7,
     "releaseDate": "2003-01-14",
     "status": "CLASSIC",
     "director": "Sundar C",
-    "cast": ["Kamal Haasan", "Madhavan", "Kiran Rathod"],
-    "tags": ["Tamil Classic"]
+    "cast": [
+      "Kamal Haasan",
+      "Madhavan",
+      "Kiran Rathod"
+    ],
+    "tags": [
+      "Tamil Classic"
+    ]
   },
   {
     "id": 45,
     "title": "Autograph",
     "description": "A man revisits the women who shaped his life as he prepares for his own wedding, reflecting on love, memory, and loss.",
     "poster": "/images/movies/autograph.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/autograph-backdrop.jpg",
     "trailerUrl": "",
     "language": "Tamil",
-    "genres": ["Drama", "Romance"],
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
     "duration": 166,
     "certification": "U",
     "rating": 8.3,
     "releaseDate": "2004-01-14",
     "status": "CLASSIC",
     "director": "Cheran",
-    "cast": ["Cheran", "Sneha", "Gopika"],
-    "tags": ["Tamil Classic"]
+    "cast": [
+      "Cheran",
+      "Sneha",
+      "Gopika"
+    ],
+    "tags": [
+      "Tamil Classic"
+    ]
   },
   {
     "id": 46,
     "title": "Vaaranam Aayiram",
     "description": "A young man recounts his father's life story and his own journey through love and loss while grieving his father's death.",
     "poster": "/images/movies/vaaranam.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/vaaranam-backdrop.jpg",
     "trailerUrl": "",
     "language": "Tamil",
-    "genres": ["Drama", "Romance"],
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
     "duration": 179,
     "certification": "U",
     "rating": 8.6,
     "releaseDate": "2008-04-11",
     "status": "CLASSIC",
     "director": "Gautham Vasudev Menon",
-    "cast": ["Suriya", "Sameera Reddy", "Divya Spandana"],
-    "tags": ["Tamil Classic"]
+    "cast": [
+      "Suriya",
+      "Sameera Reddy",
+      "Divya Spandana"
+    ],
+    "tags": [
+      "Tamil Classic"
+    ]
   },
   {
     "id": 47,
     "title": "Kannathil Muthamittal",
     "description": "A nine-year-old girl raised by adoptive parents in Tamil Nadu sets out to find her birth mother amid the Sri Lankan civil conflict.",
     "poster": "/images/movies/kannathil.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/kannathil-backdrop.jpg",
     "trailerUrl": "",
     "language": "Tamil",
-    "genres": ["Drama"],
+    "genres": [
+      "Drama"
+    ],
     "duration": 136,
     "certification": "U",
     "rating": 8.4,
     "releaseDate": "2002-02-22",
     "status": "CLASSIC",
     "director": "Mani Ratnam",
-    "cast": ["Madhavan", "Simran", "P. S. Keerthana"],
-    "tags": ["Tamil Classic", "Mani Ratnam", "Drama"]
+    "cast": [
+      "Madhavan",
+      "Simran",
+      "P. S. Keerthana"
+    ],
+    "tags": [
+      "Tamil Classic",
+      "Mani Ratnam",
+      "Drama"
+    ]
   },
   {
     "id": 48,
     "title": "Vikram",
     "description": "A special-forces officer investigates a series of murders that leads him into a hidden world of drug trafficking and vigilante justice.",
     "poster": "/images/movies/vikram.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/vikram-backdrop.jpg",
     "trailerUrl": "",
     "language": "Tamil",
-    "genres": ["Action", "Thriller"],
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
     "duration": 174,
     "certification": "UA",
     "rating": 8.3,
     "releaseDate": "2022-06-03",
     "status": "CLASSIC",
     "director": "Lokesh Kanagaraj",
-    "cast": ["Kamal Haasan", "Vijay Sethupathi", "Fahadh Faasil"],
-    "tags": ["Tamil Classic"]
+    "cast": [
+      "Kamal Haasan",
+      "Vijay Sethupathi",
+      "Fahadh Faasil"
+    ],
+    "tags": [
+      "Tamil Classic"
+    ]
   },
   {
     "id": 49,
     "title": "96",
     "description": "Former high-school sweethearts reunite at a class reunion after twenty-two years apart, revisiting old memories and unfinished feelings.",
     "poster": "/images/movies/96.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/96-backdrop.jpg",
     "trailerUrl": "",
     "language": "Tamil",
-    "genres": ["Romance", "Drama"],
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
     "duration": 158,
     "certification": "U",
     "rating": 8.5,
     "releaseDate": "2018-10-04",
     "status": "CLASSIC",
     "director": "C. Prem Kumar",
-    "cast": ["Vijay Sethupathi", "Trisha Krishnan"],
-    "tags": ["Tamil Classic"]
+    "cast": [
+      "Vijay Sethupathi",
+      "Trisha Krishnan"
+    ],
+    "tags": [
+      "Tamil Classic"
+    ]
   },
   {
     "id": 50,
     "title": "Super Deluxe",
     "description": "Several interconnected stories in Chennai explore identity, faith, and morality over the course of one eventful day.",
     "poster": "/images/movies/super.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/super-backdrop.jpg",
     "trailerUrl": "",
     "language": "Tamil",
-    "genres": ["Drama", "Anthology"],
+    "genres": [
+      "Drama",
+      "Anthology"
+    ],
     "duration": 176,
     "certification": "A",
     "rating": 8.5,
     "releaseDate": "2019-03-29",
     "status": "CLASSIC",
     "director": "Thiagarajan Kumararaja",
-    "cast": ["Vijay Sethupathi", "Samantha", "Fahadh Faasil"],
-    "tags": ["Tamil Classic"]
+    "cast": [
+      "Vijay Sethupathi",
+      "Samantha",
+      "Fahadh Faasil"
+    ],
+    "tags": [
+      "Tamil Classic"
+    ]
   },
   {
     "id": 51,
     "title": "Chemmeen",
     "description": "A fisherman's daughter's forbidden love and a fisherfolk community's beliefs collide with tragic consequences at sea.",
     "poster": "/images/movies/chemmeen.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/chemmeen-backdrop.jpg",
     "trailerUrl": "",
     "language": "Malayalam",
-    "genres": ["Drama", "Romance"],
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
     "duration": 121,
     "certification": "U",
     "rating": 8.7,
     "releaseDate": "1965-08-19",
     "status": "CLASSIC",
     "director": "Ramu Kariat",
-    "cast": ["Sheela", "Madhu", "Sathyan"],
-    "tags": ["Malayalam Favorite"]
+    "cast": [
+      "Sheela",
+      "Madhu",
+      "Sathyan"
+    ],
+    "tags": [
+      "Malayalam Favorite"
+    ]
   },
   {
     "id": 52,
     "title": "Kireedam",
     "description": "A gentle, law-abiding young man is pushed by circumstance and violence into becoming the very thing his father feared he might become.",
     "poster": "/images/movies/kireedam.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/kireedam-backdrop.jpg",
     "trailerUrl": "",
     "language": "Malayalam",
-    "genres": ["Drama"],
+    "genres": [
+      "Drama"
+    ],
     "duration": 150,
     "certification": "U",
     "rating": 8.9,
     "releaseDate": "1989-04-14",
     "status": "CLASSIC",
     "director": "Sibi Malayil",
-    "cast": ["Mohanlal", "Thilakan"],
-    "tags": ["Malayalam Favorite"]
+    "cast": [
+      "Mohanlal",
+      "Thilakan"
+    ],
+    "tags": [
+      "Malayalam Favorite"
+    ]
   },
   {
     "id": 53,
     "title": "Manichitrathazhu",
     "description": "A family moves into an ancestral home where a young woman becomes possessed by the spirit tied to a locked, forbidden room.",
     "poster": "/images/movies/manichitrathazhu.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/manichitrathazhu-backdrop.jpg",
     "trailerUrl": "",
     "language": "Malayalam",
-    "genres": ["Horror", "Thriller", "Psychological"],
+    "genres": [
+      "Horror",
+      "Thriller",
+      "Psychological"
+    ],
     "duration": 175,
     "certification": "U",
     "rating": 8.7,
     "releaseDate": "1993-01-14",
     "status": "CLASSIC",
     "director": "Fazil",
-    "cast": ["Mohanlal", "Shobana", "Suresh Gopi"],
-    "tags": ["Malayalam Favorite"]
+    "cast": [
+      "Mohanlal",
+      "Shobana",
+      "Suresh Gopi"
+    ],
+    "tags": [
+      "Malayalam Favorite"
+    ]
   },
   {
     "id": 54,
     "title": "Thanmatra",
     "description": "A middle-class father's early-onset memory loss slowly unravels his family's life and identity.",
     "poster": "/images/movies/thanmatra.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/thanmatra-backdrop.jpg",
     "trailerUrl": "",
     "language": "Malayalam",
-    "genres": ["Drama"],
+    "genres": [
+      "Drama"
+    ],
     "duration": 160,
     "certification": "U",
     "rating": 8.5,
     "releaseDate": "2005-04-15",
     "status": "CLASSIC",
     "director": "Blessy",
-    "cast": ["Mohanlal", "Meera Vasudevan"],
-    "tags": ["Malayalam Favorite"]
+    "cast": [
+      "Mohanlal",
+      "Meera Vasudevan"
+    ],
+    "tags": [
+      "Malayalam Favorite"
+    ]
   },
   {
     "id": 55,
     "title": "Drishyam",
     "description": "A cable TV operator with no formal education uses his knowledge of films to protect his family after a crime threatens to expose them.",
     "poster": "/images/movies/drishyam.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/drishyam-backdrop.jpg",
     "trailerUrl": "",
     "language": "Malayalam",
-    "genres": ["Thriller", "Drama", "Crime"],
+    "genres": [
+      "Thriller",
+      "Drama",
+      "Crime"
+    ],
     "duration": 160,
     "certification": "U",
     "rating": 8.6,
     "releaseDate": "2013-02-14",
     "status": "CLASSIC",
     "director": "Jeethu Joseph",
-    "cast": ["Mohanlal", "Meena"],
-    "tags": ["Malayalam Favorite"]
+    "cast": [
+      "Mohanlal",
+      "Meena"
+    ],
+    "tags": [
+      "Malayalam Favorite"
+    ]
   },
   {
     "id": 56,
     "title": "Bangalore Days",
     "description": "Three cousins move to Bangalore for work and navigate love, ambition, and family expectations as their lives intertwine.",
     "poster": "/images/movies/bangalore.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/bangalore-backdrop.jpg",
     "trailerUrl": "",
     "language": "Malayalam",
-    "genres": ["Drama", "Romance", "Comedy"],
+    "genres": [
+      "Drama",
+      "Romance",
+      "Comedy"
+    ],
     "duration": 172,
     "certification": "U",
     "rating": 8.2,
     "releaseDate": "2014-07-25",
     "status": "CLASSIC",
     "director": "Anjali Menon",
-    "cast": ["Dulquer Salmaan", "Nazriya Nazim", "Nivin Pauly"],
-    "tags": ["Malayalam Favorite"]
+    "cast": [
+      "Dulquer Salmaan",
+      "Nazriya Nazim",
+      "Nivin Pauly"
+    ],
+    "tags": [
+      "Malayalam Favorite"
+    ]
   },
   {
     "id": 57,
     "title": "Premam",
     "description": "A young man's romantic misadventures across three stages of his life explore the joys and heartbreaks of first, second, and lasting love.",
     "poster": "/images/movies/premam.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/premam-backdrop.jpg",
     "trailerUrl": "",
     "language": "Malayalam",
-    "genres": ["Romance", "Comedy", "Drama"],
+    "genres": [
+      "Romance",
+      "Comedy",
+      "Drama"
+    ],
     "duration": 156,
     "certification": "U",
     "rating": 8.3,
     "releaseDate": "2015-06-05",
     "status": "CLASSIC",
     "director": "Alphonse Puthren",
-    "cast": ["Nivin Pauly", "Sai Pallavi", "Madonna Sebastian"],
-    "tags": ["Malayalam Favorite"]
+    "cast": [
+      "Nivin Pauly",
+      "Sai Pallavi",
+      "Madonna Sebastian"
+    ],
+    "tags": [
+      "Malayalam Favorite"
+    ]
   },
   {
     "id": 58,
     "title": "Maheshinte Prathikaaram",
     "description": "After a humiliating public defeat, a small-town photographer quietly vows revenge, and the wait changes him in unexpected ways.",
     "poster": "/images/movies/maheshinte.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/maheshinte-backdrop.jpg",
     "trailerUrl": "",
     "language": "Malayalam",
-    "genres": ["Comedy", "Drama"],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
     "duration": 118,
     "certification": "U",
     "rating": 8.6,
     "releaseDate": "2016-02-05",
     "status": "CLASSIC",
     "director": "Dileesh Pothan",
-    "cast": ["Fahadh Faasil", "Aparna Balamurali"],
-    "tags": ["Malayalam Favorite"]
+    "cast": [
+      "Fahadh Faasil",
+      "Aparna Balamurali"
+    ],
+    "tags": [
+      "Malayalam Favorite"
+    ]
   },
   {
     "id": 59,
     "title": "Angamaly Diaries",
     "description": "A young man's rise in Angamaly's meat business and local rivalries is chronicled through a sprawling ensemble of characters.",
     "poster": "/images/movies/angamaly.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/angamaly-backdrop.jpg",
     "trailerUrl": "",
     "language": "Malayalam",
-    "genres": ["Drama", "Action"],
+    "genres": [
+      "Drama",
+      "Action"
+    ],
     "duration": 129,
     "certification": "UA",
     "rating": 8.1,
     "releaseDate": "2017-08-18",
     "status": "CLASSIC",
     "director": "Lijo Jose Pellissery",
-    "cast": ["Antony Varghese"],
-    "tags": ["Malayalam Favorite"]
+    "cast": [
+      "Antony Varghese"
+    ],
+    "tags": [
+      "Malayalam Favorite"
+    ]
   },
   {
     "id": 60,
     "title": "Ustad Hotel",
     "description": "A young man estranged from his conservative father finds purpose and identity while working in his grandfather's modest restaurant.",
     "poster": "/images/movies/ustad.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/ustad-backdrop.jpg",
     "trailerUrl": "",
     "language": "Malayalam",
-    "genres": ["Drama"],
+    "genres": [
+      "Drama"
+    ],
     "duration": 129,
     "certification": "U",
     "rating": 8.2,
     "releaseDate": "2012-07-13",
     "status": "CLASSIC",
     "director": "Anwar Rasheed",
-    "cast": ["Dulquer Salmaan", "Thilakan"],
-    "tags": ["Malayalam Favorite"]
+    "cast": [
+      "Dulquer Salmaan",
+      "Thilakan"
+    ],
+    "tags": [
+      "Malayalam Favorite"
+    ]
   },
   {
     "id": 61,
     "title": "Charlie",
     "description": "A woman on a personal journey of self-discovery becomes captivated by the mysterious trail left behind by a free-spirited stranger.",
     "poster": "/images/movies/charlie.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/charlie-backdrop.jpg",
     "trailerUrl": "",
     "language": "Malayalam",
-    "genres": ["Adventure", "Romance", "Drama"],
+    "genres": [
+      "Adventure",
+      "Romance",
+      "Drama"
+    ],
     "duration": 145,
     "certification": "U",
     "rating": 8.2,
     "releaseDate": "2015-05-08",
     "status": "CLASSIC",
     "director": "Martin Prakkat",
-    "cast": ["Dulquer Salmaan", "Parvathy Thiruvothu"],
-    "tags": ["Malayalam Favorite"]
+    "cast": [
+      "Dulquer Salmaan",
+      "Parvathy Thiruvothu"
+    ],
+    "tags": [
+      "Malayalam Favorite"
+    ]
   },
   {
     "id": 62,
     "title": "Kumbalangi Nights",
     "description": "Four estranged brothers living together in a dysfunctional household find their bonds tested and, ultimately, mended.",
     "poster": "/images/movies/kumbalangi.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/kumbalangi-backdrop.jpg",
     "trailerUrl": "",
     "language": "Malayalam",
-    "genres": ["Drama"],
+    "genres": [
+      "Drama"
+    ],
     "duration": 135,
     "certification": "UA",
     "rating": 8.6,
     "releaseDate": "2019-02-07",
     "status": "CLASSIC",
     "director": "Madhu C. Narayanan",
-    "cast": ["Fahadh Faasil", "Soubin Shahir", "Shane Nigam"],
-    "tags": ["Malayalam Favorite"]
+    "cast": [
+      "Fahadh Faasil",
+      "Soubin Shahir",
+      "Shane Nigam"
+    ],
+    "tags": [
+      "Malayalam Favorite"
+    ]
   },
   {
     "id": 63,
     "title": "Jallikattu",
     "description": "A buffalo's escape from a slaughterhouse spirals into a chaotic, primal chase that exposes the savagery beneath a small village.",
     "poster": "/images/movies/jallikattu.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/jallikattu-backdrop.jpg",
     "trailerUrl": "",
     "language": "Malayalam",
-    "genres": ["Drama", "Thriller"],
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
     "duration": 91,
     "certification": "UA",
     "rating": 7.8,
     "releaseDate": "2019-10-04",
     "status": "CLASSIC",
     "director": "Lijo Jose Pellissery",
-    "cast": ["Antony Varghese", "Chemban Vinod Jose"],
-    "tags": ["Malayalam Favorite"]
+    "cast": [
+      "Antony Varghese",
+      "Chemban Vinod Jose"
+    ],
+    "tags": [
+      "Malayalam Favorite"
+    ]
   },
   {
     "id": 64,
     "title": "Uyare",
     "description": "An aspiring pilot's dreams are nearly derailed by a violent act of betrayal, and she must fight to reclaim her future.",
     "poster": "/images/movies/uyare.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/uyare-backdrop.jpg",
     "trailerUrl": "",
     "language": "Malayalam",
-    "genres": ["Drama"],
+    "genres": [
+      "Drama"
+    ],
     "duration": 129,
     "certification": "U",
     "rating": 8.1,
     "releaseDate": "2019-05-17",
     "status": "CLASSIC",
     "director": "Manu Ashokan",
-    "cast": ["Parvathy Thiruvothu", "Asif Ali", "Tovino Thomas"],
-    "tags": ["Malayalam Favorite"]
+    "cast": [
+      "Parvathy Thiruvothu",
+      "Asif Ali",
+      "Tovino Thomas"
+    ],
+    "tags": [
+      "Malayalam Favorite"
+    ]
   },
   {
     "id": 65,
     "title": "The Great Indian Kitchen",
     "description": "A newly married woman's daily life in her husband's home reveals the quiet, relentless weight of domestic patriarchy.",
     "poster": "/images/movies/the.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/the-backdrop.jpg",
     "trailerUrl": "",
     "language": "Malayalam",
-    "genres": ["Drama"],
+    "genres": [
+      "Drama"
+    ],
     "duration": 100,
     "certification": "unknown",
     "rating": 8.4,
     "releaseDate": "2021-01-15",
     "status": "CLASSIC",
     "director": "Jeo Baby",
-    "cast": ["Nimisha Sajayan", "Suraj Venjaramoodu"],
-    "tags": ["Malayalam Favorite"]
+    "cast": [
+      "Nimisha Sajayan",
+      "Suraj Venjaramoodu"
+    ],
+    "tags": [
+      "Malayalam Favorite"
+    ]
   },
   {
     "id": 66,
     "title": "Aavesham",
     "description": "A group of engineering students seeking protection from campus bullies find themselves under the wing of an eccentric, volatile local don.",
     "poster": "/images/movies/aavesham.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/aavesham-backdrop.jpg",
     "trailerUrl": "",
     "language": "Malayalam",
-    "genres": ["Action", "Comedy"],
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
     "duration": 156,
     "certification": "UA",
     "rating": 7.7,
     "releaseDate": "2024-04-11",
     "status": "CLASSIC",
     "director": "Jithu Madhavan",
-    "cast": ["Fahadh Faasil"],
-    "tags": ["Malayalam Favorite"]
+    "cast": [
+      "Fahadh Faasil"
+    ],
+    "tags": [
+      "Malayalam Favorite"
+    ]
   },
   {
     "id": 67,
     "title": "Manjummel Boys",
     "description": "A group of friends on a trip to Kodaikanal are thrown into a desperate rescue effort after one of them falls into a deep cave.",
     "poster": "/images/movies/manjummel.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/manjummel-backdrop.jpg",
     "trailerUrl": "",
     "language": "Malayalam",
-    "genres": ["Drama", "Thriller", "Survival"],
+    "genres": [
+      "Drama",
+      "Thriller",
+      "Survival"
+    ],
     "duration": 135,
     "certification": "UA",
     "rating": 8.4,
     "releaseDate": "2024-02-22",
     "status": "CLASSIC",
     "director": "Chidambaram",
-    "cast": ["Soubin Shahir", "Sreenath Bhasi"],
-    "tags": ["Malayalam Favorite"]
+    "cast": [
+      "Soubin Shahir",
+      "Sreenath Bhasi"
+    ],
+    "tags": [
+      "Malayalam Favorite"
+    ]
   },
   {
     "id": 68,
     "title": "Bramayugam",
     "description": "A wandering singer seeking shelter in a decaying mansion becomes trapped in the sinister games of its lone, powerful occupant.",
     "poster": "/images/movies/bramayugam.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/bramayugam-backdrop.jpg",
     "trailerUrl": "",
     "language": "Malayalam",
-    "genres": ["Horror", "Drama", "Psychological"],
+    "genres": [
+      "Horror",
+      "Drama",
+      "Psychological"
+    ],
     "duration": 138,
     "certification": "UA",
     "rating": 8.1,
     "releaseDate": "2024-02-15",
     "status": "CLASSIC",
     "director": "Rahul Sadasivan",
-    "cast": ["Mammootty", "Arjun Ashokan"],
-    "tags": ["Malayalam Favorite"]
+    "cast": [
+      "Mammootty",
+      "Arjun Ashokan"
+    ],
+    "tags": [
+      "Malayalam Favorite"
+    ]
   },
   {
     "id": 69,
     "title": "Mouna Ragam",
     "description": "A young woman still grieving a lost love is pushed into an arranged marriage, and must reconcile her past with her new life.",
     "poster": "/images/movies/mouna.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/mouna-backdrop.jpg",
     "trailerUrl": "",
     "language": "Tamil",
-    "genres": ["Romance", "Drama"],
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
     "duration": 137,
     "certification": "U",
     "rating": 8.3,
     "releaseDate": "1986-09-05",
     "status": "CLASSIC",
     "director": "Mani Ratnam",
-    "cast": ["Mohan", "Revathi", "Karthik"],
-    "tags": ["Mani Ratnam", "Romance", "Drama"]
+    "cast": [
+      "Mohan",
+      "Revathi",
+      "Karthik"
+    ],
+    "tags": [
+      "Mani Ratnam",
+      "Romance",
+      "Drama"
+    ]
   },
   {
     "id": 70,
     "title": "Roja",
     "description": "A newly married woman fights to secure the release of her husband, a cryptologist kidnapped by militants in Kashmir.",
     "poster": "/images/movies/roja.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/roja-backdrop.jpg",
     "trailerUrl": "",
     "language": "Tamil",
-    "genres": ["Romance", "Drama", "Thriller"],
+    "genres": [
+      "Romance",
+      "Drama",
+      "Thriller"
+    ],
     "duration": 152,
     "certification": "U",
     "rating": 8.0,
     "releaseDate": "1992-08-15",
     "status": "CLASSIC",
     "director": "Mani Ratnam",
-    "cast": ["Arvind Swamy", "Madhoo"],
-    "tags": ["Mani Ratnam", "Romance", "Drama"]
+    "cast": [
+      "Arvind Swamy",
+      "Madhoo"
+    ],
+    "tags": [
+      "Mani Ratnam",
+      "Romance",
+      "Drama"
+    ]
   },
   {
     "id": 71,
     "title": "Thalapathi",
     "description": "A modern retelling of the Karna-Duryodhana friendship from the Mahabharata, set against the backdrop of gang rivalries.",
     "poster": "/images/movies/thalapathi.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/thalapathi-backdrop.jpg",
     "trailerUrl": "",
     "language": "Tamil",
-    "genres": ["Drama", "Action"],
+    "genres": [
+      "Drama",
+      "Action"
+    ],
     "duration": 172,
     "certification": "U",
     "rating": 8.4,
     "releaseDate": "1991-07-26",
     "status": "CLASSIC",
     "director": "Mani Ratnam",
-    "cast": ["Rajinikanth", "Mammootty", "Shobana"],
-    "tags": ["Mani Ratnam", "Drama", "Action"]
+    "cast": [
+      "Rajinikanth",
+      "Mammootty",
+      "Shobana"
+    ],
+    "tags": [
+      "Mani Ratnam",
+      "Drama",
+      "Action"
+    ]
   },
   {
     "id": 72,
     "title": "Bombay",
     "description": "An interfaith couple's marriage and family are tested when communal riots engulf the city around them.",
     "poster": "/images/movies/bombay.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/bombay-backdrop.jpg",
     "trailerUrl": "",
     "language": "Tamil",
-    "genres": ["Romance", "Drama"],
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
     "duration": 141,
     "certification": "U",
     "rating": 8.2,
     "releaseDate": "1995-03-10",
     "status": "CLASSIC",
     "director": "Mani Ratnam",
-    "cast": ["Arvind Swamy", "Manisha Koirala"],
-    "tags": ["Mani Ratnam", "Romance", "Drama"]
+    "cast": [
+      "Arvind Swamy",
+      "Manisha Koirala"
+    ],
+    "tags": [
+      "Mani Ratnam",
+      "Romance",
+      "Drama"
+    ]
   },
   {
     "id": 73,
     "title": "Iruvar",
     "description": "The rise, rivalry, and enduring bond between two men whose lives shape the intertwined worlds of Tamil cinema and politics.",
     "poster": "/images/movies/iruvar.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/iruvar-backdrop.jpg",
     "trailerUrl": "",
     "language": "Tamil",
-    "genres": ["Drama", "Biography"],
+    "genres": [
+      "Drama",
+      "Biography"
+    ],
     "duration": 138,
     "certification": "U",
     "rating": 8.5,
     "releaseDate": "1997-01-15",
     "status": "CLASSIC",
     "director": "Mani Ratnam",
-    "cast": ["Mohanlal", "Prakash Raj", "Aishwarya Rai"],
-    "tags": ["Mani Ratnam", "Drama"]
+    "cast": [
+      "Mohanlal",
+      "Prakash Raj",
+      "Aishwarya Rai"
+    ],
+    "tags": [
+      "Mani Ratnam",
+      "Drama"
+    ]
   },
   {
     "id": 74,
     "title": "Dil Se..",
     "description": "A radio journalist's obsessive love for a mysterious woman draws him into the world of insurgency in India's northeast.",
     "poster": "/images/movies/dil.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/dil-backdrop.jpg",
     "trailerUrl": "",
     "language": "Hindi",
-    "genres": ["Romance", "Drama", "Thriller"],
+    "genres": [
+      "Romance",
+      "Drama",
+      "Thriller"
+    ],
     "duration": 163,
     "certification": "UA",
     "rating": 7.7,
     "releaseDate": "1998-08-21",
     "status": "CLASSIC",
     "director": "Mani Ratnam",
-    "cast": ["Shah Rukh Khan", "Manisha Koirala", "Preity Zinta"],
-    "tags": ["Mani Ratnam", "Romance", "Drama"]
+    "cast": [
+      "Shah Rukh Khan",
+      "Manisha Koirala",
+      "Preity Zinta"
+    ],
+    "tags": [
+      "Mani Ratnam",
+      "Romance",
+      "Drama"
+    ]
   },
   {
     "id": 75,
     "title": "Alaipayuthey",
     "description": "A young couple elope and marry against their families' wishes, only to discover that married life brings its own challenges.",
     "poster": "/images/movies/alaipayuthey.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/alaipayuthey-backdrop.jpg",
     "trailerUrl": "",
     "language": "Tamil",
-    "genres": ["Romance", "Drama"],
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
     "duration": 163,
     "certification": "U",
     "rating": 8.5,
     "releaseDate": "2000-04-04",
     "status": "CLASSIC",
     "director": "Mani Ratnam",
-    "cast": ["Madhavan", "Shalini"],
-    "tags": ["Mani Ratnam", "Romance", "Drama"]
+    "cast": [
+      "Madhavan",
+      "Shalini"
+    ],
+    "tags": [
+      "Mani Ratnam",
+      "Romance",
+      "Drama"
+    ]
   },
   {
     "id": 76,
     "title": "Guru",
     "description": "A small-town man's relentless ambition drives him to build a business empire, testing his ideals along the way.",
     "poster": "/images/movies/guru.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/guru-backdrop.jpg",
     "trailerUrl": "",
     "language": "Hindi",
-    "genres": ["Drama", "Biography"],
+    "genres": [
+      "Drama",
+      "Biography"
+    ],
     "duration": 153,
     "certification": "UA",
     "rating": 8.1,
     "releaseDate": "2007-01-12",
     "status": "CLASSIC",
     "director": "Mani Ratnam",
-    "cast": ["Abhishek Bachchan", "Aishwarya Rai", "Madhavan"],
-    "tags": ["Mani Ratnam", "Drama"]
+    "cast": [
+      "Abhishek Bachchan",
+      "Aishwarya Rai",
+      "Madhavan"
+    ],
+    "tags": [
+      "Mani Ratnam",
+      "Drama"
+    ]
   },
   {
     "id": 77,
     "title": "O Kadhal Kanmani",
     "description": "A live-in relationship between two ambitious young professionals in Mumbai is contrasted with the enduring marriage of an elderly couple.",
     "poster": "/images/movies/o.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/o-backdrop.jpg",
     "trailerUrl": "",
     "language": "Tamil",
-    "genres": ["Romance", "Drama"],
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
     "duration": 142,
     "certification": "U",
     "rating": 8.1,
     "releaseDate": "2015-04-17",
     "status": "CLASSIC",
     "director": "Mani Ratnam",
-    "cast": ["Dulquer Salmaan", "Nithya Menen"],
-    "tags": ["Mani Ratnam", "Romance", "Drama"]
+    "cast": [
+      "Dulquer Salmaan",
+      "Nithya Menen"
+    ],
+    "tags": [
+      "Mani Ratnam",
+      "Romance",
+      "Drama"
+    ]
   },
   {
     "id": 78,
     "title": "Chekka Chivantha Vaanam",
     "description": "A crime family's patriarch's death sets off a bitter power struggle among his sons.",
     "poster": "/images/movies/chekka.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/chekka-backdrop.jpg",
     "trailerUrl": "",
     "language": "Tamil",
-    "genres": ["Crime", "Drama"],
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
     "duration": 153,
     "certification": "UA",
     "rating": 7.5,
     "releaseDate": "2018-09-27",
     "status": "CLASSIC",
     "director": "Mani Ratnam",
-    "cast": ["Arvind Swamy", "Vijay Sethupathi", "Arun Vijay", "STR"],
-    "tags": ["Mani Ratnam", "Crime", "Drama"]
+    "cast": [
+      "Arvind Swamy",
+      "Vijay Sethupathi",
+      "Arun Vijay",
+      "STR"
+    ],
+    "tags": [
+      "Mani Ratnam",
+      "Crime",
+      "Drama"
+    ]
   },
   {
     "id": 79,
     "title": "Memento",
     "description": "A man with short-term memory loss uses notes and tattoos to hunt down his wife's killer, piecing together his fragmented present.",
     "poster": "/images/movies/memento.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/memento-backdrop.jpg",
     "trailerUrl": "",
     "language": "English",
-    "genres": ["Thriller", "Mystery"],
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
     "duration": 113,
     "certification": "R",
     "rating": 8.4,
     "releaseDate": "2000-10-11",
     "status": "CLASSIC",
     "director": "Christopher Nolan",
-    "cast": ["Guy Pearce", "Carrie-Anne Moss", "Joe Pantoliano"],
-    "tags": ["Christopher Nolan"]
+    "cast": [
+      "Guy Pearce",
+      "Carrie-Anne Moss",
+      "Joe Pantoliano"
+    ],
+    "tags": [
+      "Christopher Nolan"
+    ]
   },
   {
     "id": 80,
     "title": "Insomnia",
     "description": "A sleep-deprived detective investigating a murder in an Alaskan town where the sun never sets makes a fateful error that compromises the case.",
     "poster": "/images/movies/insomnia.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/insomnia-backdrop.jpg",
     "trailerUrl": "",
     "language": "English",
-    "genres": ["Thriller", "Crime", "Mystery"],
+    "genres": [
+      "Thriller",
+      "Crime",
+      "Mystery"
+    ],
     "duration": 118,
     "certification": "R",
     "rating": 7.2,
     "releaseDate": "2002-05-24",
     "status": "CLASSIC",
     "director": "Christopher Nolan",
-    "cast": ["Al Pacino", "Robin Williams", "Hilary Swank"],
-    "tags": ["Christopher Nolan"]
+    "cast": [
+      "Al Pacino",
+      "Robin Williams",
+      "Hilary Swank"
+    ],
+    "tags": [
+      "Christopher Nolan"
+    ]
   },
   {
     "id": 81,
     "title": "Batman Begins",
     "description": "Bruce Wayne's origin story, tracing his journey from a traumatized heir to the vigilante protector of Gotham City.",
     "poster": "/images/movies/batman.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/batman-backdrop.jpg",
     "trailerUrl": "",
     "language": "English",
-    "genres": ["Action", "Crime", "Drama"],
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
     "duration": 140,
     "certification": "PG-13",
     "rating": 8.2,
     "releaseDate": "2005-06-15",
     "status": "CLASSIC",
     "director": "Christopher Nolan",
-    "cast": ["Christian Bale", "Michael Caine", "Liam Neeson", "Katie Holmes"],
-    "tags": ["Christopher Nolan"]
+    "cast": [
+      "Christian Bale",
+      "Michael Caine",
+      "Liam Neeson",
+      "Katie Holmes"
+    ],
+    "tags": [
+      "Christopher Nolan"
+    ]
   },
   {
     "id": 82,
     "title": "The Prestige",
     "description": "Two rival stage magicians in Victorian London engage in an escalating, obsessive feud that pushes both toward ruin.",
     "poster": "/images/movies/the-prestige.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/the-prestige-backdrop.jpg",
     "trailerUrl": "",
     "language": "English",
-    "genres": ["Drama", "Mystery", "Thriller"],
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
     "duration": 130,
     "certification": "PG-13",
     "rating": 8.5,
     "releaseDate": "2006-10-20",
     "status": "CLASSIC",
     "director": "Christopher Nolan",
-    "cast": ["Christian Bale", "Hugh Jackman", "Scarlett Johansson"],
-    "tags": ["Christopher Nolan"]
+    "cast": [
+      "Christian Bale",
+      "Hugh Jackman",
+      "Scarlett Johansson"
+    ],
+    "tags": [
+      "Christopher Nolan"
+    ]
   },
   {
     "id": 83,
     "title": "The Dark Knight",
     "description": "Batman faces his greatest psychological and moral test in the Joker, an anarchist bent on plunging Gotham into chaos.",
     "poster": "/images/movies/the-dark.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/the-dark-backdrop.jpg",
     "trailerUrl": "",
     "language": "English",
-    "genres": ["Action", "Crime", "Drama"],
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
     "duration": 152,
     "certification": "PG-13",
     "rating": 9.0,
     "releaseDate": "2008-07-18",
     "status": "CLASSIC",
     "director": "Christopher Nolan",
-    "cast": ["Christian Bale", "Heath Ledger", "Aaron Eckhart"],
-    "tags": ["Christopher Nolan"]
+    "cast": [
+      "Christian Bale",
+      "Heath Ledger",
+      "Aaron Eckhart"
+    ],
+    "tags": [
+      "Christopher Nolan"
+    ]
   },
   {
     "id": 84,
     "title": "Inception",
     "description": "A skilled thief who steals secrets through dream infiltration is offered a chance at redemption via a dangerous act of idea-planting.",
     "poster": "/images/movies/inception.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/inception-backdrop.jpg",
     "trailerUrl": "",
     "language": "English",
-    "genres": ["Science Fiction", "Action", "Thriller"],
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Thriller"
+    ],
     "duration": 148,
     "certification": "PG-13",
     "rating": 8.8,
     "releaseDate": "2010-07-16",
     "status": "CLASSIC",
     "director": "Christopher Nolan",
-    "cast": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Elliot Page"],
-    "tags": ["Christopher Nolan"]
+    "cast": [
+      "Leonardo DiCaprio",
+      "Joseph Gordon-Levitt",
+      "Elliot Page"
+    ],
+    "tags": [
+      "Christopher Nolan"
+    ]
   },
   {
     "id": 85,
     "title": "The Dark Knight Rises",
     "description": "Eight years after taking the blame for Harvey Dent's crimes, Batman returns to face a new, formidable threat to Gotham.",
     "poster": "/images/movies/the-dark-2.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/the-dark-2-backdrop.jpg",
     "trailerUrl": "",
     "language": "English",
-    "genres": ["Action", "Crime", "Drama"],
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
     "duration": 164,
     "certification": "PG-13",
     "rating": 8.4,
     "releaseDate": "2012-07-20",
     "status": "CLASSIC",
     "director": "Christopher Nolan",
-    "cast": ["Christian Bale", "Tom Hardy", "Anne Hathaway"],
-    "tags": ["Christopher Nolan"]
+    "cast": [
+      "Christian Bale",
+      "Tom Hardy",
+      "Anne Hathaway"
+    ],
+    "tags": [
+      "Christopher Nolan"
+    ]
   },
   {
     "id": 86,
     "title": "Interstellar",
     "description": "A group of astronauts travel through a wormhole in search of a new habitable world as Earth faces ecological collapse.",
     "poster": "/images/movies/interstellar.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/interstellar-backdrop.jpg",
     "trailerUrl": "",
     "language": "English",
-    "genres": ["Science Fiction", "Drama", "Adventure"],
+    "genres": [
+      "Science Fiction",
+      "Drama",
+      "Adventure"
+    ],
     "duration": 169,
     "certification": "PG-13",
     "rating": 8.7,
     "releaseDate": "2014-11-07",
     "status": "CLASSIC",
     "director": "Christopher Nolan",
-    "cast": ["Matthew McConaughey", "Anne Hathaway", "Jessica Chastain"],
-    "tags": ["Christopher Nolan"]
+    "cast": [
+      "Matthew McConaughey",
+      "Anne Hathaway",
+      "Jessica Chastain"
+    ],
+    "tags": [
+      "Christopher Nolan"
+    ]
   },
   {
     "id": 87,
     "title": "Dunkirk",
     "description": "Allied soldiers trapped on the beaches of Dunkirk during World War II await a desperate evacuation as enemy forces close in.",
     "poster": "/images/movies/dunkirk.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/dunkirk-backdrop.jpg",
     "trailerUrl": "",
     "language": "English",
-    "genres": ["War", "Action", "Drama"],
+    "genres": [
+      "War",
+      "Action",
+      "Drama"
+    ],
     "duration": 106,
     "certification": "PG-13",
     "rating": 7.8,
     "releaseDate": "2017-07-21",
     "status": "CLASSIC",
     "director": "Christopher Nolan",
-    "cast": ["Fionn Whitehead", "Tom Hardy", "Kenneth Branagh"],
-    "tags": ["Christopher Nolan"]
+    "cast": [
+      "Fionn Whitehead",
+      "Tom Hardy",
+      "Kenneth Branagh"
+    ],
+    "tags": [
+      "Christopher Nolan"
+    ]
   },
   {
     "id": 88,
     "title": "Tenet",
     "description": "An operative armed with only a single word, 'Tenet', battles for the survival of the world through a mission involving time inversion.",
     "poster": "/images/movies/tenet.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/tenet-backdrop.jpg",
     "trailerUrl": "",
     "language": "English",
-    "genres": ["Action", "Science Fiction", "Thriller"],
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Thriller"
+    ],
     "duration": 150,
     "certification": "PG-13",
     "rating": 7.3,
     "releaseDate": "2020-08-26",
     "status": "CLASSIC",
     "director": "Christopher Nolan",
-    "cast": ["John David Washington", "Robert Pattinson", "Elizabeth Debicki"],
-    "tags": ["Christopher Nolan"]
+    "cast": [
+      "John David Washington",
+      "Robert Pattinson",
+      "Elizabeth Debicki"
+    ],
+    "tags": [
+      "Christopher Nolan"
+    ]
   },
   {
     "id": 89,
     "title": "Oppenheimer",
     "description": "The story of physicist J. Robert Oppenheimer's central role in the development of the atomic bomb and its moral aftermath.",
     "poster": "/images/movies/oppenheimer.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/oppenheimer-backdrop.jpg",
     "trailerUrl": "",
     "language": "English",
-    "genres": ["Drama", "History", "War"],
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
     "duration": 180,
     "certification": "R",
     "rating": 8.9,
     "releaseDate": "2023-07-21",
     "status": "CLASSIC",
     "director": "Christopher Nolan",
-    "cast": ["Cillian Murphy", "Emily Blunt", "Robert Downey Jr.", "Matt Damon"],
-    "tags": ["Christopher Nolan"]
+    "cast": [
+      "Cillian Murphy",
+      "Emily Blunt",
+      "Robert Downey Jr.",
+      "Matt Damon"
+    ],
+    "tags": [
+      "Christopher Nolan"
+    ]
   },
   {
     "id": 90,
     "title": "The Odyssey",
     "description": "Odysseus, King of Ithaca, embarks on a long and perilous voyage home after the Trojan War, confronting gods, monsters, and trials that test his cunning and humanity.",
     "poster": "/images/movies/the-odyssey.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/the-odyssey-backdrop.jpg",
     "trailerUrl": "",
     "language": "English",
-    "genres": ["Action", "Adventure", "Fantasy"],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
     "duration": 172,
     "certification": "PG-13",
     "rating": null,
     "releaseDate": "2026-07-17",
     "status": "CLASSIC",
     "director": "Christopher Nolan",
-    "cast": ["Matt Damon", "Tom Holland", "Anne Hathaway", "Robert Pattinson", "Zendaya", "Lupita Nyong'o", "Charlize Theron"],
-    "tags": ["Christopher Nolan"]
+    "cast": [
+      "Matt Damon",
+      "Tom Holland",
+      "Anne Hathaway",
+      "Robert Pattinson",
+      "Zendaya",
+      "Lupita Nyong'o",
+      "Charlize Theron"
+    ],
+    "tags": [
+      "Christopher Nolan"
+    ]
   },
   {
     "id": 91,
     "title": "Kalki 2 (Kalki 2898 AD: Part 2)",
     "description": "The rebellion against Supreme Yaskin escalates as the futuristic mythological saga continues, with the fight for humanity's future entering its next chapter.",
     "poster": "/images/movies/kalki-2.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/kalki-2-backdrop.jpg",
     "trailerUrl": "",
     "language": "Telugu",
-    "genres": ["Science Fiction", "Action", "Drama"],
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Drama"
+    ],
     "duration": null,
     "certification": "unknown",
     "rating": null,
     "releaseDate": "2027-12-01",
     "status": "UPCOMING",
     "director": "Nag Ashwin",
-    "cast": ["Prabhas", "Amitabh Bachchan", "Kamal Haasan", "Sai Pallavi"],
-    "tags": ["Telugu Coming Soon"]
+    "cast": [
+      "Prabhas",
+      "Amitabh Bachchan",
+      "Kamal Haasan",
+      "Sai Pallavi"
+    ],
+    "tags": [
+      "Telugu Coming Soon"
+    ]
   },
   {
     "id": 92,
     "title": "SSMB29",
     "description": "A globetrotting jungle adventure blending mythology, nature, and exploration, following a rugged explorer drawn into a high-stakes journey.",
     "poster": "/images/movies/ssmb29.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/ssmb29-backdrop.jpg",
     "trailerUrl": "",
     "language": "Telugu",
-    "genres": ["Adventure", "Action", "Drama"],
+    "genres": [
+      "Adventure",
+      "Action",
+      "Drama"
+    ],
     "duration": null,
     "certification": "unknown",
     "rating": null,
     "releaseDate": "2027-03-25",
     "status": "UPCOMING",
     "director": "S. S. Rajamouli",
-    "cast": ["Mahesh Babu", "Priyanka Chopra", "Prithviraj Sukumaran"],
-    "tags": ["Telugu Coming Soon"]
+    "cast": [
+      "Mahesh Babu",
+      "Priyanka Chopra",
+      "Prithviraj Sukumaran"
+    ],
+    "tags": [
+      "Telugu Coming Soon"
+    ]
   },
   {
     "id": 93,
     "title": "Salaar: Part 2 - Shouryaanga Parvam",
     "description": "The violent conflict over the hidden kingdom continues as old promises and new betrayals push the story toward its next chapter.",
     "poster": "/images/movies/salaar-2.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/salaar-2-backdrop.jpg",
     "trailerUrl": "",
     "language": "Telugu",
-    "genres": ["Action", "Thriller"],
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
     "duration": null,
     "certification": "unknown",
     "rating": null,
     "releaseDate": "TBA",
     "status": "UPCOMING",
     "director": "Prashanth Neel",
-    "cast": ["Prabhas", "Prithviraj Sukumaran", "Shruti Haasan"],
-    "tags": ["Telugu Coming Soon"]
+    "cast": [
+      "Prabhas",
+      "Prithviraj Sukumaran",
+      "Shruti Haasan"
+    ],
+    "tags": [
+      "Telugu Coming Soon"
+    ]
   },
   {
     "id": 94,
     "title": "Pushpa 3: The Rampage",
     "description": "Pushpa Raj's unfinished story continues, chronicling his journey deeper into power, rivalry, and the world he built after earning his surname.",
     "poster": "/images/movies/pushpa-3.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/pushpa-3-backdrop.jpg",
     "trailerUrl": "",
     "language": "Telugu",
-    "genres": ["Action", "Drama"],
+    "genres": [
+      "Action",
+      "Drama"
+    ],
     "duration": null,
     "certification": "unknown",
     "rating": null,
     "releaseDate": "TBA",
     "status": "UPCOMING",
     "director": "Sukumar",
-    "cast": ["Allu Arjun"],
-    "tags": ["Telugu Coming Soon"]
+    "cast": [
+      "Allu Arjun"
+    ],
+    "tags": [
+      "Telugu Coming Soon"
+    ]
   },
   {
     "id": 95,
     "title": "Untitled Mani Ratnam Film",
     "description": "A new romantic drama from Mani Ratnam pairing two acclaimed performers, currently in production.",
     "poster": "/images/movies/mani-ratnam-untitled.jpg",
-    "backdrop": "",
+    "backdrop": "/images/movies/backdrops/mani-ratnam-untitled-backdrop.jpg",
     "trailerUrl": "",
     "language": "Tamil",
-    "genres": ["Romance", "Drama"],
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
     "duration": null,
     "certification": "unknown",
     "rating": null,
     "releaseDate": "TBA",
     "status": "UPCOMING",
     "director": "Mani Ratnam",
-    "cast": ["Vijay Sethupathi", "Sai Pallavi"],
-    "tags": ["Mani Ratnam", "Coming Soon"]
+    "cast": [
+      "Vijay Sethupathi",
+      "Sai Pallavi"
+    ],
+    "tags": [
+      "Mani Ratnam",
+      "Coming Soon"
+    ]
+  },
+  {
+    "id": 96,
+    "title": "RRR",
+    "description": "An ambitious action epic driven by larger-than-life characters, powerful rivalries, and a fight for freedom and identity.",
+    "poster": "/images/movies/rrr.jpg",
+    "backdrop": "/images/movies/backdrops/rrr-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Telugu",
+    "genres": [
+      "Action",
+      "Drama",
+      "Historical"
+    ],
+    "duration": 177,
+    "certification": "UA",
+    "rating": 8.0,
+    "releaseDate": "2022-01-01",
+    "status": "CLASSIC",
+    "director": "S. S. Rajamouli",
+    "cast": [
+      "N. T. Rama Rao Jr.",
+      "Ram Charan",
+      "Alia Bhatt"
+    ],
+    "tags": [
+      "Telugu",
+      "Epic",
+      "Rajamouli"
+    ]
+  },
+  {
+    "id": 97,
+    "title": "Eega",
+    "description": "A celebrated Telugu film blending fantasy, action storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/eega.jpg",
+    "backdrop": "/images/movies/backdrops/eega-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Telugu",
+    "genres": [
+      "Fantasy",
+      "Action",
+      "Romance"
+    ],
+    "duration": 184,
+    "certification": "UA",
+    "rating": 7.7,
+    "releaseDate": "2012-01-01",
+    "status": "CLASSIC",
+    "director": "S. S. Rajamouli",
+    "cast": [
+      "Nani",
+      "Samantha Ruth Prabhu",
+      "Sudeep"
+    ],
+    "tags": [
+      "Telugu",
+      "Fantasy",
+      "Rajamouli"
+    ]
+  },
+  {
+    "id": 98,
+    "title": "Jersey",
+    "description": "A celebrated Telugu film blending drama, sports storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/jersey.jpg",
+    "backdrop": "/images/movies/backdrops/jersey-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Telugu",
+    "genres": [
+      "Drama",
+      "Sports"
+    ],
+    "duration": 106,
+    "certification": "U",
+    "rating": 8.5,
+    "releaseDate": "2019-01-01",
+    "status": "CLASSIC",
+    "director": "Gowtam Tinnanuri",
+    "cast": [
+      "Nani",
+      "Shraddha Srinath",
+      "Sathyaraj"
+    ],
+    "tags": [
+      "Telugu",
+      "Sports"
+    ]
+  },
+  {
+    "id": 99,
+    "title": "C/O Kancharapalem",
+    "description": "A celebrated Telugu film blending drama, romance storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/c-o-kancharapalem.jpg",
+    "backdrop": "/images/movies/backdrops/c-o-kancharapalem-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Telugu",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "duration": 113,
+    "certification": "U",
+    "rating": 8.8,
+    "releaseDate": "2018-01-01",
+    "status": "CLASSIC",
+    "director": "Venkatesh Maha",
+    "cast": [
+      "Kancharapalem Raju",
+      "Subba Rao",
+      "Radha Besse"
+    ],
+    "tags": [
+      "Telugu",
+      "Indie"
+    ]
+  },
+  {
+    "id": 100,
+    "title": "Agent Sai Srinivasa Athreya",
+    "description": "A celebrated Telugu film blending mystery, comedy storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/agent-sai-srinivasa-athreya.jpg",
+    "backdrop": "/images/movies/backdrops/agent-sai-srinivasa-athreya-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Telugu",
+    "genres": [
+      "Mystery",
+      "Comedy",
+      "Crime"
+    ],
+    "duration": 120,
+    "certification": "U",
+    "rating": 8.4,
+    "releaseDate": "2019-01-01",
+    "status": "CLASSIC",
+    "director": "Swaroop RSJ",
+    "cast": [
+      "Naveen Polishetty",
+      "Shruti Sharma"
+    ],
+    "tags": [
+      "Telugu",
+      "Mystery"
+    ]
+  },
+  {
+    "id": 101,
+    "title": "Arjun Reddy",
+    "description": "A celebrated Telugu film blending romance, drama storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/arjun-reddy.jpg",
+    "backdrop": "/images/movies/backdrops/arjun-reddy-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Telugu",
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "duration": 127,
+    "certification": "U",
+    "rating": 7.9,
+    "releaseDate": "2017-01-01",
+    "status": "CLASSIC",
+    "director": "Sandeep Reddy Vanga",
+    "cast": [
+      "Vijay Deverakonda",
+      "Shalini Pandey"
+    ],
+    "tags": [
+      "Telugu",
+      "Romance"
+    ]
+  },
+  {
+    "id": 102,
+    "title": "Jathi Ratnalu",
+    "description": "A celebrated Telugu film blending comedy storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/jathi-ratnalu.jpg",
+    "backdrop": "/images/movies/backdrops/jathi-ratnalu-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Telugu",
+    "genres": [
+      "Comedy"
+    ],
+    "duration": 134,
+    "certification": "U",
+    "rating": 7.8,
+    "releaseDate": "2021-01-01",
+    "status": "CLASSIC",
+    "director": "Anudeep K. V.",
+    "cast": [
+      "Naveen Polishetty",
+      "Priyadarshi",
+      "Rahul Ramakrishna"
+    ],
+    "tags": [
+      "Telugu",
+      "Comedy"
+    ]
+  },
+  {
+    "id": 103,
+    "title": "DJ Tillu",
+    "description": "A celebrated Telugu film blending comedy, crime storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/dj-tillu.jpg",
+    "backdrop": "/images/movies/backdrops/dj-tillu-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Telugu",
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "duration": 141,
+    "certification": "U",
+    "rating": 7.1,
+    "releaseDate": "2022-01-01",
+    "status": "CLASSIC",
+    "director": "Vimal Krishna",
+    "cast": [
+      "Siddhu Jonnalagadda",
+      "Neha Shetty"
+    ],
+    "tags": [
+      "Telugu",
+      "Comedy"
+    ]
+  },
+  {
+    "id": 104,
+    "title": "Sita Ramam",
+    "description": "A celebrated Telugu film blending romance, drama storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/sita-ramam.jpg",
+    "backdrop": "/images/movies/backdrops/sita-ramam-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Telugu",
+    "genres": [
+      "Romance",
+      "Drama",
+      "War"
+    ],
+    "duration": 148,
+    "certification": "U",
+    "rating": 8.6,
+    "releaseDate": "2022-01-01",
+    "status": "CLASSIC",
+    "director": "Hanu Raghavapudi",
+    "cast": [
+      "Dulquer Salmaan",
+      "Mrunal Thakur",
+      "Rashmika Mandanna"
+    ],
+    "tags": [
+      "Telugu",
+      "Romance"
+    ]
+  },
+  {
+    "id": 105,
+    "title": "Mahanati",
+    "description": "A celebrated Telugu film blending biography, drama storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/mahanati.jpg",
+    "backdrop": "/images/movies/backdrops/mahanati-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Telugu",
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "duration": 155,
+    "certification": "U",
+    "rating": 8.4,
+    "releaseDate": "2018-01-01",
+    "status": "CLASSIC",
+    "director": "Nag Ashwin",
+    "cast": [
+      "Keerthy Suresh",
+      "Dulquer Salmaan",
+      "Samantha Ruth Prabhu"
+    ],
+    "tags": [
+      "Telugu",
+      "Biography"
+    ]
+  },
+  {
+    "id": 106,
+    "title": "Goodachari",
+    "description": "A celebrated Telugu film blending action, spy thriller storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/goodachari.jpg",
+    "backdrop": "/images/movies/backdrops/goodachari-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Telugu",
+    "genres": [
+      "Action",
+      "Spy Thriller"
+    ],
+    "duration": 162,
+    "certification": "UA",
+    "rating": 7.9,
+    "releaseDate": "2018-01-01",
+    "status": "CLASSIC",
+    "director": "Sashi Kiran Tikka",
+    "cast": [
+      "Adivi Sesh",
+      "Sobhita Dhulipala"
+    ],
+    "tags": [
+      "Telugu",
+      "Spy"
+    ]
+  },
+  {
+    "id": 107,
+    "title": "Evaru",
+    "description": "A celebrated Telugu film blending mystery, thriller storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/evaru.jpg",
+    "backdrop": "/images/movies/backdrops/evaru-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Telugu",
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime"
+    ],
+    "duration": 169,
+    "certification": "UA",
+    "rating": 8.1,
+    "releaseDate": "2019-01-01",
+    "status": "CLASSIC",
+    "director": "Venkat Ramji",
+    "cast": [
+      "Adivi Sesh",
+      "Regina Cassandra",
+      "Naveen Chandra"
+    ],
+    "tags": [
+      "Telugu",
+      "Mystery"
+    ]
+  },
+  {
+    "id": 108,
+    "title": "Mathu Vadalara",
+    "description": "A celebrated Telugu film blending comedy, crime storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/mathu-vadalara.jpg",
+    "backdrop": "/images/movies/backdrops/mathu-vadalara-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Telugu",
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Thriller"
+    ],
+    "duration": 176,
+    "certification": "UA",
+    "rating": 7.8,
+    "releaseDate": "2019-01-01",
+    "status": "CLASSIC",
+    "director": "Ritesh Rana",
+    "cast": [
+      "Sri Simha",
+      "Naresh Agastya",
+      "Athulya Chandra"
+    ],
+    "tags": [
+      "Telugu",
+      "Comedy"
+    ]
+  },
+  {
+    "id": 109,
+    "title": "Pelli Choopulu",
+    "description": "A celebrated Telugu film blending romance, comedy storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/pelli-choopulu.jpg",
+    "backdrop": "/images/movies/backdrops/pelli-choopulu-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Telugu",
+    "genres": [
+      "Romance",
+      "Comedy",
+      "Drama"
+    ],
+    "duration": 183,
+    "certification": "U",
+    "rating": 8.2,
+    "releaseDate": "2016-01-01",
+    "status": "CLASSIC",
+    "director": "Tharun Bhascker",
+    "cast": [
+      "Vijay Deverakonda",
+      "Ritu Varma"
+    ],
+    "tags": [
+      "Telugu",
+      "Romance"
+    ]
+  },
+  {
+    "id": 110,
+    "title": "Hi Nanna",
+    "description": "A celebrated Telugu film blending drama, romance storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/hi-nanna.jpg",
+    "backdrop": "/images/movies/backdrops/hi-nanna-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Telugu",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Family"
+    ],
+    "duration": 105,
+    "certification": "U",
+    "rating": 8.0,
+    "releaseDate": "2023-01-01",
+    "status": "CLASSIC",
+    "director": "Shouryuv",
+    "cast": [
+      "Nani",
+      "Mrunal Thakur",
+      "Kiara Khanna"
+    ],
+    "tags": [
+      "Telugu",
+      "Romance"
+    ]
+  },
+  {
+    "id": 111,
+    "title": "Dasara",
+    "description": "A celebrated Telugu film blending action, drama storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/dasara.jpg",
+    "backdrop": "/images/movies/backdrops/dasara-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Telugu",
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "duration": 112,
+    "certification": "UA",
+    "rating": 7.6,
+    "releaseDate": "2023-01-01",
+    "status": "CLASSIC",
+    "director": "Srikanth Odela",
+    "cast": [
+      "Nani",
+      "Keerthy Suresh",
+      "Dheekshith Shetty"
+    ],
+    "tags": [
+      "Telugu",
+      "Action"
+    ]
+  },
+  {
+    "id": 112,
+    "title": "Devara: Part 1",
+    "description": "A celebrated Telugu film blending action, drama storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/devara-part-1.jpg",
+    "backdrop": "/images/movies/backdrops/devara-part-1-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Telugu",
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "duration": 119,
+    "certification": "UA",
+    "rating": 6.4,
+    "releaseDate": "2024-01-01",
+    "status": "CLASSIC",
+    "director": "Koratala Siva",
+    "cast": [
+      "N. T. Rama Rao Jr.",
+      "Saif Ali Khan",
+      "Janhvi Kapoor"
+    ],
+    "tags": [
+      "Telugu",
+      "Action"
+    ]
+  },
+  {
+    "id": 113,
+    "title": "Major",
+    "description": "A celebrated Telugu film blending biography, drama storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/major.jpg",
+    "backdrop": "/images/movies/backdrops/major-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Telugu",
+    "genres": [
+      "Biography",
+      "Drama",
+      "Action"
+    ],
+    "duration": 126,
+    "certification": "UA",
+    "rating": 8.1,
+    "releaseDate": "2022-01-01",
+    "status": "CLASSIC",
+    "director": "Sashi Kiran Tikka",
+    "cast": [
+      "Adivi Sesh",
+      "Saiee Manjrekar",
+      "Sobhita Dhulipala"
+    ],
+    "tags": [
+      "Telugu",
+      "Biography"
+    ]
+  },
+  {
+    "id": 114,
+    "title": "Awe!",
+    "description": "A celebrated Telugu film blending drama, thriller storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/awe.jpg",
+    "backdrop": "/images/movies/backdrops/awe-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Telugu",
+    "genres": [
+      "Drama",
+      "Thriller",
+      "Fantasy"
+    ],
+    "duration": 133,
+    "certification": "UA",
+    "rating": 7.6,
+    "releaseDate": "2018-01-01",
+    "status": "CLASSIC",
+    "director": "Prasanth Varma",
+    "cast": [
+      "Kajal Aggarwal",
+      "Nithya Menen",
+      "Regina Cassandra"
+    ],
+    "tags": [
+      "Telugu",
+      "Thriller"
+    ]
+  },
+  {
+    "id": 115,
+    "title": "Brochevarevarura",
+    "description": "A celebrated Telugu film blending comedy, crime storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/brochevarevarura.jpg",
+    "backdrop": "/images/movies/backdrops/brochevarevarura-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Telugu",
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "duration": 140,
+    "certification": "U",
+    "rating": 8.0,
+    "releaseDate": "2019-01-01",
+    "status": "CLASSIC",
+    "director": "Vivek Athreya",
+    "cast": [
+      "Sree Vishnu",
+      "Priyadarshi",
+      "Nivetha Thomas"
+    ],
+    "tags": [
+      "Telugu",
+      "Comedy"
+    ]
+  },
+  {
+    "id": 116,
+    "title": "3 Idiots",
+    "description": "Three engineering students navigate friendship, pressure, ambition, and the expectations surrounding education.",
+    "poster": "/images/movies/3-idiots.jpg",
+    "backdrop": "/images/movies/backdrops/3-idiots-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Hindi",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "duration": 147,
+    "certification": "U",
+    "rating": 8.4,
+    "releaseDate": "2009-01-01",
+    "status": "CLASSIC",
+    "director": "Rajkumar Hirani",
+    "cast": [
+      "Aamir Khan",
+      "R. Madhavan",
+      "Sharman Joshi"
+    ],
+    "tags": [
+      "Hindi",
+      "Comedy"
+    ]
+  },
+  {
+    "id": 117,
+    "title": "Dangal",
+    "description": "A determined father trains his daughters to become elite wrestlers despite social expectations and setbacks.",
+    "poster": "/images/movies/dangal.jpg",
+    "backdrop": "/images/movies/backdrops/dangal-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Hindi",
+    "genres": [
+      "Biography",
+      "Drama",
+      "Sports"
+    ],
+    "duration": 180,
+    "certification": "U",
+    "rating": 8.3,
+    "releaseDate": "2016-01-01",
+    "status": "CLASSIC",
+    "director": "Nitesh Tiwari",
+    "cast": [
+      "Aamir Khan",
+      "Fatima Sana Shaikh",
+      "Sanya Malhotra"
+    ],
+    "tags": [
+      "Hindi",
+      "Sports"
+    ]
+  },
+  {
+    "id": 118,
+    "title": "Lagaan",
+    "description": "A celebrated Hindi film blending drama, sports storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/lagaan.jpg",
+    "backdrop": "/images/movies/backdrops/lagaan-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Hindi",
+    "genres": [
+      "Drama",
+      "Sports",
+      "Historical"
+    ],
+    "duration": 180,
+    "certification": "U",
+    "rating": 8.1,
+    "releaseDate": "2001-01-01",
+    "status": "CLASSIC",
+    "director": "Ashutosh Gowariker",
+    "cast": [
+      "Aamir Khan",
+      "Gracy Singh",
+      "Rachel Shelley"
+    ],
+    "tags": [
+      "Hindi",
+      "Epic"
+    ]
+  },
+  {
+    "id": 119,
+    "title": "Zindagi Na Milegi Dobara",
+    "description": "A celebrated Hindi film blending adventure, comedy storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/zindagi-na-milegi-dobara.jpg",
+    "backdrop": "/images/movies/backdrops/zindagi-na-milegi-dobara-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Hindi",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Drama"
+    ],
+    "duration": 168,
+    "certification": "U",
+    "rating": 8.2,
+    "releaseDate": "2011-01-01",
+    "status": "CLASSIC",
+    "director": "Zoya Akhtar",
+    "cast": [
+      "Hrithik Roshan",
+      "Farhan Akhtar",
+      "Abhay Deol"
+    ],
+    "tags": [
+      "Hindi",
+      "Friendship"
+    ]
+  },
+  {
+    "id": 120,
+    "title": "Gully Boy",
+    "description": "A celebrated Hindi film blending drama, music storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/gully-boy.jpg",
+    "backdrop": "/images/movies/backdrops/gully-boy-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Hindi",
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "duration": 175,
+    "certification": "U",
+    "rating": 7.9,
+    "releaseDate": "2019-01-01",
+    "status": "CLASSIC",
+    "director": "Zoya Akhtar",
+    "cast": [
+      "Ranveer Singh",
+      "Alia Bhatt",
+      "Vijay Raaz"
+    ],
+    "tags": [
+      "Hindi",
+      "Music"
+    ]
+  },
+  {
+    "id": 121,
+    "title": "Andhadhun",
+    "description": "A celebrated Hindi film blending crime, thriller storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/andhadhun.jpg",
+    "backdrop": "/images/movies/backdrops/andhadhun-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Hindi",
+    "genres": [
+      "Crime",
+      "Thriller",
+      "Comedy"
+    ],
+    "duration": 182,
+    "certification": "UA",
+    "rating": 8.2,
+    "releaseDate": "2018-01-01",
+    "status": "CLASSIC",
+    "director": "Sriram Raghavan",
+    "cast": [
+      "Ayushmann Khurrana",
+      "Tabu",
+      "Radhika Apte"
+    ],
+    "tags": [
+      "Hindi",
+      "Thriller"
+    ]
+  },
+  {
+    "id": 122,
+    "title": "Drishyam 2",
+    "description": "A celebrated Hindi film blending crime, thriller storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/drishyam-2.jpg",
+    "backdrop": "/images/movies/backdrops/drishyam-2-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Hindi",
+    "genres": [
+      "Crime",
+      "Thriller",
+      "Drama"
+    ],
+    "duration": 104,
+    "certification": "UA",
+    "rating": 8.2,
+    "releaseDate": "2022-01-01",
+    "status": "CLASSIC",
+    "director": "Abhishek Pathak",
+    "cast": [
+      "Ajay Devgn",
+      "Tabu",
+      "Shriya Saran"
+    ],
+    "tags": [
+      "Hindi",
+      "Thriller"
+    ]
+  },
+  {
+    "id": 123,
+    "title": "Tumbbad",
+    "description": "A celebrated Hindi film blending horror, fantasy storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/tumbbad.jpg",
+    "backdrop": "/images/movies/backdrops/tumbbad-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Hindi",
+    "genres": [
+      "Horror",
+      "Fantasy",
+      "Drama"
+    ],
+    "duration": 111,
+    "certification": "U",
+    "rating": 8.2,
+    "releaseDate": "2018-01-01",
+    "status": "CLASSIC",
+    "director": "Rahi Anil Barve",
+    "cast": [
+      "Sohum Shah",
+      "Jyoti Malshe",
+      "Anita Date"
+    ],
+    "tags": [
+      "Hindi",
+      "Horror"
+    ]
+  },
+  {
+    "id": 124,
+    "title": "Queen",
+    "description": "A celebrated Hindi film blending comedy, drama storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/queen.jpg",
+    "backdrop": "/images/movies/backdrops/queen-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Hindi",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "duration": 118,
+    "certification": "U",
+    "rating": 8.1,
+    "releaseDate": "2013-01-01",
+    "status": "CLASSIC",
+    "director": "Vikas Bahl",
+    "cast": [
+      "Kangana Ranaut",
+      "Rajkummar Rao",
+      "Lisa Haydon"
+    ],
+    "tags": [
+      "Hindi",
+      "Comedy"
+    ]
+  },
+  {
+    "id": 125,
+    "title": "Barfi!",
+    "description": "A celebrated Hindi film blending romance, comedy storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/barfi.jpg",
+    "backdrop": "/images/movies/backdrops/barfi-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Hindi",
+    "genres": [
+      "Romance",
+      "Comedy",
+      "Drama"
+    ],
+    "duration": 125,
+    "certification": "U",
+    "rating": 8.1,
+    "releaseDate": "2012-01-01",
+    "status": "CLASSIC",
+    "director": "Anurag Basu",
+    "cast": [
+      "Ranbir Kapoor",
+      "Priyanka Chopra",
+      "Ileana D'Cruz"
+    ],
+    "tags": [
+      "Hindi",
+      "Romance"
+    ]
+  },
+  {
+    "id": 126,
+    "title": "Rockstar",
+    "description": "A celebrated Hindi film blending drama, music storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/rockstar.jpg",
+    "backdrop": "/images/movies/backdrops/rockstar-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Hindi",
+    "genres": [
+      "Drama",
+      "Music",
+      "Romance"
+    ],
+    "duration": 132,
+    "certification": "U",
+    "rating": 7.7,
+    "releaseDate": "2011-01-01",
+    "status": "CLASSIC",
+    "director": "Imtiaz Ali",
+    "cast": [
+      "Ranbir Kapoor",
+      "Nargis Fakhri"
+    ],
+    "tags": [
+      "Hindi",
+      "Music"
+    ]
+  },
+  {
+    "id": 127,
+    "title": "Tamasha",
+    "description": "A celebrated Hindi film blending romance, drama storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/tamasha.jpg",
+    "backdrop": "/images/movies/backdrops/tamasha-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Hindi",
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "duration": 139,
+    "certification": "U",
+    "rating": 7.3,
+    "releaseDate": "2015-01-01",
+    "status": "CLASSIC",
+    "director": "Imtiaz Ali",
+    "cast": [
+      "Ranbir Kapoor",
+      "Deepika Padukone"
+    ],
+    "tags": [
+      "Hindi",
+      "Romance"
+    ]
+  },
+  {
+    "id": 128,
+    "title": "Swades",
+    "description": "A celebrated Hindi film blending drama storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/swades.jpg",
+    "backdrop": "/images/movies/backdrops/swades-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Hindi",
+    "genres": [
+      "Drama"
+    ],
+    "duration": 146,
+    "certification": "U",
+    "rating": 8.2,
+    "releaseDate": "2004-01-01",
+    "status": "CLASSIC",
+    "director": "Ashutosh Gowariker",
+    "cast": [
+      "Shah Rukh Khan",
+      "Gayatri Joshi"
+    ],
+    "tags": [
+      "Hindi",
+      "Drama"
+    ]
+  },
+  {
+    "id": 129,
+    "title": "Rang De Basanti",
+    "description": "A celebrated Hindi film blending drama, history storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/rang-de-basanti.jpg",
+    "backdrop": "/images/movies/backdrops/rang-de-basanti-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Hindi",
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "duration": 153,
+    "certification": "U",
+    "rating": 8.1,
+    "releaseDate": "2006-01-01",
+    "status": "CLASSIC",
+    "director": "Rakeysh Omprakash Mehra",
+    "cast": [
+      "Aamir Khan",
+      "Siddharth",
+      "Soha Ali Khan"
+    ],
+    "tags": [
+      "Hindi",
+      "Classic"
+    ]
+  },
+  {
+    "id": 130,
+    "title": "PK",
+    "description": "A celebrated Hindi film blending comedy, drama storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/pk.jpg",
+    "backdrop": "/images/movies/backdrops/pk-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Hindi",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Science Fiction"
+    ],
+    "duration": 160,
+    "certification": "U",
+    "rating": 8.1,
+    "releaseDate": "2014-01-01",
+    "status": "CLASSIC",
+    "director": "Rajkumar Hirani",
+    "cast": [
+      "Aamir Khan",
+      "Anushka Sharma",
+      "Sushant Singh Rajput"
+    ],
+    "tags": [
+      "Hindi",
+      "Comedy"
+    ]
+  },
+  {
+    "id": 131,
+    "title": "Taare Zameen Par",
+    "description": "A celebrated Hindi film blending drama, family storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/taare-zameen-par.jpg",
+    "backdrop": "/images/movies/backdrops/taare-zameen-par-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Hindi",
+    "genres": [
+      "Drama",
+      "Family"
+    ],
+    "duration": 167,
+    "certification": "U",
+    "rating": 8.3,
+    "releaseDate": "2007-01-01",
+    "status": "CLASSIC",
+    "director": "Aamir Khan",
+    "cast": [
+      "Darsheel Safary",
+      "Aamir Khan",
+      "Tisca Chopra"
+    ],
+    "tags": [
+      "Hindi",
+      "Family"
+    ]
+  },
+  {
+    "id": 132,
+    "title": "Gangs of Wasseypur",
+    "description": "A celebrated Hindi film blending crime, drama storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/gangs-of-wasseypur.jpg",
+    "backdrop": "/images/movies/backdrops/gangs-of-wasseypur-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Hindi",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Action"
+    ],
+    "duration": 174,
+    "certification": "UA",
+    "rating": 8.2,
+    "releaseDate": "2012-01-01",
+    "status": "CLASSIC",
+    "director": "Anurag Kashyap",
+    "cast": [
+      "Manoj Bajpayee",
+      "Nawazuddin Siddiqui",
+      "Richa Chadda"
+    ],
+    "tags": [
+      "Hindi",
+      "Crime"
+    ]
+  },
+  {
+    "id": 133,
+    "title": "Article 15",
+    "description": "A celebrated Hindi film blending crime, drama storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/article-15.jpg",
+    "backdrop": "/images/movies/backdrops/article-15-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Hindi",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "duration": 181,
+    "certification": "U",
+    "rating": 8.1,
+    "releaseDate": "2019-01-01",
+    "status": "CLASSIC",
+    "director": "Anubhav Sinha",
+    "cast": [
+      "Ayushmann Khurrana",
+      "Isha Talwar",
+      "Manoj Pahwa"
+    ],
+    "tags": [
+      "Hindi",
+      "Crime"
+    ]
+  },
+  {
+    "id": 134,
+    "title": "Stree",
+    "description": "A celebrated Hindi film blending horror, comedy storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/stree.jpg",
+    "backdrop": "/images/movies/backdrops/stree-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Hindi",
+    "genres": [
+      "Horror",
+      "Comedy"
+    ],
+    "duration": 103,
+    "certification": "U",
+    "rating": 7.5,
+    "releaseDate": "2018-01-01",
+    "status": "CLASSIC",
+    "director": "Amar Kaushik",
+    "cast": [
+      "Rajkummar Rao",
+      "Shraddha Kapoor",
+      "Pankaj Tripathi"
+    ],
+    "tags": [
+      "Hindi",
+      "Horror"
+    ]
+  },
+  {
+    "id": 135,
+    "title": "Kahaani",
+    "description": "A celebrated Hindi film blending mystery, thriller storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/kahaani.jpg",
+    "backdrop": "/images/movies/backdrops/kahaani-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Hindi",
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Drama"
+    ],
+    "duration": 110,
+    "certification": "UA",
+    "rating": 8.1,
+    "releaseDate": "2012-01-01",
+    "status": "CLASSIC",
+    "director": "Sujoy Ghosh",
+    "cast": [
+      "Vidya Balan",
+      "Parambrata Chatterjee",
+      "Nawazuddin Siddiqui"
+    ],
+    "tags": [
+      "Hindi",
+      "Mystery"
+    ]
+  },
+  {
+    "id": 136,
+    "title": "Uri: The Surgical Strike",
+    "description": "A celebrated Hindi film blending action, war storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/uri-the-surgical-strike.jpg",
+    "backdrop": "/images/movies/backdrops/uri-the-surgical-strike-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Hindi",
+    "genres": [
+      "Action",
+      "War",
+      "Drama"
+    ],
+    "duration": 117,
+    "certification": "UA",
+    "rating": 8.2,
+    "releaseDate": "2019-01-01",
+    "status": "CLASSIC",
+    "director": "Aditya Dhar",
+    "cast": [
+      "Vicky Kaushal",
+      "Paresh Rawal",
+      "Yami Gautam"
+    ],
+    "tags": [
+      "Hindi",
+      "War"
+    ]
+  },
+  {
+    "id": 137,
+    "title": "Shershaah",
+    "description": "A celebrated Hindi film blending biography, war storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/shershaah.jpg",
+    "backdrop": "/images/movies/backdrops/shershaah-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Hindi",
+    "genres": [
+      "Biography",
+      "War",
+      "Drama"
+    ],
+    "duration": 124,
+    "certification": "U",
+    "rating": 8.3,
+    "releaseDate": "2021-01-01",
+    "status": "CLASSIC",
+    "director": "Vishnuvardhan",
+    "cast": [
+      "Sidharth Malhotra",
+      "Kiara Advani"
+    ],
+    "tags": [
+      "Hindi",
+      "War"
+    ]
+  },
+  {
+    "id": 138,
+    "title": "Haider",
+    "description": "A celebrated Hindi film blending drama, crime storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/haider.jpg",
+    "backdrop": "/images/movies/backdrops/haider-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Hindi",
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "duration": 131,
+    "certification": "U",
+    "rating": 8.0,
+    "releaseDate": "2014-01-01",
+    "status": "CLASSIC",
+    "director": "Vishal Bhardwaj",
+    "cast": [
+      "Shahid Kapoor",
+      "Tabu",
+      "Shraddha Kapoor"
+    ],
+    "tags": [
+      "Hindi",
+      "Crime"
+    ]
+  },
+  {
+    "id": 139,
+    "title": "Dil Chahta Hai",
+    "description": "A celebrated Hindi film blending comedy, drama storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/dil-chahta-hai.jpg",
+    "backdrop": "/images/movies/backdrops/dil-chahta-hai-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Hindi",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "duration": 138,
+    "certification": "U",
+    "rating": 8.1,
+    "releaseDate": "2001-01-01",
+    "status": "CLASSIC",
+    "director": "Farhan Akhtar",
+    "cast": [
+      "Aamir Khan",
+      "Saif Ali Khan",
+      "Akshaye Khanna"
+    ],
+    "tags": [
+      "Hindi",
+      "Friendship"
+    ]
+  },
+  {
+    "id": 140,
+    "title": "Mimi",
+    "description": "A celebrated Hindi film blending comedy, drama storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/mimi.jpg",
+    "backdrop": "/images/movies/backdrops/mimi-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Hindi",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "duration": 145,
+    "certification": "U",
+    "rating": 7.9,
+    "releaseDate": "2021-01-01",
+    "status": "CLASSIC",
+    "director": "Laxman Utekar",
+    "cast": [
+      "Kriti Sanon",
+      "Pankaj Tripathi"
+    ],
+    "tags": [
+      "Hindi",
+      "Comedy"
+    ]
+  },
+  {
+    "id": 141,
+    "title": "Ayyappanum Koshiyum",
+    "description": "A celebrated Malayalam film blending action, drama storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/ayyappanum-koshiyum.jpg",
+    "backdrop": "/images/movies/backdrops/ayyappanum-koshiyum-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Malayalam",
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "duration": 152,
+    "certification": "UA",
+    "rating": 8.0,
+    "releaseDate": "2020-01-01",
+    "status": "CLASSIC",
+    "director": "Sachy",
+    "cast": [
+      "Prithviraj Sukumaran",
+      "Biju Menon"
+    ],
+    "tags": [
+      "Malayalam",
+      "Action"
+    ]
+  },
+  {
+    "id": 142,
+    "title": "Joji",
+    "description": "A celebrated Malayalam film blending crime, drama storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/joji.jpg",
+    "backdrop": "/images/movies/backdrops/joji-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Malayalam",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "duration": 159,
+    "certification": "U",
+    "rating": 7.8,
+    "releaseDate": "2021-01-01",
+    "status": "CLASSIC",
+    "director": "Dileesh Pothan",
+    "cast": [
+      "Fahadh Faasil",
+      "Dileesh Pothan",
+      "Basil Joseph"
+    ],
+    "tags": [
+      "Malayalam",
+      "Crime"
+    ]
+  },
+  {
+    "id": 143,
+    "title": "Jana Gana Mana",
+    "description": "A celebrated Malayalam film blending crime, drama storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/jana-gana-mana.jpg",
+    "backdrop": "/images/movies/backdrops/jana-gana-mana-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Malayalam",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "duration": 166,
+    "certification": "UA",
+    "rating": 8.3,
+    "releaseDate": "2022-01-01",
+    "status": "CLASSIC",
+    "director": "Dijo Jose Antony",
+    "cast": [
+      "Prithviraj Sukumaran",
+      "Suraj Venjaramoodu"
+    ],
+    "tags": [
+      "Malayalam",
+      "Thriller"
+    ]
+  },
+  {
+    "id": 144,
+    "title": "Nayattu",
+    "description": "A celebrated Malayalam film blending crime, thriller storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/nayattu.jpg",
+    "backdrop": "/images/movies/backdrops/nayattu-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Malayalam",
+    "genres": [
+      "Crime",
+      "Thriller",
+      "Drama"
+    ],
+    "duration": 173,
+    "certification": "UA",
+    "rating": 8.1,
+    "releaseDate": "2021-01-01",
+    "status": "CLASSIC",
+    "director": "Martin Prakkat",
+    "cast": [
+      "Kunchacko Boban",
+      "Joju George",
+      "Nimisha Sajayan"
+    ],
+    "tags": [
+      "Malayalam",
+      "Thriller"
+    ]
+  },
+  {
+    "id": 145,
+    "title": "Aarkkariyam",
+    "description": "A celebrated Malayalam film blending mystery, drama storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/aarkkariyam.jpg",
+    "backdrop": "/images/movies/backdrops/aarkkariyam-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Malayalam",
+    "genres": [
+      "Mystery",
+      "Drama"
+    ],
+    "duration": 180,
+    "certification": "U",
+    "rating": 7.0,
+    "releaseDate": "2021-01-01",
+    "status": "CLASSIC",
+    "director": "Sanu Varghese",
+    "cast": [
+      "Biju Menon",
+      "Parvathy Thiruvothu",
+      "Sharafudheen"
+    ],
+    "tags": [
+      "Malayalam",
+      "Mystery"
+    ]
+  },
+  {
+    "id": 146,
+    "title": "Trance",
+    "description": "A celebrated Malayalam film blending drama, thriller storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/trance.jpg",
+    "backdrop": "/images/movies/backdrops/trance-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Malayalam",
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "duration": 102,
+    "certification": "UA",
+    "rating": 7.3,
+    "releaseDate": "2020-01-01",
+    "status": "CLASSIC",
+    "director": "Anwar Rasheed",
+    "cast": [
+      "Fahadh Faasil",
+      "Nazriya Nazim",
+      "Gautham Menon"
+    ],
+    "tags": [
+      "Malayalam",
+      "Drama"
+    ]
+  },
+  {
+    "id": 147,
+    "title": "Take Off",
+    "description": "A celebrated Malayalam film blending drama, thriller storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/take-off.jpg",
+    "backdrop": "/images/movies/backdrops/take-off-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Malayalam",
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "duration": 109,
+    "certification": "UA",
+    "rating": 8.0,
+    "releaseDate": "2017-01-01",
+    "status": "CLASSIC",
+    "director": "Mahesh Narayanan",
+    "cast": [
+      "Parvathy Thiruvothu",
+      "Kunchacko Boban",
+      "Fahadh Faasil"
+    ],
+    "tags": [
+      "Malayalam",
+      "Drama"
+    ]
+  },
+  {
+    "id": 148,
+    "title": "Virus",
+    "description": "A celebrated Malayalam film blending drama, thriller storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/virus.jpg",
+    "backdrop": "/images/movies/backdrops/virus-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Malayalam",
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "duration": 116,
+    "certification": "UA",
+    "rating": 7.8,
+    "releaseDate": "2019-01-01",
+    "status": "CLASSIC",
+    "director": "Aashiq Abu",
+    "cast": [
+      "Kunchacko Boban",
+      "Parvathy Thiruvothu",
+      "Tovino Thomas"
+    ],
+    "tags": [
+      "Malayalam",
+      "Drama"
+    ]
+  },
+  {
+    "id": 149,
+    "title": "Helen",
+    "description": "A celebrated Malayalam film blending thriller, drama storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/helen.jpg",
+    "backdrop": "/images/movies/backdrops/helen-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Malayalam",
+    "genres": [
+      "Thriller",
+      "Drama"
+    ],
+    "duration": 123,
+    "certification": "UA",
+    "rating": 7.7,
+    "releaseDate": "2019-01-01",
+    "status": "CLASSIC",
+    "director": "Mathukutty Xavier",
+    "cast": [
+      "Anna Ben",
+      "Lal",
+      "Noble Babu Thomas"
+    ],
+    "tags": [
+      "Malayalam",
+      "Thriller"
+    ]
+  },
+  {
+    "id": 150,
+    "title": "Thondimuthalum Driksakshiyum",
+    "description": "A celebrated Malayalam film blending comedy, drama storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/thondimuthalum-driksakshiyum.jpg",
+    "backdrop": "/images/movies/backdrops/thondimuthalum-driksakshiyum-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Malayalam",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "duration": 130,
+    "certification": "U",
+    "rating": 8.0,
+    "releaseDate": "2017-01-01",
+    "status": "CLASSIC",
+    "director": "Dileesh Pothan",
+    "cast": [
+      "Fahadh Faasil",
+      "Suraj Venjaramoodu",
+      "Nimisha Sajayan"
+    ],
+    "tags": [
+      "Malayalam",
+      "Comedy"
+    ]
+  },
+  {
+    "id": 151,
+    "title": "Sudani from Nigeria",
+    "description": "A celebrated Malayalam film blending comedy, drama storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/sudani-from-nigeria.jpg",
+    "backdrop": "/images/movies/backdrops/sudani-from-nigeria-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Malayalam",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Sports"
+    ],
+    "duration": 137,
+    "certification": "U",
+    "rating": 8.0,
+    "releaseDate": "2018-01-01",
+    "status": "CLASSIC",
+    "director": "Zakariya Mohammed",
+    "cast": [
+      "Soubin Shahir",
+      "Samuel Abiola Robinson"
+    ],
+    "tags": [
+      "Malayalam",
+      "Sports"
+    ]
+  },
+  {
+    "id": 152,
+    "title": "Kishkindha Kaandam",
+    "description": "A celebrated Malayalam film blending mystery, thriller storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/kishkindha-kaandam.jpg",
+    "backdrop": "/images/movies/backdrops/kishkindha-kaandam-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Malayalam",
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Drama"
+    ],
+    "duration": 144,
+    "certification": "UA",
+    "rating": 8.1,
+    "releaseDate": "2024-01-01",
+    "status": "CLASSIC",
+    "director": "Dinjith Ayyathan",
+    "cast": [
+      "Asif Ali",
+      "Vijayaraghavan",
+      "Aparna Balamurali"
+    ],
+    "tags": [
+      "Malayalam",
+      "Mystery"
+    ]
+  },
+  {
+    "id": 153,
+    "title": "Jigarthanda",
+    "description": "A celebrated Tamil film blending crime, comedy storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/jigarthanda.jpg",
+    "backdrop": "/images/movies/backdrops/jigarthanda-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Tamil",
+    "genres": [
+      "Crime",
+      "Comedy",
+      "Drama"
+    ],
+    "duration": 151,
+    "certification": "U",
+    "rating": 8.2,
+    "releaseDate": "2014-01-01",
+    "status": "CLASSIC",
+    "director": "Karthik Subbaraj",
+    "cast": [
+      "Siddharth",
+      "Bobby Simha",
+      "Lakshmi Menon"
+    ],
+    "tags": [
+      "Tamil",
+      "Crime"
+    ]
+  },
+  {
+    "id": 154,
+    "title": "Kaithi",
+    "description": "A celebrated Tamil film blending action, thriller storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/kaithi.jpg",
+    "backdrop": "/images/movies/backdrops/kaithi-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Tamil",
+    "genres": [
+      "Action",
+      "Thriller",
+      "Crime"
+    ],
+    "duration": 158,
+    "certification": "UA",
+    "rating": 8.4,
+    "releaseDate": "2019-01-01",
+    "status": "CLASSIC",
+    "director": "Lokesh Kanagaraj",
+    "cast": [
+      "Karthi",
+      "Narain",
+      "Dheena"
+    ],
+    "tags": [
+      "Tamil",
+      "Action"
+    ]
+  },
+  {
+    "id": 155,
+    "title": "Master",
+    "description": "A celebrated Tamil film blending action, drama storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/master.jpg",
+    "backdrop": "/images/movies/backdrops/master-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Tamil",
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "duration": 165,
+    "certification": "UA",
+    "rating": 7.3,
+    "releaseDate": "2021-01-01",
+    "status": "CLASSIC",
+    "director": "Lokesh Kanagaraj",
+    "cast": [
+      "Vijay",
+      "Vijay Sethupathi",
+      "Malavika Mohanan"
+    ],
+    "tags": [
+      "Tamil",
+      "Action"
+    ]
+  },
+  {
+    "id": 156,
+    "title": "Leo",
+    "description": "A celebrated Tamil film blending action, thriller storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/leo.jpg",
+    "backdrop": "/images/movies/backdrops/leo-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Tamil",
+    "genres": [
+      "Action",
+      "Thriller",
+      "Crime"
+    ],
+    "duration": 172,
+    "certification": "UA",
+    "rating": 7.2,
+    "releaseDate": "2023-01-01",
+    "status": "CLASSIC",
+    "director": "Lokesh Kanagaraj",
+    "cast": [
+      "Vijay",
+      "Trisha Krishnan",
+      "Sanjay Dutt"
+    ],
+    "tags": [
+      "Tamil",
+      "Action",
+      "Lokesh Cinematic Universe"
+    ]
+  },
+  {
+    "id": 157,
+    "title": "Jailer",
+    "description": "A celebrated Tamil film blending action, comedy storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/jailer.jpg",
+    "backdrop": "/images/movies/backdrops/jailer-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Tamil",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama"
+    ],
+    "duration": 179,
+    "certification": "UA",
+    "rating": 7.0,
+    "releaseDate": "2023-01-01",
+    "status": "CLASSIC",
+    "director": "Nelson Dilipkumar",
+    "cast": [
+      "Rajinikanth",
+      "Mohanlal",
+      "Shivarajkumar"
+    ],
+    "tags": [
+      "Tamil",
+      "Action"
+    ]
+  },
+  {
+    "id": 158,
+    "title": "Soorarai Pottru",
+    "description": "A celebrated Tamil film blending biography, drama storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/soorarai-pottru.jpg",
+    "backdrop": "/images/movies/backdrops/soorarai-pottru-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Tamil",
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "duration": 101,
+    "certification": "U",
+    "rating": 8.7,
+    "releaseDate": "2020-01-01",
+    "status": "CLASSIC",
+    "director": "Sudha Kongara",
+    "cast": [
+      "Suriya",
+      "Aparna Balamurali",
+      "Paresh Rawal"
+    ],
+    "tags": [
+      "Tamil",
+      "Biography"
+    ]
+  },
+  {
+    "id": 159,
+    "title": "Pariyerum Perumal",
+    "description": "A celebrated Tamil film blending drama storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/pariyerum-perumal.jpg",
+    "backdrop": "/images/movies/backdrops/pariyerum-perumal-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Tamil",
+    "genres": [
+      "Drama"
+    ],
+    "duration": 108,
+    "certification": "U",
+    "rating": 8.7,
+    "releaseDate": "2018-01-01",
+    "status": "CLASSIC",
+    "director": "Mari Selvaraj",
+    "cast": [
+      "Kathir",
+      "Anandhi",
+      "Yogi Babu"
+    ],
+    "tags": [
+      "Tamil",
+      "Drama"
+    ]
+  },
+  {
+    "id": 160,
+    "title": "Vada Chennai",
+    "description": "A celebrated Tamil film blending crime, drama storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/vada-chennai.jpg",
+    "backdrop": "/images/movies/backdrops/vada-chennai-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Tamil",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "duration": 115,
+    "certification": "U",
+    "rating": 8.4,
+    "releaseDate": "2018-01-01",
+    "status": "CLASSIC",
+    "director": "Vetrimaaran",
+    "cast": [
+      "Dhanush",
+      "Andrea Jeremiah",
+      "Ameer"
+    ],
+    "tags": [
+      "Tamil",
+      "Crime"
+    ]
+  },
+  {
+    "id": 161,
+    "title": "Asuran",
+    "description": "A celebrated Tamil film blending action, drama storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/asuran.jpg",
+    "backdrop": "/images/movies/backdrops/asuran-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Tamil",
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "duration": 122,
+    "certification": "UA",
+    "rating": 8.5,
+    "releaseDate": "2019-01-01",
+    "status": "CLASSIC",
+    "director": "Vetrimaaran",
+    "cast": [
+      "Dhanush",
+      "Manju Warrier",
+      "Pasupathi"
+    ],
+    "tags": [
+      "Tamil",
+      "Action"
+    ]
+  },
+  {
+    "id": 162,
+    "title": "Kaala",
+    "description": "A celebrated Tamil film blending action, drama storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/kaala.jpg",
+    "backdrop": "/images/movies/backdrops/kaala-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Tamil",
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "duration": 129,
+    "certification": "UA",
+    "rating": 7.0,
+    "releaseDate": "2018-01-01",
+    "status": "CLASSIC",
+    "director": "Pa. Ranjith",
+    "cast": [
+      "Rajinikanth",
+      "Nana Patekar",
+      "Huma Qureshi"
+    ],
+    "tags": [
+      "Tamil",
+      "Action"
+    ]
+  },
+  {
+    "id": 163,
+    "title": "Ratsasan",
+    "description": "A celebrated Tamil film blending crime, thriller storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/ratsasan.jpg",
+    "backdrop": "/images/movies/backdrops/ratsasan-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Tamil",
+    "genres": [
+      "Crime",
+      "Thriller",
+      "Mystery"
+    ],
+    "duration": 136,
+    "certification": "UA",
+    "rating": 8.3,
+    "releaseDate": "2018-01-01",
+    "status": "CLASSIC",
+    "director": "Ram Kumar",
+    "cast": [
+      "Vishnu Vishal",
+      "Amala Paul",
+      "Radha Ravi"
+    ],
+    "tags": [
+      "Tamil",
+      "Thriller"
+    ]
+  },
+  {
+    "id": 164,
+    "title": "Maanadu",
+    "description": "A celebrated Tamil film blending science fiction, thriller storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/maanadu.jpg",
+    "backdrop": "/images/movies/backdrops/maanadu-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Tamil",
+    "genres": [
+      "Science Fiction",
+      "Thriller",
+      "Action"
+    ],
+    "duration": 143,
+    "certification": "UA",
+    "rating": 8.0,
+    "releaseDate": "2021-01-01",
+    "status": "CLASSIC",
+    "director": "Venkat Prabhu",
+    "cast": [
+      "Silambarasan",
+      "S. J. Suryah",
+      "Kalyani Priyadarshan"
+    ],
+    "tags": [
+      "Tamil",
+      "Science Fiction"
+    ]
+  },
+  {
+    "id": 165,
+    "title": "Paruthiveeran",
+    "description": "A celebrated Tamil film blending drama, romance storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/paruthiveeran.jpg",
+    "backdrop": "/images/movies/backdrops/paruthiveeran-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Tamil",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "duration": 150,
+    "certification": "U",
+    "rating": 8.2,
+    "releaseDate": "2007-01-01",
+    "status": "CLASSIC",
+    "director": "Ameer Sultan",
+    "cast": [
+      "Karthi",
+      "Priyamani",
+      "Saravanan"
+    ],
+    "tags": [
+      "Tamil",
+      "Romance"
+    ]
+  },
+  {
+    "id": 166,
+    "title": "Vikram Vedha",
+    "description": "A celebrated Tamil film blending action, crime storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/vikram-vedha.jpg",
+    "backdrop": "/images/movies/backdrops/vikram-vedha-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Tamil",
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "duration": 157,
+    "certification": "UA",
+    "rating": 8.2,
+    "releaseDate": "2017-01-01",
+    "status": "CLASSIC",
+    "director": "Pushkar-Gayathri",
+    "cast": [
+      "R. Madhavan",
+      "Vijay Sethupathi",
+      "Shraddha Srinath"
+    ],
+    "tags": [
+      "Tamil",
+      "Crime"
+    ]
+  },
+  {
+    "id": 167,
+    "title": "Kaaka Muttai",
+    "description": "A celebrated Tamil film blending drama, comedy storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/kaaka-muttai.jpg",
+    "backdrop": "/images/movies/backdrops/kaaka-muttai-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Tamil",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "duration": 164,
+    "certification": "U",
+    "rating": 8.0,
+    "releaseDate": "2014-01-01",
+    "status": "CLASSIC",
+    "director": "M. Manikandan",
+    "cast": [
+      "Ramesh",
+      "Aishwarya Rajesh",
+      "Ramesh Thilak"
+    ],
+    "tags": [
+      "Tamil",
+      "Drama"
+    ]
+  },
+  {
+    "id": 168,
+    "title": "Kantara",
+    "description": "An ambitious action epic driven by larger-than-life characters, powerful rivalries, and a fight for freedom and identity.",
+    "poster": "/images/movies/kantara.jpg",
+    "backdrop": "/images/movies/backdrops/kantara-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Kannada",
+    "genres": [
+      "Action",
+      "Drama",
+      "Mystery"
+    ],
+    "duration": 171,
+    "certification": "UA",
+    "rating": 8.5,
+    "releaseDate": "2022-01-01",
+    "status": "CLASSIC",
+    "director": "Rishab Shetty",
+    "cast": [
+      "Rishab Shetty",
+      "Sapthami Gowda",
+      "Kishore"
+    ],
+    "tags": [
+      "Kannada",
+      "Epic"
+    ]
+  },
+  {
+    "id": 169,
+    "title": "KGF: Chapter 1",
+    "description": "An ambitious action epic driven by larger-than-life characters, powerful rivalries, and a fight for freedom and identity.",
+    "poster": "/images/movies/kgf-chapter-1.jpg",
+    "backdrop": "/images/movies/backdrops/kgf-chapter-1-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Kannada",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "duration": 178,
+    "certification": "UA",
+    "rating": 8.2,
+    "releaseDate": "2018-01-01",
+    "status": "CLASSIC",
+    "director": "Prashanth Neel",
+    "cast": [
+      "Yash",
+      "Srinidhi Shetty",
+      "Anant Nag"
+    ],
+    "tags": [
+      "Kannada",
+      "Action"
+    ]
+  },
+  {
+    "id": 170,
+    "title": "KGF: Chapter 2",
+    "description": "An ambitious action epic driven by larger-than-life characters, powerful rivalries, and a fight for freedom and identity.",
+    "poster": "/images/movies/kgf-chapter-2.jpg",
+    "backdrop": "/images/movies/backdrops/kgf-chapter-2-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Kannada",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "duration": 100,
+    "certification": "UA",
+    "rating": 8.3,
+    "releaseDate": "2022-01-01",
+    "status": "CLASSIC",
+    "director": "Prashanth Neel",
+    "cast": [
+      "Yash",
+      "Sanjay Dutt",
+      "Raveena Tandon"
+    ],
+    "tags": [
+      "Kannada",
+      "Action"
+    ]
+  },
+  {
+    "id": 171,
+    "title": "777 Charlie",
+    "description": "A celebrated Kannada film blending adventure, drama storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/777-charlie.jpg",
+    "backdrop": "/images/movies/backdrops/777-charlie-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Kannada",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Family"
+    ],
+    "duration": 107,
+    "certification": "U",
+    "rating": 8.7,
+    "releaseDate": "2022-01-01",
+    "status": "CLASSIC",
+    "director": "Kiranraj K",
+    "cast": [
+      "Rakshit Shetty",
+      "Sangeetha Sringeri"
+    ],
+    "tags": [
+      "Kannada",
+      "Family"
+    ]
+  },
+  {
+    "id": 172,
+    "title": "Garuda Gamana Vrishabha Vahana",
+    "description": "A celebrated Kannada film blending crime, drama storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/garuda-gamana-vrishabha-vahana.jpg",
+    "backdrop": "/images/movies/backdrops/garuda-gamana-vrishabha-vahana-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Kannada",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "duration": 114,
+    "certification": "U",
+    "rating": 8.5,
+    "releaseDate": "2021-01-01",
+    "status": "CLASSIC",
+    "director": "Rakshit Shetty",
+    "cast": [
+      "Gopalkrishna Deshpande",
+      "Raj B. Shetty"
+    ],
+    "tags": [
+      "Kannada",
+      "Crime"
+    ]
+  },
+  {
+    "id": 173,
+    "title": "Kirik Party",
+    "description": "A celebrated Kannada film blending comedy, romance storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/kirik-party.jpg",
+    "backdrop": "/images/movies/backdrops/kirik-party-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Kannada",
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Drama"
+    ],
+    "duration": 121,
+    "certification": "U",
+    "rating": 8.0,
+    "releaseDate": "2016-01-01",
+    "status": "CLASSIC",
+    "director": "Rishab Shetty",
+    "cast": [
+      "Rakshit Shetty",
+      "Rashmika Mandanna",
+      "Samyuktha Hegde"
+    ],
+    "tags": [
+      "Kannada",
+      "Romance"
+    ]
+  },
+  {
+    "id": 174,
+    "title": "Ulidavaru Kandanthe",
+    "description": "A celebrated Kannada film blending crime, drama storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/ulidavaru-kandanthe.jpg",
+    "backdrop": "/images/movies/backdrops/ulidavaru-kandanthe-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Kannada",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "duration": 128,
+    "certification": "U",
+    "rating": 8.4,
+    "releaseDate": "2014-01-01",
+    "status": "CLASSIC",
+    "director": "Rakshit Shetty",
+    "cast": [
+      "Rakshit Shetty",
+      "Kishore",
+      "Yagna Shetty"
+    ],
+    "tags": [
+      "Kannada",
+      "Mystery"
+    ]
+  },
+  {
+    "id": 175,
+    "title": "Lucia",
+    "description": "A celebrated Kannada film blending science fiction, thriller storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/lucia.jpg",
+    "backdrop": "/images/movies/backdrops/lucia-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Kannada",
+    "genres": [
+      "Science Fiction",
+      "Thriller",
+      "Drama"
+    ],
+    "duration": 135,
+    "certification": "UA",
+    "rating": 8.3,
+    "releaseDate": "2013-01-01",
+    "status": "CLASSIC",
+    "director": "Pawan Kumar",
+    "cast": [
+      "Sathish Ninasam",
+      "Sruthi Hariharan"
+    ],
+    "tags": [
+      "Kannada",
+      "Science Fiction"
+    ]
+  },
+  {
+    "id": 176,
+    "title": "Avane Srimannarayana",
+    "description": "A celebrated Kannada film blending adventure, comedy storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/avane-srimannarayana.jpg",
+    "backdrop": "/images/movies/backdrops/avane-srimannarayana-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Kannada",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "duration": 142,
+    "certification": "U",
+    "rating": 7.8,
+    "releaseDate": "2019-01-01",
+    "status": "CLASSIC",
+    "director": "Sachin Ravi",
+    "cast": [
+      "Rakshit Shetty",
+      "Shanvi Srivastava"
+    ],
+    "tags": [
+      "Kannada",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 177,
+    "title": "U-Turn",
+    "description": "A celebrated Kannada film blending mystery, thriller storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/u-turn.jpg",
+    "backdrop": "/images/movies/backdrops/u-turn-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Kannada",
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Crime"
+    ],
+    "duration": 149,
+    "certification": "UA",
+    "rating": 7.4,
+    "releaseDate": "2016-01-01",
+    "status": "CLASSIC",
+    "director": "Pawan Kumar",
+    "cast": [
+      "Shraddha Srinath",
+      "Dileep Raj",
+      "Roger Narayan"
+    ],
+    "tags": [
+      "Kannada",
+      "Mystery"
+    ]
+  },
+  {
+    "id": 178,
+    "title": "Spider-Man",
+    "description": "A young hero discovers extraordinary abilities and learns that power comes with responsibility while protecting his city.",
+    "poster": "/images/movies/spider-man.jpg",
+    "backdrop": "/images/movies/backdrops/spider-man-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "English",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Superhero"
+    ],
+    "duration": 156,
+    "certification": "PG-13",
+    "rating": 7.4,
+    "releaseDate": "2002-01-01",
+    "status": "CLASSIC",
+    "director": "Sam Raimi",
+    "cast": [
+      "Tobey Maguire",
+      "Kirsten Dunst",
+      "Willem Dafoe"
+    ],
+    "tags": [
+      "Hollywood",
+      "Spider-Man",
+      "Superhero"
+    ]
+  },
+  {
+    "id": 179,
+    "title": "Spider-Man 2",
+    "description": "A young hero discovers extraordinary abilities and learns that power comes with responsibility while protecting his city.",
+    "poster": "/images/movies/spider-man-2.jpg",
+    "backdrop": "/images/movies/backdrops/spider-man-2-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "English",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Superhero"
+    ],
+    "duration": 163,
+    "certification": "PG-13",
+    "rating": 7.5,
+    "releaseDate": "2004-01-01",
+    "status": "CLASSIC",
+    "director": "Sam Raimi",
+    "cast": [
+      "Tobey Maguire",
+      "Kirsten Dunst",
+      "Alfred Molina"
+    ],
+    "tags": [
+      "Hollywood",
+      "Spider-Man",
+      "Superhero"
+    ]
+  },
+  {
+    "id": 180,
+    "title": "Spider-Man 3",
+    "description": "A young hero discovers extraordinary abilities and learns that power comes with responsibility while protecting his city.",
+    "poster": "/images/movies/spider-man-3.jpg",
+    "backdrop": "/images/movies/backdrops/spider-man-3-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "English",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Superhero"
+    ],
+    "duration": 170,
+    "certification": "PG-13",
+    "rating": 6.3,
+    "releaseDate": "2007-01-01",
+    "status": "CLASSIC",
+    "director": "Sam Raimi",
+    "cast": [
+      "Tobey Maguire",
+      "Kirsten Dunst",
+      "James Franco"
+    ],
+    "tags": [
+      "Hollywood",
+      "Spider-Man",
+      "Superhero"
+    ]
+  },
+  {
+    "id": 181,
+    "title": "The Amazing Spider-Man",
+    "description": "A celebrated English film blending action, adventure storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/the-amazing-spider-man.jpg",
+    "backdrop": "/images/movies/backdrops/the-amazing-spider-man-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "English",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Superhero"
+    ],
+    "duration": 177,
+    "certification": "PG-13",
+    "rating": 6.9,
+    "releaseDate": "2012-01-01",
+    "status": "CLASSIC",
+    "director": "Marc Webb",
+    "cast": [
+      "Andrew Garfield",
+      "Emma Stone",
+      "Rhys Ifans"
+    ],
+    "tags": [
+      "Hollywood",
+      "Spider-Man",
+      "Superhero"
+    ]
+  },
+  {
+    "id": 182,
+    "title": "The Amazing Spider-Man 2",
+    "description": "A celebrated English film blending action, adventure storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/the-amazing-spider-man-2.jpg",
+    "backdrop": "/images/movies/backdrops/the-amazing-spider-man-2-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "English",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Superhero"
+    ],
+    "duration": 184,
+    "certification": "PG-13",
+    "rating": 6.6,
+    "releaseDate": "2014-01-01",
+    "status": "CLASSIC",
+    "director": "Marc Webb",
+    "cast": [
+      "Andrew Garfield",
+      "Emma Stone",
+      "Jamie Foxx"
+    ],
+    "tags": [
+      "Hollywood",
+      "Spider-Man",
+      "Superhero"
+    ]
+  },
+  {
+    "id": 183,
+    "title": "Spider-Man: Homecoming",
+    "description": "A young hero discovers extraordinary abilities and learns that power comes with responsibility while protecting his city.",
+    "poster": "/images/movies/spider-man-homecoming.jpg",
+    "backdrop": "/images/movies/backdrops/spider-man-homecoming-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "English",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Superhero"
+    ],
+    "duration": 106,
+    "certification": "PG-13",
+    "rating": 7.4,
+    "releaseDate": "2017-01-01",
+    "status": "CLASSIC",
+    "director": "Jon Watts",
+    "cast": [
+      "Tom Holland",
+      "Zendaya",
+      "Michael Keaton"
+    ],
+    "tags": [
+      "Hollywood",
+      "Spider-Man",
+      "Superhero"
+    ]
+  },
+  {
+    "id": 184,
+    "title": "Spider-Man: Far From Home",
+    "description": "A young hero discovers extraordinary abilities and learns that power comes with responsibility while protecting his city.",
+    "poster": "/images/movies/spider-man-far-from-home.jpg",
+    "backdrop": "/images/movies/backdrops/spider-man-far-from-home-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "English",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Superhero"
+    ],
+    "duration": 113,
+    "certification": "PG-13",
+    "rating": 7.4,
+    "releaseDate": "2019-01-01",
+    "status": "CLASSIC",
+    "director": "Jon Watts",
+    "cast": [
+      "Tom Holland",
+      "Zendaya",
+      "Jake Gyllenhaal"
+    ],
+    "tags": [
+      "Hollywood",
+      "Spider-Man",
+      "Superhero"
+    ]
+  },
+  {
+    "id": 185,
+    "title": "Spider-Man: No Way Home",
+    "description": "A young hero discovers extraordinary abilities and learns that power comes with responsibility while protecting his city.",
+    "poster": "/images/movies/spider-man-no-way-home.jpg",
+    "backdrop": "/images/movies/backdrops/spider-man-no-way-home-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "English",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Superhero"
+    ],
+    "duration": 120,
+    "certification": "PG-13",
+    "rating": 8.2,
+    "releaseDate": "2021-01-01",
+    "status": "CLASSIC",
+    "director": "Jon Watts",
+    "cast": [
+      "Tom Holland",
+      "Zendaya",
+      "Benedict Cumberbatch"
+    ],
+    "tags": [
+      "Hollywood",
+      "Spider-Man",
+      "Superhero"
+    ]
+  },
+  {
+    "id": 186,
+    "title": "Spider-Man: Into the Spider-Verse",
+    "description": "A young hero discovers extraordinary abilities and learns that power comes with responsibility while protecting his city.",
+    "poster": "/images/movies/spider-man-into-the-spider-verse.jpg",
+    "backdrop": "/images/movies/backdrops/spider-man-into-the-spider-verse-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "English",
+    "genres": [
+      "Animation",
+      "Action",
+      "Superhero"
+    ],
+    "duration": 127,
+    "certification": "PG-13",
+    "rating": 8.4,
+    "releaseDate": "2018-01-01",
+    "status": "CLASSIC",
+    "director": "Bob Persichetti, Peter Ramsey, Rodney Rothman",
+    "cast": [
+      "Shameik Moore",
+      "Jake Johnson",
+      "Hailee Steinfeld"
+    ],
+    "tags": [
+      "Hollywood",
+      "Spider-Man",
+      "Animation",
+      "Superhero"
+    ]
+  },
+  {
+    "id": 187,
+    "title": "Spider-Man: Across the Spider-Verse",
+    "description": "A young hero discovers extraordinary abilities and learns that power comes with responsibility while protecting his city.",
+    "poster": "/images/movies/spider-man-across-the-spider-verse.jpg",
+    "backdrop": "/images/movies/backdrops/spider-man-across-the-spider-verse-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "English",
+    "genres": [
+      "Animation",
+      "Action",
+      "Superhero"
+    ],
+    "duration": 134,
+    "certification": "PG-13",
+    "rating": 8.5,
+    "releaseDate": "2023-01-01",
+    "status": "CLASSIC",
+    "director": "Joaquim Dos Santos, Kemp Powers, Justin K. Thompson",
+    "cast": [
+      "Shameik Moore",
+      "Hailee Steinfeld",
+      "Oscar Isaac"
+    ],
+    "tags": [
+      "Hollywood",
+      "Spider-Man",
+      "Animation",
+      "Superhero"
+    ]
+  },
+  {
+    "id": 188,
+    "title": "Iron Man",
+    "description": "A celebrated English film blending action, science fiction storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/iron-man.jpg",
+    "backdrop": "/images/movies/backdrops/iron-man-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "English",
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Superhero"
+    ],
+    "duration": 141,
+    "certification": "PG-13",
+    "rating": 7.9,
+    "releaseDate": "2008-01-01",
+    "status": "CLASSIC",
+    "director": "Jon Favreau",
+    "cast": [
+      "Robert Downey Jr.",
+      "Gwyneth Paltrow",
+      "Jeff Bridges"
+    ],
+    "tags": [
+      "Hollywood",
+      "Marvel",
+      "Superhero"
+    ]
+  },
+  {
+    "id": 189,
+    "title": "The Avengers",
+    "description": "A celebrated English film blending action, adventure storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/the-avengers.jpg",
+    "backdrop": "/images/movies/backdrops/the-avengers-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "English",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Superhero"
+    ],
+    "duration": 148,
+    "certification": "PG-13",
+    "rating": 8.0,
+    "releaseDate": "2012-01-01",
+    "status": "CLASSIC",
+    "director": "Joss Whedon",
+    "cast": [
+      "Robert Downey Jr.",
+      "Chris Evans",
+      "Scarlett Johansson"
+    ],
+    "tags": [
+      "Hollywood",
+      "Marvel",
+      "Superhero"
+    ]
+  },
+  {
+    "id": 190,
+    "title": "Avengers: Infinity War",
+    "description": "A celebrated English film blending action, adventure storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/avengers-infinity-war.jpg",
+    "backdrop": "/images/movies/backdrops/avengers-infinity-war-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "English",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Superhero"
+    ],
+    "duration": 155,
+    "certification": "PG-13",
+    "rating": 8.4,
+    "releaseDate": "2018-01-01",
+    "status": "CLASSIC",
+    "director": "Anthony Russo, Joe Russo",
+    "cast": [
+      "Robert Downey Jr.",
+      "Chris Hemsworth",
+      "Josh Brolin"
+    ],
+    "tags": [
+      "Hollywood",
+      "Marvel",
+      "Superhero"
+    ]
+  },
+  {
+    "id": 191,
+    "title": "Avengers: Endgame",
+    "description": "A celebrated English film blending action, adventure storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/avengers-endgame.jpg",
+    "backdrop": "/images/movies/backdrops/avengers-endgame-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "English",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Superhero"
+    ],
+    "duration": 162,
+    "certification": "PG-13",
+    "rating": 8.4,
+    "releaseDate": "2019-01-01",
+    "status": "CLASSIC",
+    "director": "Anthony Russo, Joe Russo",
+    "cast": [
+      "Robert Downey Jr.",
+      "Chris Evans",
+      "Mark Ruffalo"
+    ],
+    "tags": [
+      "Hollywood",
+      "Marvel",
+      "Superhero"
+    ]
+  },
+  {
+    "id": 192,
+    "title": "Captain America: The Winter Soldier",
+    "description": "A celebrated English film blending action, thriller storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/captain-america-the-winter-soldier.jpg",
+    "backdrop": "/images/movies/backdrops/captain-america-the-winter-soldier-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "English",
+    "genres": [
+      "Action",
+      "Thriller",
+      "Superhero"
+    ],
+    "duration": 169,
+    "certification": "PG-13",
+    "rating": 7.7,
+    "releaseDate": "2014-01-01",
+    "status": "CLASSIC",
+    "director": "Anthony Russo, Joe Russo",
+    "cast": [
+      "Chris Evans",
+      "Scarlett Johansson",
+      "Sebastian Stan"
+    ],
+    "tags": [
+      "Hollywood",
+      "Marvel",
+      "Superhero"
+    ]
+  },
+  {
+    "id": 193,
+    "title": "Captain America: Civil War",
+    "description": "A celebrated English film blending action, drama storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/captain-america-civil-war.jpg",
+    "backdrop": "/images/movies/backdrops/captain-america-civil-war-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "English",
+    "genres": [
+      "Action",
+      "Drama",
+      "Superhero"
+    ],
+    "duration": 176,
+    "certification": "PG-13",
+    "rating": 7.8,
+    "releaseDate": "2016-01-01",
+    "status": "CLASSIC",
+    "director": "Anthony Russo, Joe Russo",
+    "cast": [
+      "Chris Evans",
+      "Robert Downey Jr.",
+      "Chadwick Boseman"
+    ],
+    "tags": [
+      "Hollywood",
+      "Marvel",
+      "Superhero"
+    ]
+  },
+  {
+    "id": 194,
+    "title": "Guardians of the Galaxy",
+    "description": "A celebrated English film blending action, adventure storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/guardians-of-the-galaxy.jpg",
+    "backdrop": "/images/movies/backdrops/guardians-of-the-galaxy-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "English",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "duration": 183,
+    "certification": "PG-13",
+    "rating": 8.0,
+    "releaseDate": "2014-01-01",
+    "status": "CLASSIC",
+    "director": "James Gunn",
+    "cast": [
+      "Chris Pratt",
+      "Zoe Saldana",
+      "Dave Bautista"
+    ],
+    "tags": [
+      "Hollywood",
+      "Marvel",
+      "Superhero"
+    ]
+  },
+  {
+    "id": 195,
+    "title": "Black Panther",
+    "description": "A celebrated English film blending action, adventure storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/black-panther.jpg",
+    "backdrop": "/images/movies/backdrops/black-panther-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "English",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Superhero"
+    ],
+    "duration": 105,
+    "certification": "PG-13",
+    "rating": 7.3,
+    "releaseDate": "2018-01-01",
+    "status": "CLASSIC",
+    "director": "Ryan Coogler",
+    "cast": [
+      "Chadwick Boseman",
+      "Michael B. Jordan",
+      "Lupita Nyong'o"
+    ],
+    "tags": [
+      "Hollywood",
+      "Marvel",
+      "Superhero"
+    ]
+  },
+  {
+    "id": 196,
+    "title": "Thor: Ragnarok",
+    "description": "A celebrated English film blending action, adventure storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/thor-ragnarok.jpg",
+    "backdrop": "/images/movies/backdrops/thor-ragnarok-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "English",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "duration": 112,
+    "certification": "PG-13",
+    "rating": 7.9,
+    "releaseDate": "2017-01-01",
+    "status": "CLASSIC",
+    "director": "Taika Waititi",
+    "cast": [
+      "Chris Hemsworth",
+      "Tom Hiddleston",
+      "Cate Blanchett"
+    ],
+    "tags": [
+      "Hollywood",
+      "Marvel"
+    ]
+  },
+  {
+    "id": 197,
+    "title": "Doctor Strange",
+    "description": "A celebrated English film blending action, fantasy storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/doctor-strange.jpg",
+    "backdrop": "/images/movies/backdrops/doctor-strange-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "English",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Superhero"
+    ],
+    "duration": 119,
+    "certification": "PG-13",
+    "rating": 7.5,
+    "releaseDate": "2016-01-01",
+    "status": "CLASSIC",
+    "director": "Scott Derrickson",
+    "cast": [
+      "Benedict Cumberbatch",
+      "Rachel McAdams",
+      "Tilda Swinton"
+    ],
+    "tags": [
+      "Hollywood",
+      "Marvel",
+      "Superhero"
+    ]
+  },
+  {
+    "id": 198,
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "description": "A reluctant hero joins a fellowship on a dangerous quest to destroy an ancient ring before its dark power returns.",
+    "poster": "/images/movies/the-lord-of-the-rings-the-fellowship-of-the-ring.jpg",
+    "backdrop": "/images/movies/backdrops/the-lord-of-the-rings-the-fellowship-of-the-ring-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "English",
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Drama"
+    ],
+    "duration": 126,
+    "certification": "PG-13",
+    "rating": 8.8,
+    "releaseDate": "2001-01-01",
+    "status": "CLASSIC",
+    "director": "Peter Jackson",
+    "cast": [
+      "Elijah Wood",
+      "Ian McKellen",
+      "Viggo Mortensen"
+    ],
+    "tags": [
+      "Hollywood",
+      "Fantasy",
+      "Epic"
+    ]
+  },
+  {
+    "id": 199,
+    "title": "The Lord of the Rings: The Two Towers",
+    "description": "The fellowship's survivors face war, divided loyalties, and a growing darkness threatening Middle-earth.",
+    "poster": "/images/movies/the-lord-of-the-rings-the-two-towers.jpg",
+    "backdrop": "/images/movies/backdrops/the-lord-of-the-rings-the-two-towers-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "English",
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Drama"
+    ],
+    "duration": 133,
+    "certification": "PG-13",
+    "rating": 8.8,
+    "releaseDate": "2002-01-01",
+    "status": "CLASSIC",
+    "director": "Peter Jackson",
+    "cast": [
+      "Elijah Wood",
+      "Ian McKellen",
+      "Viggo Mortensen"
+    ],
+    "tags": [
+      "Hollywood",
+      "Fantasy",
+      "Epic"
+    ]
+  },
+  {
+    "id": 200,
+    "title": "The Lord of the Rings: The Return of the King",
+    "description": "The final battle for Middle-earth begins as heroes make their last stand against an overwhelming dark army.",
+    "poster": "/images/movies/the-lord-of-the-rings-the-return-of-the-king.jpg",
+    "backdrop": "/images/movies/backdrops/the-lord-of-the-rings-the-return-of-the-king-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "English",
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Drama"
+    ],
+    "duration": 180,
+    "certification": "PG-13",
+    "rating": 9.0,
+    "releaseDate": "2003-01-01",
+    "status": "CLASSIC",
+    "director": "Peter Jackson",
+    "cast": [
+      "Elijah Wood",
+      "Ian McKellen",
+      "Viggo Mortensen"
+    ],
+    "tags": [
+      "Hollywood",
+      "Fantasy",
+      "Epic"
+    ]
+  },
+  {
+    "id": 201,
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "description": "A celebrated English film blending fantasy, adventure storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/harry-potter-and-the-sorcerer-s-stone.jpg",
+    "backdrop": "/images/movies/backdrops/harry-potter-and-the-sorcerer-s-stone-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "English",
+    "genres": [
+      "Fantasy",
+      "Adventure",
+      "Family"
+    ],
+    "duration": 147,
+    "certification": "PG-13",
+    "rating": 7.6,
+    "releaseDate": "2001-01-01",
+    "status": "CLASSIC",
+    "director": "Chris Columbus",
+    "cast": [
+      "Daniel Radcliffe",
+      "Emma Watson",
+      "Rupert Grint"
+    ],
+    "tags": [
+      "Hollywood",
+      "Fantasy"
+    ]
+  },
+  {
+    "id": 202,
+    "title": "Harry Potter and the Deathly Hallows: Part 2",
+    "description": "A celebrated English film blending fantasy, adventure storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/harry-potter-and-the-deathly-hallows-part-2.jpg",
+    "backdrop": "/images/movies/backdrops/harry-potter-and-the-deathly-hallows-part-2-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "English",
+    "genres": [
+      "Fantasy",
+      "Adventure",
+      "Drama"
+    ],
+    "duration": 154,
+    "certification": "PG-13",
+    "rating": 8.1,
+    "releaseDate": "2011-01-01",
+    "status": "CLASSIC",
+    "director": "David Yates",
+    "cast": [
+      "Daniel Radcliffe",
+      "Emma Watson",
+      "Rupert Grint"
+    ],
+    "tags": [
+      "Hollywood",
+      "Fantasy"
+    ]
+  },
+  {
+    "id": 203,
+    "title": "The Matrix",
+    "description": "A hacker discovers that reality is an elaborate simulation and joins a rebellion against the system controlling humanity.",
+    "poster": "/images/movies/the-matrix.jpg",
+    "backdrop": "/images/movies/backdrops/the-matrix-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "English",
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Thriller"
+    ],
+    "duration": 150,
+    "certification": "PG-13",
+    "rating": 8.7,
+    "releaseDate": "1999-01-01",
+    "status": "CLASSIC",
+    "director": "Lana Wachowski, Lilly Wachowski",
+    "cast": [
+      "Keanu Reeves",
+      "Laurence Fishburne",
+      "Carrie-Anne Moss"
+    ],
+    "tags": [
+      "Hollywood",
+      "Science Fiction"
+    ]
+  },
+  {
+    "id": 204,
+    "title": "Gladiator",
+    "description": "A celebrated English film blending action, drama storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/gladiator.jpg",
+    "backdrop": "/images/movies/backdrops/gladiator-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "English",
+    "genres": [
+      "Action",
+      "Drama",
+      "Historical"
+    ],
+    "duration": 168,
+    "certification": "PG-13",
+    "rating": 8.5,
+    "releaseDate": "2000-01-01",
+    "status": "CLASSIC",
+    "director": "Ridley Scott",
+    "cast": [
+      "Russell Crowe",
+      "Joaquin Phoenix",
+      "Connie Nielsen"
+    ],
+    "tags": [
+      "Hollywood",
+      "Epic"
+    ]
+  },
+  {
+    "id": 205,
+    "title": "Titanic",
+    "description": "A celebrated English film blending romance, drama storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/titanic.jpg",
+    "backdrop": "/images/movies/backdrops/titanic-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "English",
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "duration": 180,
+    "certification": "PG-13",
+    "rating": 7.9,
+    "releaseDate": "1997-01-01",
+    "status": "CLASSIC",
+    "director": "James Cameron",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Kate Winslet",
+      "Billy Zane"
+    ],
+    "tags": [
+      "Hollywood",
+      "Romance"
+    ]
+  },
+  {
+    "id": 206,
+    "title": "Avatar",
+    "description": "A celebrated English film blending science fiction, adventure storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/avatar.jpg",
+    "backdrop": "/images/movies/backdrops/avatar-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "English",
+    "genres": [
+      "Science Fiction",
+      "Adventure",
+      "Fantasy"
+    ],
+    "duration": 182,
+    "certification": "PG-13",
+    "rating": 7.9,
+    "releaseDate": "2009-01-01",
+    "status": "CLASSIC",
+    "director": "James Cameron",
+    "cast": [
+      "Sam Worthington",
+      "Zoe Saldana",
+      "Sigourney Weaver"
+    ],
+    "tags": [
+      "Hollywood",
+      "Science Fiction"
+    ]
+  },
+  {
+    "id": 207,
+    "title": "Avatar: The Way of Water",
+    "description": "A celebrated English film blending science fiction, adventure storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/avatar-the-way-of-water.jpg",
+    "backdrop": "/images/movies/backdrops/avatar-the-way-of-water-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "English",
+    "genres": [
+      "Science Fiction",
+      "Adventure",
+      "Fantasy"
+    ],
+    "duration": 104,
+    "certification": "PG-13",
+    "rating": 7.6,
+    "releaseDate": "2022-01-01",
+    "status": "CLASSIC",
+    "director": "James Cameron",
+    "cast": [
+      "Sam Worthington",
+      "Zoe Saldana",
+      "Sigourney Weaver"
+    ],
+    "tags": [
+      "Hollywood",
+      "Science Fiction"
+    ]
+  },
+  {
+    "id": 208,
+    "title": "Top Gun: Maverick",
+    "description": "A celebrated English film blending action, drama storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/top-gun-maverick.jpg",
+    "backdrop": "/images/movies/backdrops/top-gun-maverick-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "English",
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "duration": 111,
+    "certification": "PG-13",
+    "rating": 8.2,
+    "releaseDate": "2022-01-01",
+    "status": "CLASSIC",
+    "director": "Joseph Kosinski",
+    "cast": [
+      "Tom Cruise",
+      "Miles Teller",
+      "Jennifer Connelly"
+    ],
+    "tags": [
+      "Hollywood",
+      "Action"
+    ]
+  },
+  {
+    "id": 209,
+    "title": "Mad Max: Fury Road",
+    "description": "A celebrated English film blending action, adventure storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/mad-max-fury-road.jpg",
+    "backdrop": "/images/movies/backdrops/mad-max-fury-road-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "English",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "duration": 118,
+    "certification": "PG-13",
+    "rating": 8.1,
+    "releaseDate": "2015-01-01",
+    "status": "CLASSIC",
+    "director": "George Miller",
+    "cast": [
+      "Tom Hardy",
+      "Charlize Theron",
+      "Nicholas Hoult"
+    ],
+    "tags": [
+      "Hollywood",
+      "Action"
+    ]
+  },
+  {
+    "id": 210,
+    "title": "Dune",
+    "description": "A celebrated English film blending science fiction, adventure storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/dune.jpg",
+    "backdrop": "/images/movies/backdrops/dune-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "English",
+    "genres": [
+      "Science Fiction",
+      "Adventure",
+      "Drama"
+    ],
+    "duration": 125,
+    "certification": "PG-13",
+    "rating": 8.0,
+    "releaseDate": "2021-01-01",
+    "status": "CLASSIC",
+    "director": "Denis Villeneuve",
+    "cast": [
+      "Timothée Chalamet",
+      "Rebecca Ferguson",
+      "Oscar Isaac"
+    ],
+    "tags": [
+      "Hollywood",
+      "Sci-Fi",
+      "Epic"
+    ]
+  },
+  {
+    "id": 211,
+    "title": "Dune: Part Two",
+    "description": "Paul Atreides unites with the Fremen and embraces a dangerous path toward revenge and a destiny larger than himself.",
+    "poster": "/images/movies/dune-part-two.jpg",
+    "backdrop": "/images/movies/backdrops/dune-part-two-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "English",
+    "genres": [
+      "Science Fiction",
+      "Adventure",
+      "Drama"
+    ],
+    "duration": 132,
+    "certification": "PG-13",
+    "rating": 8.5,
+    "releaseDate": "2024-01-01",
+    "status": "CLASSIC",
+    "director": "Denis Villeneuve",
+    "cast": [
+      "Timothée Chalamet",
+      "Zendaya",
+      "Rebecca Ferguson"
+    ],
+    "tags": [
+      "Hollywood",
+      "Sci-Fi",
+      "Epic"
+    ]
+  },
+  {
+    "id": 212,
+    "title": "Joker",
+    "description": "A celebrated English film blending crime, drama storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/joker.jpg",
+    "backdrop": "/images/movies/backdrops/joker-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "English",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "duration": 139,
+    "certification": "PG-13",
+    "rating": 8.3,
+    "releaseDate": "2019-01-01",
+    "status": "CLASSIC",
+    "director": "Todd Phillips",
+    "cast": [
+      "Joaquin Phoenix",
+      "Robert De Niro",
+      "Zazie Beetz"
+    ],
+    "tags": [
+      "Hollywood",
+      "Crime"
+    ]
+  },
+  {
+    "id": 213,
+    "title": "Parasite",
+    "description": "A celebrated Korean film blending drama, thriller storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/parasite.jpg",
+    "backdrop": "/images/movies/backdrops/parasite-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "Korean",
+    "genres": [
+      "Drama",
+      "Thriller",
+      "Comedy"
+    ],
+    "duration": 146,
+    "certification": "UA",
+    "rating": 8.5,
+    "releaseDate": "2019-01-01",
+    "status": "CLASSIC",
+    "director": "Bong Joon Ho",
+    "cast": [
+      "Song Kang-ho",
+      "Lee Sun-kyun",
+      "Cho Yeo-jeong"
+    ],
+    "tags": [
+      "World Cinema",
+      "Korean"
+    ]
+  },
+  {
+    "id": 214,
+    "title": "The Shawshank Redemption",
+    "description": "A wrongly imprisoned banker builds an enduring friendship and quietly holds on to hope through years behind bars.",
+    "poster": "/images/movies/the-shawshank-redemption.jpg",
+    "backdrop": "/images/movies/backdrops/the-shawshank-redemption-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "English",
+    "genres": [
+      "Drama"
+    ],
+    "duration": 150,
+    "certification": "PG-13",
+    "rating": 9.3,
+    "releaseDate": "1994-01-01",
+    "status": "CLASSIC",
+    "director": "Frank Darabont",
+    "cast": [
+      "Tim Robbins",
+      "Morgan Freeman"
+    ],
+    "tags": [
+      "Hollywood",
+      "Drama"
+    ]
+  },
+  {
+    "id": 215,
+    "title": "The Godfather",
+    "description": "The aging head of a powerful crime family prepares his reluctant son to inherit a dangerous legacy.",
+    "poster": "/images/movies/the-godfather.jpg",
+    "backdrop": "/images/movies/backdrops/the-godfather-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "English",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "duration": 150,
+    "certification": "PG-13",
+    "rating": 9.2,
+    "releaseDate": "1972-01-01",
+    "status": "CLASSIC",
+    "director": "Francis Ford Coppola",
+    "cast": [
+      "Marlon Brando",
+      "Al Pacino",
+      "James Caan"
+    ],
+    "tags": [
+      "Hollywood",
+      "Crime",
+      "Classic"
+    ]
+  },
+  {
+    "id": 216,
+    "title": "The Godfather Part II",
+    "description": "A celebrated English film blending crime, drama storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/the-godfather-part-ii.jpg",
+    "backdrop": "/images/movies/backdrops/the-godfather-part-ii-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "English",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "duration": 167,
+    "certification": "PG-13",
+    "rating": 9.0,
+    "releaseDate": "1974-01-01",
+    "status": "CLASSIC",
+    "director": "Francis Ford Coppola",
+    "cast": [
+      "Al Pacino",
+      "Robert De Niro",
+      "Robert Duvall"
+    ],
+    "tags": [
+      "Hollywood",
+      "Crime",
+      "Classic"
+    ]
+  },
+  {
+    "id": 217,
+    "title": "Pulp Fiction",
+    "description": "Interlocking stories of criminals, hitmen, and ordinary people collide in a stylish and unpredictable crime drama.",
+    "poster": "/images/movies/pulp-fiction.jpg",
+    "backdrop": "/images/movies/backdrops/pulp-fiction-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "English",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "duration": 150,
+    "certification": "PG-13",
+    "rating": 8.9,
+    "releaseDate": "1994-01-01",
+    "status": "CLASSIC",
+    "director": "Quentin Tarantino",
+    "cast": [
+      "John Travolta",
+      "Samuel L. Jackson",
+      "Uma Thurman"
+    ],
+    "tags": [
+      "Hollywood",
+      "Crime",
+      "Classic"
+    ]
+  },
+  {
+    "id": 218,
+    "title": "Fight Club",
+    "description": "A celebrated English film blending drama, thriller storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/fight-club.jpg",
+    "backdrop": "/images/movies/backdrops/fight-club-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "English",
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "duration": 181,
+    "certification": "PG-13",
+    "rating": 8.8,
+    "releaseDate": "1999-01-01",
+    "status": "CLASSIC",
+    "director": "David Fincher",
+    "cast": [
+      "Brad Pitt",
+      "Edward Norton",
+      "Helena Bonham Carter"
+    ],
+    "tags": [
+      "Hollywood",
+      "Thriller"
+    ]
+  },
+  {
+    "id": 219,
+    "title": "Forrest Gump",
+    "description": "A kind-hearted man witnesses extraordinary moments in American history while searching for purpose, friendship, and love.",
+    "poster": "/images/movies/forrest-gump.jpg",
+    "backdrop": "/images/movies/backdrops/forrest-gump-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "English",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "duration": 150,
+    "certification": "PG-13",
+    "rating": 8.8,
+    "releaseDate": "1994-01-01",
+    "status": "CLASSIC",
+    "director": "Robert Zemeckis",
+    "cast": [
+      "Tom Hanks",
+      "Robin Wright",
+      "Gary Sinise"
+    ],
+    "tags": [
+      "Hollywood",
+      "Drama"
+    ]
+  },
+  {
+    "id": 220,
+    "title": "Good Will Hunting",
+    "description": "A celebrated English film blending drama storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/good-will-hunting.jpg",
+    "backdrop": "/images/movies/backdrops/good-will-hunting-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "English",
+    "genres": [
+      "Drama"
+    ],
+    "duration": 110,
+    "certification": "PG-13",
+    "rating": 8.3,
+    "releaseDate": "1997-01-01",
+    "status": "CLASSIC",
+    "director": "Gus Van Sant",
+    "cast": [
+      "Matt Damon",
+      "Robin Williams",
+      "Ben Affleck"
+    ],
+    "tags": [
+      "Hollywood",
+      "Drama"
+    ]
+  },
+  {
+    "id": 221,
+    "title": "Whiplash",
+    "description": "A celebrated English film blending drama, music storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/whiplash.jpg",
+    "backdrop": "/images/movies/backdrops/whiplash-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "English",
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "duration": 117,
+    "certification": "PG-13",
+    "rating": 8.5,
+    "releaseDate": "2014-01-01",
+    "status": "CLASSIC",
+    "director": "Damien Chazelle",
+    "cast": [
+      "Miles Teller",
+      "J. K. Simmons",
+      "Paul Reiser"
+    ],
+    "tags": [
+      "Hollywood",
+      "Drama",
+      "Music"
+    ]
+  },
+  {
+    "id": 222,
+    "title": "La La Land",
+    "description": "A celebrated English film blending romance, drama storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/la-la-land.jpg",
+    "backdrop": "/images/movies/backdrops/la-la-land-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "English",
+    "genres": [
+      "Romance",
+      "Drama",
+      "Music"
+    ],
+    "duration": 124,
+    "certification": "PG-13",
+    "rating": 8.0,
+    "releaseDate": "2016-01-01",
+    "status": "CLASSIC",
+    "director": "Damien Chazelle",
+    "cast": [
+      "Ryan Gosling",
+      "Emma Stone",
+      "John Legend"
+    ],
+    "tags": [
+      "Hollywood",
+      "Romance",
+      "Music"
+    ]
+  },
+  {
+    "id": 223,
+    "title": "The Social Network",
+    "description": "A celebrated English film blending drama, biography storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/the-social-network.jpg",
+    "backdrop": "/images/movies/backdrops/the-social-network-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "English",
+    "genres": [
+      "Drama",
+      "Biography"
+    ],
+    "duration": 131,
+    "certification": "PG-13",
+    "rating": 7.8,
+    "releaseDate": "2010-01-01",
+    "status": "CLASSIC",
+    "director": "David Fincher",
+    "cast": [
+      "Jesse Eisenberg",
+      "Andrew Garfield",
+      "Justin Timberlake"
+    ],
+    "tags": [
+      "Hollywood",
+      "Biography"
+    ]
+  },
+  {
+    "id": 224,
+    "title": "Everything Everywhere All at Once",
+    "description": "A celebrated English film blending science fiction, action storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/everything-everywhere-all-at-once.jpg",
+    "backdrop": "/images/movies/backdrops/everything-everywhere-all-at-once-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "English",
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Comedy"
+    ],
+    "duration": 138,
+    "certification": "PG-13",
+    "rating": 7.8,
+    "releaseDate": "2022-01-01",
+    "status": "CLASSIC",
+    "director": "Daniel Kwan, Daniel Scheinert",
+    "cast": [
+      "Michelle Yeoh",
+      "Ke Huy Quan",
+      "Jamie Lee Curtis"
+    ],
+    "tags": [
+      "Hollywood",
+      "Sci-Fi"
+    ]
+  },
+  {
+    "id": 225,
+    "title": "Arrival",
+    "description": "A celebrated English film blending science fiction, drama storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/arrival.jpg",
+    "backdrop": "/images/movies/backdrops/arrival-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "English",
+    "genres": [
+      "Science Fiction",
+      "Drama",
+      "Mystery"
+    ],
+    "duration": 145,
+    "certification": "PG-13",
+    "rating": 7.9,
+    "releaseDate": "2016-01-01",
+    "status": "CLASSIC",
+    "director": "Denis Villeneuve",
+    "cast": [
+      "Amy Adams",
+      "Jeremy Renner",
+      "Forest Whitaker"
+    ],
+    "tags": [
+      "Hollywood",
+      "Sci-Fi"
+    ]
+  },
+  {
+    "id": 226,
+    "title": "The Wolf of Wall Street",
+    "description": "A celebrated English film blending biography, crime storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/the-wolf-of-wall-street.jpg",
+    "backdrop": "/images/movies/backdrops/the-wolf-of-wall-street-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "English",
+    "genres": [
+      "Biography",
+      "Crime",
+      "Comedy"
+    ],
+    "duration": 152,
+    "certification": "PG-13",
+    "rating": 8.2,
+    "releaseDate": "2013-01-01",
+    "status": "CLASSIC",
+    "director": "Martin Scorsese",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Jonah Hill",
+      "Margot Robbie"
+    ],
+    "tags": [
+      "Hollywood",
+      "Biography"
+    ]
+  },
+  {
+    "id": 227,
+    "title": "Shutter Island",
+    "description": "A celebrated English film blending mystery, thriller storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/shutter-island.jpg",
+    "backdrop": "/images/movies/backdrops/shutter-island-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "English",
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Drama"
+    ],
+    "duration": 159,
+    "certification": "PG-13",
+    "rating": 8.2,
+    "releaseDate": "2010-01-01",
+    "status": "CLASSIC",
+    "director": "Martin Scorsese",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Mark Ruffalo",
+      "Ben Kingsley"
+    ],
+    "tags": [
+      "Hollywood",
+      "Mystery"
+    ]
+  },
+  {
+    "id": 228,
+    "title": "The Departed",
+    "description": "A celebrated English film blending crime, thriller storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/the-departed.jpg",
+    "backdrop": "/images/movies/backdrops/the-departed-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "English",
+    "genres": [
+      "Crime",
+      "Thriller",
+      "Drama"
+    ],
+    "duration": 166,
+    "certification": "PG-13",
+    "rating": 8.5,
+    "releaseDate": "2006-01-01",
+    "status": "CLASSIC",
+    "director": "Martin Scorsese",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Matt Damon",
+      "Jack Nicholson"
+    ],
+    "tags": [
+      "Hollywood",
+      "Crime"
+    ]
+  },
+  {
+    "id": 229,
+    "title": "The Truman Show",
+    "description": "A celebrated English film blending drama, science fiction storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/the-truman-show.jpg",
+    "backdrop": "/images/movies/backdrops/the-truman-show-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "English",
+    "genres": [
+      "Drama",
+      "Science Fiction",
+      "Comedy"
+    ],
+    "duration": 173,
+    "certification": "PG-13",
+    "rating": 8.2,
+    "releaseDate": "1998-01-01",
+    "status": "CLASSIC",
+    "director": "Peter Weir",
+    "cast": [
+      "Jim Carrey",
+      "Ed Harris",
+      "Laura Linney"
+    ],
+    "tags": [
+      "Hollywood",
+      "Sci-Fi"
+    ]
+  },
+  {
+    "id": 230,
+    "title": "The Green Mile",
+    "description": "A celebrated English film blending drama, fantasy storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/the-green-mile.jpg",
+    "backdrop": "/images/movies/backdrops/the-green-mile-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "English",
+    "genres": [
+      "Drama",
+      "Fantasy"
+    ],
+    "duration": 180,
+    "certification": "PG-13",
+    "rating": 8.6,
+    "releaseDate": "1999-01-01",
+    "status": "CLASSIC",
+    "director": "Frank Darabont",
+    "cast": [
+      "Tom Hanks",
+      "Michael Clarke Duncan",
+      "David Morse"
+    ],
+    "tags": [
+      "Hollywood",
+      "Drama"
+    ]
+  },
+  {
+    "id": 231,
+    "title": "Saving Private Ryan",
+    "description": "A celebrated English film blending war, drama storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/saving-private-ryan.jpg",
+    "backdrop": "/images/movies/backdrops/saving-private-ryan-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "English",
+    "genres": [
+      "War",
+      "Drama",
+      "Action"
+    ],
+    "duration": 102,
+    "certification": "PG-13",
+    "rating": 8.6,
+    "releaseDate": "1998-01-01",
+    "status": "CLASSIC",
+    "director": "Steven Spielberg",
+    "cast": [
+      "Tom Hanks",
+      "Matt Damon",
+      "Tom Sizemore"
+    ],
+    "tags": [
+      "Hollywood",
+      "War"
+    ]
+  },
+  {
+    "id": 232,
+    "title": "Schindler's List",
+    "description": "A celebrated English film blending drama, history storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/schindler-s-list.jpg",
+    "backdrop": "/images/movies/backdrops/schindler-s-list-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "English",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "duration": 109,
+    "certification": "PG-13",
+    "rating": 9.0,
+    "releaseDate": "1993-01-01",
+    "status": "CLASSIC",
+    "director": "Steven Spielberg",
+    "cast": [
+      "Liam Neeson",
+      "Ben Kingsley",
+      "Ralph Fiennes"
+    ],
+    "tags": [
+      "Hollywood",
+      "War",
+      "Classic"
+    ]
+  },
+  {
+    "id": 233,
+    "title": "The Silence of the Lambs",
+    "description": "A celebrated English film blending crime, thriller storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/the-silence-of-the-lambs.jpg",
+    "backdrop": "/images/movies/backdrops/the-silence-of-the-lambs-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "English",
+    "genres": [
+      "Crime",
+      "Thriller",
+      "Drama"
+    ],
+    "duration": 116,
+    "certification": "PG-13",
+    "rating": 8.6,
+    "releaseDate": "1991-01-01",
+    "status": "CLASSIC",
+    "director": "Jonathan Demme",
+    "cast": [
+      "Jodie Foster",
+      "Anthony Hopkins",
+      "Scott Glenn"
+    ],
+    "tags": [
+      "Hollywood",
+      "Thriller"
+    ]
+  },
+  {
+    "id": 234,
+    "title": "Se7en",
+    "description": "A celebrated English film blending crime, mystery storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/se7en.jpg",
+    "backdrop": "/images/movies/backdrops/se7en-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "English",
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "duration": 123,
+    "certification": "PG-13",
+    "rating": 8.6,
+    "releaseDate": "1995-01-01",
+    "status": "CLASSIC",
+    "director": "David Fincher",
+    "cast": [
+      "Brad Pitt",
+      "Morgan Freeman",
+      "Kevin Spacey"
+    ],
+    "tags": [
+      "Hollywood",
+      "Crime"
+    ]
+  },
+  {
+    "id": 235,
+    "title": "Blade Runner 2049",
+    "description": "A celebrated English film blending science fiction, mystery storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/blade-runner-2049.jpg",
+    "backdrop": "/images/movies/backdrops/blade-runner-2049-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "English",
+    "genres": [
+      "Science Fiction",
+      "Mystery",
+      "Drama"
+    ],
+    "duration": 130,
+    "certification": "PG-13",
+    "rating": 8.0,
+    "releaseDate": "2017-01-01",
+    "status": "CLASSIC",
+    "director": "Denis Villeneuve",
+    "cast": [
+      "Ryan Gosling",
+      "Harrison Ford",
+      "Ana de Armas"
+    ],
+    "tags": [
+      "Hollywood",
+      "Sci-Fi"
+    ]
+  },
+  {
+    "id": 236,
+    "title": "The Martian",
+    "description": "A celebrated English film blending science fiction, drama storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/the-martian.jpg",
+    "backdrop": "/images/movies/backdrops/the-martian-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "English",
+    "genres": [
+      "Science Fiction",
+      "Drama",
+      "Adventure"
+    ],
+    "duration": 137,
+    "certification": "PG-13",
+    "rating": 8.0,
+    "releaseDate": "2015-01-01",
+    "status": "CLASSIC",
+    "director": "Ridley Scott",
+    "cast": [
+      "Matt Damon",
+      "Jessica Chastain",
+      "Kristen Wiig"
+    ],
+    "tags": [
+      "Hollywood",
+      "Sci-Fi"
+    ]
+  },
+  {
+    "id": 237,
+    "title": "Logan",
+    "description": "A celebrated English film blending action, drama storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/logan.jpg",
+    "backdrop": "/images/movies/backdrops/logan-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "English",
+    "genres": [
+      "Action",
+      "Drama",
+      "Superhero"
+    ],
+    "duration": 144,
+    "certification": "PG-13",
+    "rating": 8.1,
+    "releaseDate": "2017-01-01",
+    "status": "CLASSIC",
+    "director": "James Mangold",
+    "cast": [
+      "Hugh Jackman",
+      "Patrick Stewart",
+      "Dafne Keen"
+    ],
+    "tags": [
+      "Hollywood",
+      "Superhero"
+    ]
+  },
+  {
+    "id": 238,
+    "title": "Deadpool",
+    "description": "A celebrated English film blending action, comedy storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/deadpool.jpg",
+    "backdrop": "/images/movies/backdrops/deadpool-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "English",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Superhero"
+    ],
+    "duration": 151,
+    "certification": "PG-13",
+    "rating": 8.0,
+    "releaseDate": "2016-01-01",
+    "status": "CLASSIC",
+    "director": "Tim Miller",
+    "cast": [
+      "Ryan Reynolds",
+      "Morena Baccarin",
+      "T. J. Miller"
+    ],
+    "tags": [
+      "Hollywood",
+      "Superhero"
+    ]
+  },
+  {
+    "id": 239,
+    "title": "X-Men: Days of Future Past",
+    "description": "A celebrated English film blending action, science fiction storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/x-men-days-of-future-past.jpg",
+    "backdrop": "/images/movies/backdrops/x-men-days-of-future-past-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "English",
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Superhero"
+    ],
+    "duration": 158,
+    "certification": "PG-13",
+    "rating": 7.9,
+    "releaseDate": "2014-01-01",
+    "status": "CLASSIC",
+    "director": "Bryan Singer",
+    "cast": [
+      "Hugh Jackman",
+      "James McAvoy",
+      "Michael Fassbender"
+    ],
+    "tags": [
+      "Hollywood",
+      "Superhero"
+    ]
+  },
+  {
+    "id": 240,
+    "title": "The Batman",
+    "description": "A celebrated English film blending action, crime storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/the-batman.jpg",
+    "backdrop": "/images/movies/backdrops/the-batman-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "English",
+    "genres": [
+      "Action",
+      "Crime",
+      "Mystery"
+    ],
+    "duration": 165,
+    "certification": "PG-13",
+    "rating": 7.8,
+    "releaseDate": "2022-01-01",
+    "status": "CLASSIC",
+    "director": "Matt Reeves",
+    "cast": [
+      "Robert Pattinson",
+      "Zoë Kravitz",
+      "Paul Dano"
+    ],
+    "tags": [
+      "Hollywood",
+      "DC",
+      "Superhero"
+    ]
+  },
+  {
+    "id": 241,
+    "title": "Wonder Woman",
+    "description": "A celebrated English film blending action, adventure storytelling, centered on memorable characters and a compelling journey.",
+    "poster": "/images/movies/wonder-woman.jpg",
+    "backdrop": "/images/movies/backdrops/wonder-woman-backdrop.jpg",
+    "trailerUrl": "",
+    "language": "English",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Superhero"
+    ],
+    "duration": 172,
+    "certification": "PG-13",
+    "rating": 7.3,
+    "releaseDate": "2017-01-01",
+    "status": "CLASSIC",
+    "director": "Patty Jenkins",
+    "cast": [
+      "Gal Gadot",
+      "Chris Pine",
+      "Robin Wright"
+    ],
+    "tags": [
+      "Hollywood",
+      "DC",
+      "Superhero"
+    ]
   }
 ]

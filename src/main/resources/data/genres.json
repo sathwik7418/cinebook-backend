@@ -148,5 +148,80 @@
     "id": 30,
     "name": "Period Drama",
     "description": "Dramas set in a distinct, carefully recreated historical era."
+  },
+  {
+    "id": 31,
+    "name": "Black Comedy",
+    "description": "Films that combine dark, serious situations with irony or unconventional humor."
+  },
+  {
+    "id": 32,
+    "name": "Documentary",
+    "description": "Non-fiction films built around real people, events, places, or subjects."
+  },
+  {
+    "id": 33,
+    "name": "Heist",
+    "description": "Stories focused on carefully planned robberies, elaborate schemes, and high-stakes escapes."
+  },
+  {
+    "id": 34,
+    "name": "Slasher",
+    "description": "Horror stories built around relentless threats, suspense, and survival."
+  },
+  {
+    "id": 35,
+    "name": "Dark Comedy",
+    "description": "Comedies that find humor in uncomfortable, serious, or morally complicated situations."
+  },
+  {
+    "id": 36,
+    "name": "Political Drama",
+    "description": "Character-driven stories shaped by political institutions, power, and public conflict."
+  },
+  {
+    "id": 37,
+    "name": "Courtroom",
+    "description": "Stories centered on legal cases, trials, evidence, and courtroom strategy."
+  },
+  {
+    "id": 38,
+    "name": "Disaster",
+    "description": "Stories involving large-scale natural or man-made disasters and their consequences."
+  },
+  {
+    "id": 39,
+    "name": "Martial Arts",
+    "description": "Action films emphasizing martial arts training, combat, and disciplined fighting."
+  },
+  {
+    "id": 40,
+    "name": "Road Movie",
+    "description": "Journey-focused films in which travel becomes central to the characters' stories."
+  },
+  {
+    "id": 41,
+    "name": "Teen",
+    "description": "Films focused on teenage characters, friendships, identity, and everyday challenges."
+  },
+  {
+    "id": 42,
+    "name": "Slice of Life",
+    "description": "Grounded stories focused on ordinary experiences, relationships, and everyday life."
+  },
+  {
+    "id": 43,
+    "name": "Supernatural",
+    "description": "Stories involving ghosts, unexplained forces, or events beyond ordinary reality."
+  },
+  {
+    "id": 44,
+    "name": "Espionage",
+    "description": "Stories centered on intelligence agencies, secret missions, surveillance, and covert operations."
+  },
+  {
+    "id": 45,
+    "name": "Epic",
+    "description": "Large-scale stories featuring sweeping conflicts, ambitious worlds, and major dramatic stakes."
   }
 ]

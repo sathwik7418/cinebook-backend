@@ -13,9 +13,7 @@
     "name": "A. M. Jyothi Krishna",
     "profileImage": "",
     "bio": "Telugu filmmaker known for large-scale period and action films.",
-    "filmography": [
-      16
-    ]
+    "filmography": []
   },
   {
     "id": 3,
@@ -50,7 +48,8 @@
     "profileImage": "",
     "bio": "Malayalam director known for blending mainstream appeal with grounded storytelling.",
     "filmography": [
-      60
+      60,
+      146
     ]
   },
   {
@@ -141,7 +140,8 @@
       86,
       87,
       88,
-      89
+      89,
+      90
     ]
   },
   {
@@ -150,7 +150,9 @@
     "profileImage": "",
     "bio": "Malayalam director known for understated, realistic character studies.",
     "filmography": [
-      58
+      58,
+      142,
+      150
     ]
   },
   {
@@ -178,7 +180,8 @@
     "profileImage": "",
     "bio": "Telugu writer-director known for grounded, socially rooted storytelling.",
     "filmography": [
-      15
+      15,
+      98
     ]
   },
   {
@@ -269,9 +272,7 @@
     "name": "Krish Jagarlamudi",
     "profileImage": "",
     "bio": "Telugu filmmaker known for historical and biographical epics.",
-    "filmography": [
-      16
-    ]
+    "filmography": []
   },
   {
     "id": 30,
@@ -307,7 +308,10 @@
     "profileImage": "",
     "bio": "Tamil filmmaker known for his interconnected action-thriller cinematic universe.",
     "filmography": [
-      48
+      48,
+      154,
+      155,
+      156
     ]
   },
   {
@@ -336,7 +340,8 @@
       75,
       76,
       77,
-      78
+      78,
+      95
     ]
   },
   {
@@ -354,7 +359,8 @@
     "profileImage": "",
     "bio": "Malayalam filmmaker known for stylish, character-focused storytelling.",
     "filmography": [
-      61
+      61,
+      144
     ]
   },
   {
@@ -372,7 +378,9 @@
     "profileImage": "",
     "bio": "Telugu filmmaker known for ambitious, genre-blending contemporary cinema.",
     "filmography": [
-      1
+      1,
+      91,
+      105
     ]
   },
   {
@@ -381,7 +389,8 @@
     "profileImage": "",
     "bio": "Telugu director known for genre-bending fantasy and horror-comedy films.",
     "filmography": [
-      2
+      2,
+      114
     ]
   },
   {
@@ -390,7 +399,10 @@
     "profileImage": "",
     "bio": "Filmmaker known for large-scale, high-octane pan-Indian action epics.",
     "filmography": [
-      11
+      11,
+      93,
+      169,
+      170
     ]
   },
   {
@@ -436,7 +448,10 @@
     "bio": "Acclaimed Telugu filmmaker known for grand, large-scale epic filmmaking.",
     "filmography": [
       30,
-      33
+      33,
+      92,
+      96,
+      97
     ]
   },
   {
@@ -510,7 +525,8 @@
     "bio": "Telugu filmmaker known for unconventional narratives and character-driven mass cinema.",
     "filmography": [
       3,
-      34
+      34,
+      94
     ]
   },
   {
@@ -582,7 +598,932 @@
     "profileImage": "",
     "bio": "Telugu writer-director known for stylish, character-driven storytelling.",
     "filmography": [
-      5
+      5,
+      115
+    ]
+  },
+  {
+    "id": 63,
+    "name": "A. M. Jyothi Krishna, Krish Jagarlamudi",
+    "profileImage": "",
+    "bio": "A. M. Jyothi Krishna, Krish Jagarlamudi is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      16
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Aamir Khan",
+    "profileImage": "",
+    "bio": "Aamir Khan is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      131
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Aashiq Abu",
+    "profileImage": "",
+    "bio": "Aashiq Abu is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      148
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Abhishek Pathak",
+    "profileImage": "",
+    "bio": "Abhishek Pathak is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      122
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Aditya Dhar",
+    "profileImage": "",
+    "bio": "Aditya Dhar is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      136
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Amar Kaushik",
+    "profileImage": "",
+    "bio": "Amar Kaushik is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      134
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Ameer Sultan",
+    "profileImage": "",
+    "bio": "Ameer Sultan is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      165
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Anthony Russo, Joe Russo",
+    "profileImage": "",
+    "bio": "Anthony Russo, Joe Russo is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      190,
+      191,
+      192,
+      193
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Anubhav Sinha",
+    "profileImage": "",
+    "bio": "Anubhav Sinha is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      133
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Anudeep K. V.",
+    "profileImage": "",
+    "bio": "Anudeep K. V. is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      102
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Anurag Basu",
+    "profileImage": "",
+    "bio": "Anurag Basu is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      125
+    ]
+  },
+  {
+    "id": 74,
+    "name": "Anurag Kashyap",
+    "profileImage": "",
+    "bio": "Anurag Kashyap is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      132
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Ashutosh Gowariker",
+    "profileImage": "",
+    "bio": "Ashutosh Gowariker is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      118,
+      128
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Bob Persichetti, Peter Ramsey, Rodney Rothman",
+    "profileImage": "",
+    "bio": "Bob Persichetti, Peter Ramsey, Rodney Rothman is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      186
+    ]
+  },
+  {
+    "id": 77,
+    "name": "Bong Joon Ho",
+    "profileImage": "",
+    "bio": "Bong Joon Ho is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      213
+    ]
+  },
+  {
+    "id": 78,
+    "name": "Bryan Singer",
+    "profileImage": "",
+    "bio": "Bryan Singer is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      239
+    ]
+  },
+  {
+    "id": 79,
+    "name": "Chris Columbus",
+    "profileImage": "",
+    "bio": "Chris Columbus is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      201
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Damien Chazelle",
+    "profileImage": "",
+    "bio": "Damien Chazelle is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      221,
+      222
+    ]
+  },
+  {
+    "id": 81,
+    "name": "Daniel Kwan, Daniel Scheinert",
+    "profileImage": "",
+    "bio": "Daniel Kwan, Daniel Scheinert is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      224
+    ]
+  },
+  {
+    "id": 82,
+    "name": "David Fincher",
+    "profileImage": "",
+    "bio": "David Fincher is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      218,
+      223,
+      234
+    ]
+  },
+  {
+    "id": 83,
+    "name": "David Yates",
+    "profileImage": "",
+    "bio": "David Yates is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      202
+    ]
+  },
+  {
+    "id": 84,
+    "name": "Denis Villeneuve",
+    "profileImage": "",
+    "bio": "Denis Villeneuve is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      210,
+      211,
+      225,
+      235
+    ]
+  },
+  {
+    "id": 85,
+    "name": "Dijo Jose Antony",
+    "profileImage": "",
+    "bio": "Dijo Jose Antony is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      143
+    ]
+  },
+  {
+    "id": 86,
+    "name": "Dinjith Ayyathan",
+    "profileImage": "",
+    "bio": "Dinjith Ayyathan is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      152
+    ]
+  },
+  {
+    "id": 87,
+    "name": "Farhan Akhtar",
+    "profileImage": "",
+    "bio": "Farhan Akhtar is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      139
+    ]
+  },
+  {
+    "id": 88,
+    "name": "Francis Ford Coppola",
+    "profileImage": "",
+    "bio": "Francis Ford Coppola is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      215,
+      216
+    ]
+  },
+  {
+    "id": 89,
+    "name": "Frank Darabont",
+    "profileImage": "",
+    "bio": "Frank Darabont is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      214,
+      230
+    ]
+  },
+  {
+    "id": 90,
+    "name": "George Miller",
+    "profileImage": "",
+    "bio": "George Miller is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      209
+    ]
+  },
+  {
+    "id": 91,
+    "name": "Gus Van Sant",
+    "profileImage": "",
+    "bio": "Gus Van Sant is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      220
+    ]
+  },
+  {
+    "id": 92,
+    "name": "Hanu Raghavapudi",
+    "profileImage": "",
+    "bio": "Hanu Raghavapudi is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      104
+    ]
+  },
+  {
+    "id": 93,
+    "name": "Imtiaz Ali",
+    "profileImage": "",
+    "bio": "Imtiaz Ali is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      126,
+      127
+    ]
+  },
+  {
+    "id": 94,
+    "name": "James Cameron",
+    "profileImage": "",
+    "bio": "James Cameron is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      205,
+      206,
+      207
+    ]
+  },
+  {
+    "id": 95,
+    "name": "James Gunn",
+    "profileImage": "",
+    "bio": "James Gunn is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      194
+    ]
+  },
+  {
+    "id": 96,
+    "name": "James Mangold",
+    "profileImage": "",
+    "bio": "James Mangold is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      237
+    ]
+  },
+  {
+    "id": 97,
+    "name": "Joaquim Dos Santos, Kemp Powers, Justin K. Thompson",
+    "profileImage": "",
+    "bio": "Joaquim Dos Santos, Kemp Powers, Justin K. Thompson is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      187
+    ]
+  },
+  {
+    "id": 98,
+    "name": "Jon Favreau",
+    "profileImage": "",
+    "bio": "Jon Favreau is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      188
+    ]
+  },
+  {
+    "id": 99,
+    "name": "Jon Watts",
+    "profileImage": "",
+    "bio": "Jon Watts is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      183,
+      184,
+      185
+    ]
+  },
+  {
+    "id": 100,
+    "name": "Jonathan Demme",
+    "profileImage": "",
+    "bio": "Jonathan Demme is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      233
+    ]
+  },
+  {
+    "id": 101,
+    "name": "Joseph Kosinski",
+    "profileImage": "",
+    "bio": "Joseph Kosinski is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      208
+    ]
+  },
+  {
+    "id": 102,
+    "name": "Joss Whedon",
+    "profileImage": "",
+    "bio": "Joss Whedon is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      189
+    ]
+  },
+  {
+    "id": 103,
+    "name": "Karthik Subbaraj",
+    "profileImage": "",
+    "bio": "Karthik Subbaraj is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      153
+    ]
+  },
+  {
+    "id": 104,
+    "name": "Kiranraj K",
+    "profileImage": "",
+    "bio": "Kiranraj K is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      171
+    ]
+  },
+  {
+    "id": 105,
+    "name": "Koratala Siva",
+    "profileImage": "",
+    "bio": "Koratala Siva is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      112
+    ]
+  },
+  {
+    "id": 106,
+    "name": "Lana Wachowski, Lilly Wachowski",
+    "profileImage": "",
+    "bio": "Lana Wachowski, Lilly Wachowski is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      203
+    ]
+  },
+  {
+    "id": 107,
+    "name": "Laxman Utekar",
+    "profileImage": "",
+    "bio": "Laxman Utekar is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      140
+    ]
+  },
+  {
+    "id": 108,
+    "name": "M. Manikandan",
+    "profileImage": "",
+    "bio": "M. Manikandan is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      167
+    ]
+  },
+  {
+    "id": 109,
+    "name": "Mahesh Narayanan",
+    "profileImage": "",
+    "bio": "Mahesh Narayanan is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      147
+    ]
+  },
+  {
+    "id": 110,
+    "name": "Marc Webb",
+    "profileImage": "",
+    "bio": "Marc Webb is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      181,
+      182
+    ]
+  },
+  {
+    "id": 111,
+    "name": "Mari Selvaraj",
+    "profileImage": "",
+    "bio": "Mari Selvaraj is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      159
+    ]
+  },
+  {
+    "id": 112,
+    "name": "Martin Scorsese",
+    "profileImage": "",
+    "bio": "Martin Scorsese is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      226,
+      227,
+      228
+    ]
+  },
+  {
+    "id": 113,
+    "name": "Mathukutty Xavier",
+    "profileImage": "",
+    "bio": "Mathukutty Xavier is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      149
+    ]
+  },
+  {
+    "id": 114,
+    "name": "Matt Reeves",
+    "profileImage": "",
+    "bio": "Matt Reeves is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      240
+    ]
+  },
+  {
+    "id": 115,
+    "name": "Nelson Dilipkumar",
+    "profileImage": "",
+    "bio": "Nelson Dilipkumar is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      157
+    ]
+  },
+  {
+    "id": 116,
+    "name": "Nitesh Tiwari",
+    "profileImage": "",
+    "bio": "Nitesh Tiwari is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      117
+    ]
+  },
+  {
+    "id": 117,
+    "name": "Pa. Ranjith",
+    "profileImage": "",
+    "bio": "Pa. Ranjith is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      162
+    ]
+  },
+  {
+    "id": 118,
+    "name": "Patty Jenkins",
+    "profileImage": "",
+    "bio": "Patty Jenkins is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      241
+    ]
+  },
+  {
+    "id": 119,
+    "name": "Pawan Kumar",
+    "profileImage": "",
+    "bio": "Pawan Kumar is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      175,
+      177
+    ]
+  },
+  {
+    "id": 120,
+    "name": "Peter Jackson",
+    "profileImage": "",
+    "bio": "Peter Jackson is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      198,
+      199,
+      200
+    ]
+  },
+  {
+    "id": 121,
+    "name": "Peter Weir",
+    "profileImage": "",
+    "bio": "Peter Weir is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      229
+    ]
+  },
+  {
+    "id": 122,
+    "name": "Pushkar-Gayathri",
+    "profileImage": "",
+    "bio": "Pushkar-Gayathri is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      166
+    ]
+  },
+  {
+    "id": 123,
+    "name": "Quentin Tarantino",
+    "profileImage": "",
+    "bio": "Quentin Tarantino is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      217
+    ]
+  },
+  {
+    "id": 124,
+    "name": "Rahi Anil Barve",
+    "profileImage": "",
+    "bio": "Rahi Anil Barve is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      123
+    ]
+  },
+  {
+    "id": 125,
+    "name": "Rajkumar Hirani",
+    "profileImage": "",
+    "bio": "Rajkumar Hirani is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      116,
+      130
+    ]
+  },
+  {
+    "id": 126,
+    "name": "Rakeysh Omprakash Mehra",
+    "profileImage": "",
+    "bio": "Rakeysh Omprakash Mehra is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      129
+    ]
+  },
+  {
+    "id": 127,
+    "name": "Rakshit Shetty",
+    "profileImage": "",
+    "bio": "Rakshit Shetty is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      172,
+      174
+    ]
+  },
+  {
+    "id": 128,
+    "name": "Ram Kumar",
+    "profileImage": "",
+    "bio": "Ram Kumar is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      163
+    ]
+  },
+  {
+    "id": 129,
+    "name": "Ridley Scott",
+    "profileImage": "",
+    "bio": "Ridley Scott is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      204,
+      236
+    ]
+  },
+  {
+    "id": 130,
+    "name": "Rishab Shetty",
+    "profileImage": "",
+    "bio": "Rishab Shetty is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      168,
+      173
+    ]
+  },
+  {
+    "id": 131,
+    "name": "Ritesh Rana",
+    "profileImage": "",
+    "bio": "Ritesh Rana is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      108
+    ]
+  },
+  {
+    "id": 132,
+    "name": "Robert Zemeckis",
+    "profileImage": "",
+    "bio": "Robert Zemeckis is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      219
+    ]
+  },
+  {
+    "id": 133,
+    "name": "Ryan Coogler",
+    "profileImage": "",
+    "bio": "Ryan Coogler is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      195
+    ]
+  },
+  {
+    "id": 134,
+    "name": "Sachin Ravi",
+    "profileImage": "",
+    "bio": "Sachin Ravi is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      176
+    ]
+  },
+  {
+    "id": 135,
+    "name": "Sachy",
+    "profileImage": "",
+    "bio": "Sachy is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      141
+    ]
+  },
+  {
+    "id": 136,
+    "name": "Sam Raimi",
+    "profileImage": "",
+    "bio": "Sam Raimi is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      178,
+      179,
+      180
+    ]
+  },
+  {
+    "id": 137,
+    "name": "Sandeep Reddy Vanga",
+    "profileImage": "",
+    "bio": "Sandeep Reddy Vanga is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      101
+    ]
+  },
+  {
+    "id": 138,
+    "name": "Sanu Varghese",
+    "profileImage": "",
+    "bio": "Sanu Varghese is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      145
+    ]
+  },
+  {
+    "id": 139,
+    "name": "Sashi Kiran Tikka",
+    "profileImage": "",
+    "bio": "Sashi Kiran Tikka is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      106,
+      113
+    ]
+  },
+  {
+    "id": 140,
+    "name": "Scott Derrickson",
+    "profileImage": "",
+    "bio": "Scott Derrickson is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      197
+    ]
+  },
+  {
+    "id": 141,
+    "name": "Shouryuv",
+    "profileImage": "",
+    "bio": "Shouryuv is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      110
+    ]
+  },
+  {
+    "id": 142,
+    "name": "Srikanth Odela",
+    "profileImage": "",
+    "bio": "Srikanth Odela is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      111
+    ]
+  },
+  {
+    "id": 143,
+    "name": "Sriram Raghavan",
+    "profileImage": "",
+    "bio": "Sriram Raghavan is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      121
+    ]
+  },
+  {
+    "id": 144,
+    "name": "Steven Spielberg",
+    "profileImage": "",
+    "bio": "Steven Spielberg is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      231,
+      232
+    ]
+  },
+  {
+    "id": 145,
+    "name": "Sudha Kongara",
+    "profileImage": "",
+    "bio": "Sudha Kongara is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      158
+    ]
+  },
+  {
+    "id": 146,
+    "name": "Sujoy Ghosh",
+    "profileImage": "",
+    "bio": "Sujoy Ghosh is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      135
+    ]
+  },
+  {
+    "id": 147,
+    "name": "Swaroop RSJ",
+    "profileImage": "",
+    "bio": "Swaroop RSJ is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      100
+    ]
+  },
+  {
+    "id": 148,
+    "name": "Taika Waititi",
+    "profileImage": "",
+    "bio": "Taika Waititi is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      196
+    ]
+  },
+  {
+    "id": 149,
+    "name": "Tharun Bhascker",
+    "profileImage": "",
+    "bio": "Tharun Bhascker is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      109
+    ]
+  },
+  {
+    "id": 150,
+    "name": "Tim Miller",
+    "profileImage": "",
+    "bio": "Tim Miller is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      238
+    ]
+  },
+  {
+    "id": 151,
+    "name": "Todd Phillips",
+    "profileImage": "",
+    "bio": "Todd Phillips is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      212
+    ]
+  },
+  {
+    "id": 152,
+    "name": "Venkat Prabhu",
+    "profileImage": "",
+    "bio": "Venkat Prabhu is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      164
+    ]
+  },
+  {
+    "id": 153,
+    "name": "Venkat Ramji",
+    "profileImage": "",
+    "bio": "Venkat Ramji is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      107
+    ]
+  },
+  {
+    "id": 154,
+    "name": "Venkatesh Maha",
+    "profileImage": "",
+    "bio": "Venkatesh Maha is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      99
+    ]
+  },
+  {
+    "id": 155,
+    "name": "Vetrimaaran",
+    "profileImage": "",
+    "bio": "Vetrimaaran is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      160,
+      161
+    ]
+  },
+  {
+    "id": 156,
+    "name": "Vikas Bahl",
+    "profileImage": "",
+    "bio": "Vikas Bahl is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      124
+    ]
+  },
+  {
+    "id": 157,
+    "name": "Vimal Krishna",
+    "profileImage": "",
+    "bio": "Vimal Krishna is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      103
+    ]
+  },
+  {
+    "id": 158,
+    "name": "Vishal Bhardwaj",
+    "profileImage": "",
+    "bio": "Vishal Bhardwaj is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      138
+    ]
+  },
+  {
+    "id": 159,
+    "name": "Vishnuvardhan",
+    "profileImage": "",
+    "bio": "Vishnuvardhan is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      137
+    ]
+  },
+  {
+    "id": 160,
+    "name": "Zakariya Mohammed",
+    "profileImage": "",
+    "bio": "Zakariya Mohammed is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      151
+    ]
+  },
+  {
+    "id": 161,
+    "name": "Zoya Akhtar",
+    "profileImage": "",
+    "bio": "Zoya Akhtar is a filmmaker represented in the CineBook collection, with work spanning popular and critically recognized cinema.",
+    "filmography": [
+      119,
+      120
     ]
   }
 ]
