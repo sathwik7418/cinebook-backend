@@ -1,4 +1,6 @@
 target/
+data/bookings.json
+data/bookings.json.tmp
 *.log
 *.err
 *.out

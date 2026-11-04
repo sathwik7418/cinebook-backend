@@ -1,12 +1,27 @@
-FROM eclipse-temurin:21-jdk
+
+# Build stage: Java 21 + Maven
+FROM maven:3.9-eclipse-temurin-21 AS build
 
 WORKDIR /app
 
-COPY pom.xml .
+COPY pom.xml ./
+
+# Cache dependency resolution as a separate layer
+RUN mvn -B dependency:go-offline
+
 COPY src ./src
 
-RUN apt-get update && apt-get install -y maven && mvn clean package -DskipTests
+RUN mvn -B package -DskipTests
 
-EXPOSE 8080
+# Runtime stage: Java 21 only
+FROM eclipse-temurin:21-jre
 
-CMD ["java", "-jar", "target/cinebook-1.0.0-SNAPSHOT.jar"]
+WORKDIR /app
+
+COPY --from=build \
+  /app/target/cinebook-1.0.0-SNAPSHOT.jar \
+  /app/app.jar
+
+EXPOSE 10000
+
+ENTRYPOINT ["java", "-jar", "/app/app.jar"]

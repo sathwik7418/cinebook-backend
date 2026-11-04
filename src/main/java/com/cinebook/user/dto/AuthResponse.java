@@ -11,6 +11,8 @@ public class AuthResponse {
     private String name;
     private String role;
     private String token;
+    private boolean emailVerified;
+    private boolean verificationEmailSent;
 
     public AuthResponse(AuthUserJson user) {
         this(user, null);
@@ -20,6 +22,8 @@ public class AuthResponse {
         this.id = user.id;
         this.username = user.username;
         this.email = user.email;
+        this.name = user.name;
+        this.emailVerified = Boolean.TRUE.equals(user.emailVerified);
         this.role = user.role;
         this.token = token;
     }
@@ -75,6 +79,11 @@ public class AuthResponse {
     public String getToken() {
         return token;
     }
+
+    public boolean isEmailVerified() { return emailVerified; }
+    public void setEmailVerified(boolean emailVerified) { this.emailVerified = emailVerified; }
+    public boolean isVerificationEmailSent() { return verificationEmailSent; }
+    public void setVerificationEmailSent(boolean verificationEmailSent) { this.verificationEmailSent = verificationEmailSent; }
 
     public void setToken(String token) {
         this.token = token;

@@ -4,6 +4,7 @@ import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.DeserializationFeature;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.springframework.core.io.ClassPathResource;
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
 
 import jakarta.annotation.PostConstruct;
@@ -11,6 +12,7 @@ import jakarta.annotation.PostConstruct;
 import java.io.IOException;
 import java.io.InputStream;
 import java.nio.file.Files;
+import java.nio.file.StandardCopyOption;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.ArrayList;
@@ -32,6 +34,9 @@ public class JsonLoaderService {
     private final Map<String, Object> dataMap =
             new ConcurrentHashMap<>();
 
+    @Value("${cinebook.storage.directory:./data}")
+    private String storageDirectory = "./data";
+
     @PostConstruct
     public void loadAll() {
 
@@ -39,7 +44,6 @@ public class JsonLoaderService {
                 "data/cinebook_movies.json",
                 "data/cinebook_collections.json",
                 "data/cinemas.json",
-                "data/shows.json",
                 "data/genres.json",
                 "data/actors.json",
                 "data/directors.json",
@@ -70,6 +74,22 @@ public class JsonLoaderService {
                         e
                 );
             }
+        }
+
+        // Mutable account state lives outside the packaged classpath. Bootstrap
+        // copies the existing catalog account file once and never overwrites it.
+        Path authStore = authUsersPath();
+        try {
+            Files.createDirectories(authStore.getParent());
+            if (Files.exists(authStore)) {
+                List<AuthUserJson> users = objectMapper.readValue(authStore.toFile(),
+                        new TypeReference<List<AuthUserJson>>() {});
+                dataMap.put(AUTH_USERS_FILE, users);
+            } else {
+                persistAuthUsers(getData(AUTH_USERS_FILE, AuthUserJson.class));
+            }
+        } catch (IOException e) {
+            throw new IllegalStateException("Failed to initialize persistent account store.", e);
         }
     }
 
@@ -196,27 +216,8 @@ public class JsonLoaderService {
 
         updatedUsers.add(newUser);
 
-        Path filePath =
-                Paths.get(
-                        "src",
-                        "main",
-                        "resources",
-                        "data",
-                        "auth-users.json"
-                );
-
         try {
-
-            Files.createDirectories(
-                    filePath.getParent()
-            );
-
-            objectMapper
-                    .writerWithDefaultPrettyPrinter()
-                    .writeValue(
-                            filePath.toFile(),
-                            updatedUsers
-                    );
+            persistAuthUsers(updatedUsers);
 
             // Keep the in-memory copy synchronized.
             dataMap.put(
@@ -232,6 +233,39 @@ public class JsonLoaderService {
                     "Failed to save user to auth-users.json",
                     e
             );
+        }
+    }
+
+    public synchronized AuthUserJson updateAuthUser(AuthUserJson updatedUser) {
+        List<AuthUserJson> users = new ArrayList<>(getData(AUTH_USERS_FILE, AuthUserJson.class));
+        int index = -1;
+        for (int i = 0; i < users.size(); i++) {
+            if (users.get(i).id == updatedUser.id) { index = i; break; }
+        }
+        if (index < 0) throw new IllegalArgumentException("Account not found.");
+        users.set(index, updatedUser);
+        try {
+            persistAuthUsers(users);
+            dataMap.put(AUTH_USERS_FILE, users);
+            return updatedUser;
+        } catch (IOException e) {
+            throw new IllegalStateException("Failed to update account.", e);
+        }
+    }
+
+    private Path authUsersPath() {
+        return Paths.get(storageDirectory).resolve(AUTH_USERS_FILE);
+    }
+
+    private void persistAuthUsers(List<AuthUserJson> users) throws IOException {
+        Path target = authUsersPath();
+        Files.createDirectories(target.toAbsolutePath().getParent());
+        Path temp = target.resolveSibling(target.getFileName() + ".tmp");
+        objectMapper.writerWithDefaultPrettyPrinter().writeValue(temp.toFile(), users);
+        try {
+            Files.move(temp, target, StandardCopyOption.ATOMIC_MOVE, StandardCopyOption.REPLACE_EXISTING);
+        } catch (IOException unsupportedAtomicMove) {
+            Files.move(temp, target, StandardCopyOption.REPLACE_EXISTING);
         }
     }
 
@@ -267,6 +301,22 @@ public class JsonLoaderService {
         public String passwordHash;
 
         public String role;
+
+        public String name;
+
+        public Boolean emailVerified;
+
+        public String createdAt;
+
+        public String preferredCity;
+
+        public String googleSubject;
+
+        public Integer tokenVersion = 0;
+
+        public List<String> linkedProviders = new ArrayList<>(List.of("password"));
+
+        public Map<String, Boolean> notificationPreferences = new ConcurrentHashMap<>();
     }
 
     public static class MovieJson {
@@ -274,6 +324,9 @@ public class JsonLoaderService {
         public int id;
 
         public String title;
+
+        /** OMDb identifier for CineTickets-only booking identities; null for legacy catalog movies. */
+        public String imdbId;
 
         public String description;
 
@@ -331,14 +384,19 @@ public class JsonLoaderService {
 
         public List<String> facilities;
 
+        public List<String> formats;
+
         public String state;
     }
 
     public static class ShowJson {
 
-        public int id;
+        public long id;
 
         public int movieId;
+
+        /** Human-readable snapshot for booking history; absent in old schedule files. */
+        public String movieTitle;
 
         public int cinemaId;
 
